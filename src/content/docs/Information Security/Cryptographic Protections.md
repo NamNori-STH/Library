@@ -32,7 +32,17 @@ This policy applies to all subsidiaries (e.g., FRHC, LX), their systems, network
 - CRY-08: Public Key Infrastructure (PKI).
 - CRY-09: Cryptographic Key Management.
 
-## 5.0 Revision Tracking
+## 5.0 Related Policies, Standards and Procedures
+
+### LabXChange
+
+- [Cryptographic Protections Standard](https://library.labxchange.io)
+
+### FrontRunnerHC
+
+- [Cryptographic Protections Standard](https://library.frhc.com/Information%20Security/Policies/11%20-%20Cryptographic%20Protections/)
+
+## 6.0 Revision Tracking
 
 | Rev | Description | Date | Approved |
 | --- | ----------- | ---- | -------- |
