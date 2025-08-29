@@ -10,14 +10,21 @@ export default defineConfig({
 			description: 'Corporate library for policies',
 			sidebar: [
 				{
-					label: 'Policies',
+					label: 'HR Policies',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Information Security Program', slug: 'policies/information-security-program'},
-						{ label: 'Access Control', slug: 'policies/access-control'},
-						{ label: 'Cryptographic Protections', slug: 'policies/cryptographic-protections'},
-						{ label: 'Asset & Configuration Management', slug: 'policies/asset-config-management'},
-						{ label: 'Third-Party Management', slug: 'policies/third-party-management'},
+						{ label: 'Acceptable Use Policy', slug: 'hr/acceptableuse'},
+					],
+				},
+				{
+					label: 'InfoSec Policies',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'Information Security Program', slug: 'information-security/information-security-program'},
+						{ label: 'Access Control', slug: 'information-security/access-control'},
+						{ label: 'Cryptographic Protections', slug: 'information-security/cryptographic-protections'},
+						{ label: 'Asset & Configuration Management', slug: 'information-security/asset-config-management'},
+						{ label: 'Third-Party Management', slug: 'information-security/third-party-management'},
 					],
 				},
 			],
