@@ -6,7 +6,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'Summit Technology Holdings Corporate Library',
+			title: 'Summit Technology Holdings Corporate Policies',
 			description: 'Corporate library for policies',
 			sidebar: [
 				{

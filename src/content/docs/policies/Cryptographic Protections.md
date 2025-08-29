@@ -21,7 +21,7 @@ This policy applies to all subsidiaries (e.g., FRHC, LX), their systems, network
 - Encryption keys must be securely managed, rotated annually (or upon compromise), and protected against unauthorized access.
 - Subsidiaries may establish local standards tailored to their hosting environment but must not weaken these requirements.
 
-## 4.0 SCF Mapping (Required Controls)
+## 4.0 SCF Control Mapping
 
 - CRY-01: Use of Cryptographic Controls.
 - CRY-03: Transmission Confidentiality.
