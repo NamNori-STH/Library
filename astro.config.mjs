@@ -12,7 +12,7 @@ export default defineConfig({
 			    {
 					label: 'About',
 					items: [
-						//{ label: 'How to Use This Site', slug: 'about/index' },
+						{ label: 'How to Use This Site', slug: 'index' },
 					],
 		        },
 				{
@@ -25,13 +25,13 @@ export default defineConfig({
 						]
 						},
 						{
-						label: 'Handbooks',
+						label: 'Procedures',
 						items: [
 							//{ label: 'Policies', slug: 'departments/hr/policies/' },
 						]
-						},
+						},						
 						{
-						label: 'Templates',
+						label: 'Handbooks',
 						items: [
 							//{ label: 'Policies', slug: 'departments/hr/policies/' },
 						]
