@@ -9,12 +9,6 @@ export default defineConfig({
 			title: 'Summit Technology Holdings Corporate Policies',
 	        description: 'Corporate library for STH policies, standards, and governance',
 			sidebar: [
-			    {
-					label: 'About',
-					items: [
-						{ label: 'How to Use This Site', slug: 'index' },
-					],
-		        },
 				{
 					label: 'Company',
 					items: [
