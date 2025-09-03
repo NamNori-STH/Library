@@ -13,17 +13,29 @@ export default defineConfig({
 					label: 'About',
 					items: [
 						//{ label: 'How to Use This Site', slug: 'about/index' },
-						//{ label: 'Style Guide', slug: 'about/style-guide' },
-						//{ label: 'Changelog', slug: 'about/changelog' },
 					],
 		        },
 				{
 					label: 'Company',
 					items: [
-						//{ label: 'Policies', slug: 'company/policies/' },
-						//{ label: 'Procedures', slug: 'company/procedures/' },
-						//{ label: 'Handbooks', slug: 'company/handbooks/' },
-						//{ label: 'Templates', slug: 'company/templates/' },
+						{
+						label: 'Policies',
+						items: [
+							//{ label: 'Policies', slug: 'departments/hr/policies/' },
+						]
+						},
+						{
+						label: 'Handbooks',
+						items: [
+							//{ label: 'Policies', slug: 'departments/hr/policies/' },
+						]
+						},
+						{
+						label: 'Templates',
+						items: [
+							//{ label: 'Policies', slug: 'departments/hr/policies/' },
+						]
+						},
 					],
 				},
 				{
@@ -32,44 +44,84 @@ export default defineConfig({
 					{
 					label: 'HR',
 					items: [
-						//{ label: 'Policies', slug: 'departments/hr/policies/' },
-						//{ label: 'Procedures', slug: 'departments/hr/procedures/' },
-						//{ label: 'Guides', slug: 'departments/hr/guides/' },
-						//{ label: 'Forms', slug: 'departments/hr/forms/' },
-						//{ label: 'Onboarding', slug: 'departments/hr/onboarding/' },
-						//{ label: 'Acceptable Use Policy', slug: 'hr/acceptableuse'},
+						{
+						label: 'Policies',
+						items: [
+							{ label: 'Acceptable Use Policy', slug: 'departments/hr/policies/acceptableuse' },
+						]
+						},
+						{
+						label: 'Procedures',
+						items: [
+							//{ label: 'Policies', slug: 'departments/hr/policies/' },
+						]
+						},
+						{
+						label: 'Guides',
+						items: [
+							//{ label: 'Policies', slug: 'departments/hr/policies/' },
+						]
+						},
+						{
+						label: 'Forms',
+						items: [
+							//{ label: 'Policies', slug: 'departments/hr/policies/' },
+						]
+						},
 					],
 					},
 					{
 					label: 'Finance',
 					items: [
-						//{ label: 'Policies', slug: 'departments/finance/policies/' },
-						//{ label: 'Procedures', slug: 'departments/finance/procedures/' },
-						//{ label: 'Guides', slug: 'departments/finance/guides/' },
-						//{ label: 'Forms', slug: 'departments/finance/forms/' },
+						{
+						label: 'Policies',
+						items: [
+							//{ label: 'Policies', slug: 'departments/finance/policies/' },
+						]
+						},
+						{
+						label: 'Procedures',
+						items: [
+							//{ label: 'Policies', slug: 'departments/finance/policies/' },
+						]
+						},
+						{
+						label: 'Guides',
+						items: [
+							//{ label: 'Policies', slug: 'departments/finance/policies/' },
+						]
+						},
+						{
+						label: 'Forms',
+						items: [
+							//{ label: 'Policies', slug: 'departments/finance/policies/' },
+						]
+						},
 					],
 					},
 					{
 					label: 'Information Security',
 					items: [
-						//{ label: 'Policies', slug: 'departments/infosec/policies/' },
-						//{ label: 'Standards', slug: 'departments/infosec/standards/' },
-						//{ label: 'Control Objectives', slug: 'departments/infosec/control-objectives/' },
-						//{ label: 'Control Catalog', slug: 'departments/infosec/control-catalog/' },
-						//{ label: 'Procedures', slug: 'departments/infosec/procedures/' },
-						//{ label: 'Mappings', slug: 'departments/infosec/mappings/' },
-						//{ label: 'Registers', slug: 'departments/infosec/registers/' },
-						//{ label: 'Evidence Indexes', slug: 'departments/infosec/evidence-indexes/' },
+						{
+						label: 'Policies',
+						items: [
+							{ label: 'Cryptographic Protections', slug: 'departments/information-security/policies/cryptographic-protections'},
+						]
+						},
+						{
+						label: 'Standards',
+						items: [
+							//{ label: 'Policies', slug: 'departments/finance/policies/' },
+						]
+						},
+						{
+						label: 'Procedures',
+						items: [
+							//{ label: 'Policies', slug: 'departments/finance/policies/' },
+						]
+						},
 					],
 					},
-				],
-				},
-				{
-				label: 'Admin',
-				items: [
-					//{ label: 'Owners', slug: 'admin/owners' },
-					//{ label: 'Review Calendar', slug: 'admin/review-calendar' },
-					//{ label: 'Templates', slug: 'admin/templates/' },
 				],
 				},
 			],								
