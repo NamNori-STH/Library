@@ -5,7 +5,12 @@ title: Cryptographic Protections
 
 **Organization:** Summit Technology Holdings, LLC (STH)  
 **Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange, LLC)  
-**Framework Reference:** Secure Controls Framework (SCF) – Cryptographic Protections (CRY)  
+**Framework Reference:** Secure Controls Framework (SCF) – Cryptographic Protections (CRY)
+
+**Subsidiary References:**
+
+- [LabXChange, LLC - Cryptographic Protections Standard](https://library.labxchange.io/Information%20Security/Policies/CryptographicProtections/)
+- [FrontRunnerHC, Inc - Cryptographic Protections Standard](https://library.frhc.com/Information%20Security/Policies/11%20-%20Cryptographic%20Protections/)
 
 ---
 
