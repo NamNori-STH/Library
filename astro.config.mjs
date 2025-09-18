@@ -99,6 +99,7 @@ export default defineConfig({
 						{
 						label: 'Policies',
 						items: [
+							{ label: 'Access Control', slug: 'departments/information-security/policies/access-control'},							
 							{ label: 'Cryptographic Protections', slug: 'departments/information-security/policies/cryptographic-protections'},
 						]
 						},
