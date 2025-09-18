@@ -101,6 +101,7 @@ export default defineConfig({
 						items: [
 							{ label: 'Access Control', slug: 'departments/information-security/policies/access-control'},							
 							{ label: 'Cryptographic Protections', slug: 'departments/information-security/policies/cryptographic-protections'},
+							{ label: 'Third Party Management', slug: 'departments/information-security/policies/third-party-management'},							
 						]
 						},
 						{
