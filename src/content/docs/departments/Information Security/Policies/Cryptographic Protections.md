@@ -115,7 +115,13 @@ Subsidiaries may leverage cloud-native solutions (e.g., AWS KMS, Azure Key Vault
 
 ---
 
-## 11. References
+## 11. Enforcement
+
+Violations of this policy may result in disciplinary action, up to and including termination of employment, contract suspension, or legal action depending on severity. Summit Technology Holdings reserves the right to revoke access privileges at any time to protect its systems and data.  
+
+---
+
+## 12. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.312(a)(2)(iv), §164.312(e)(1)  
@@ -133,7 +139,7 @@ Subsidiaries may leverage cloud-native solutions (e.g., AWS KMS, Azure Key Vault
 
 ---
 
-## 12. Revision Tracking
+## 13. Revision Tracking
 
 | Rev | Description | Date | Approved |
 | --- | ----------- | ---- | -------- |
