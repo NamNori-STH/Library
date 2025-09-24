@@ -1,5 +1,5 @@
 ---
-title: Access Control
+title: Identification & Authentication
 ---
 
 **Organization:** Summit Technology Holdings, LLC (STH)  

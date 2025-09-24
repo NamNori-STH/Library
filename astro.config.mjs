@@ -99,10 +99,10 @@ export default defineConfig({
 						{
 						label: 'Policies',
 						items: [
-							{ label: 'Access Control', slug: 'departments/information-security/policies/access-control'},
 							{ label: 'Asset & Configuration Management', slug: 'departments/information-security/policies/asset-config-management'},
 							{ label: 'Business Continuity', slug: 'departments/information-security/policies/businesscontinuity'},
 							{ label: 'Cryptographic Protections', slug: 'departments/information-security/policies/cryptographic-protections'},
+							{ label: 'Identification & Authentication', slug: 'departments/information-security/policies/16---identification-&-authentication'},
 							{ label: 'Third Party Management', slug: 'departments/information-security/policies/third-party-management'},
 							{ label: 'Vulnerability & Patch Management', slug: 'departments/information-security/policies/vulnerabilitypatchmgmt'},
 						]
