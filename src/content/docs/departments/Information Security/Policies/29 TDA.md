@@ -6,98 +6,98 @@ title: Technology Development & Acquisition
 **Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange, LLC)  
 **Framework Reference:** Secure Controls Framework (SCF) – Technology Development & Acquisition (TDA)
 
-**Subsidiary References:**
+**Subsidiary References (planned):**
 
-- [LabXChange, LLC – Secure Development Lifecycle (SDLC)](https://library.labxchange.io/Information%20Security/Policies/SDLC/)  
-- [FrontRunnerHC, Inc – Secure Development Lifecycle (SDLC)](https://library.frhc.com/Information%20Security/Policies/17%20-%20SDLC/)  
+- LabXChange, LLC – Secure Development Lifecycle (SDLC) *(to be published)*  
+- FrontRunnerHC, Inc – Secure Development Lifecycle (SDLC) *(to be published)*  
 
 ---
 
 ## 1. Purpose
 
-Summit Technology Holdings, LLC (STH) is committed to ensuring that all technology developed, acquired, or implemented across the enterprise incorporates security and compliance considerations from the outset. Secure technology development and acquisition are critical to protecting electronic protected health information (ePHI), financial data, intellectual property, and other sensitive assets.  
+Summit Technology Holdings, LLC (STH) requires that all technology development and acquisition activities incorporate security and compliance considerations from the outset. Secure technology practices help protect electronic protected health information (ePHI), financial data, intellectual property, and other sensitive business information.  
 
-This policy establishes the **enterprise-wide requirements for technology development and acquisition (TDA)**. Subsidiaries are required to implement and maintain **documented Secure Development Lifecycles (SDLCs)** tailored to their environments. Each subsidiary’s SDLC must align with this policy and may not weaken or contradict enterprise requirements.  
+This policy establishes the **enterprise-wide requirements for secure technology development and acquisition**. Each subsidiary must maintain its own documented **Secure Development Lifecycle (SDLC)** aligned to this policy, tailored to its technology stack and business needs.  
 
 ---
 
 ## 2. Applicability
 
-This policy applies to all technology systems, applications, platforms, services, and tools that are developed, configured, or acquired by Summit or its subsidiaries. It includes custom-built applications, commercial off-the-shelf (COTS) software, cloud services, and open-source components.  
+This policy applies to all systems, applications, platforms, and tools developed, configured, or acquired by Summit or its subsidiaries. It covers custom development, commercial off-the-shelf (COTS) software, SaaS/cloud services, and open-source components.  
 
 ---
 
-## 3. Secure Development Lifecycle (SDLC)
+## 3. Technology Development & Acquisition Program
 
-Each subsidiary must establish and follow an SDLC that integrates security and privacy requirements throughout the development process, from requirements gathering through design, development, testing, deployment, and maintenance. Subsidiary SDLCs must be documented and reviewed annually. Summit will provide oversight to ensure alignment with enterprise requirements.  
+STH will establish enterprise-wide requirements for secure technology development and acquisition. Subsidiaries must align their SDLCs to include security requirements in design, build, testing, and release. All acquisitions must undergo security due diligence before being placed into production.  
 
-- **SCF Mapping:** TDA-01 (*Secure Development Lifecycle (SDLC)*)  
-
----
-
-## 4. Code Repositories & Version Control
-
-Subsidiaries must use secure, enterprise-approved version control and code repository systems for all software development. Access must be restricted to authorized users, with multi-factor authentication (MFA) enforced. All code must be versioned, with change history maintained for audit and accountability purposes.  
-
-- **SCF Mapping:** TDA-06 (*Secure Code Repositories & Version Control*)  
+- **SCF Mapping:** TDA-01 (*Technology Development & Acquisition*)  
 
 ---
 
-## 5. Secure Coding Standards
+## 4. Secure Coding
 
-All custom application development must follow secure coding standards aligned with industry best practices (e.g., OWASP, CERT). Subsidiaries must ensure that developers are trained in secure coding techniques and that code reviews include security-focused checks. Summit will validate that each subsidiary’s SDLC incorporates secure coding practices.  
+All software development must follow secure coding practices. Subsidiaries must maintain written secure coding standards and provide secure coding training for developers at least annually. Peer reviews must verify that code meets security requirements, and any security-related defects must be tracked to closure.  
 
-- **SCF Mapping:** TDA-07 (*Secure Coding Standards*)  
-
----
-
-## 6. Static & Dynamic Code Analysis
-
-Subsidiaries must perform both static application security testing (SAST) and dynamic application security testing (DAST) as part of their SDLCs. Automated tools should be integrated into the development pipeline where feasible. Detected vulnerabilities must be remediated according to Summit’s enterprise vulnerability management timelines.  
-
-- **SCF Mapping:** TDA-08 (*Static & Dynamic Code Analysis*)  
+- **SCF Mapping:** TDA-06 (*Secure Coding*)  
 
 ---
 
-## 7. Third-Party Software Component Analysis
+## 5. Secure Development Environments
 
-Subsidiaries must maintain visibility into third-party and open-source software components used in their applications. Software composition analysis (SCA) tools should be used to identify vulnerabilities in dependencies and libraries. Known vulnerable components must be patched, replaced, or mitigated in a timely manner.  
+Subsidiaries must use secure and hardened development environments. Development tools and pipelines must enforce least-privilege access, multi-factor authentication (MFA), secure secrets management, and timely patching. Build provenance and logging must be preserved to maintain accountability.  
 
-- **SCF Mapping:** TDA-10 (*Third-Party Software Component Analysis*)  
+- **SCF Mapping:** TDA-07 (*Secure Development Environments*)  
+
+---
+
+## 6. Separation of Development, Testing, and Operational Environments
+
+Development, test, and production environments must remain logically or physically separated. Access to production must be limited, logged, and subject to change management controls. CI/CD pipelines must enforce environment-specific approval gates.  
+
+- **SCF Mapping:** TDA-08 (*Separation of Development, Testing and Operational Environments*)  
+
+---
+
+## 7. Use of Live Data
+
+Production (“live”) data must not be used in development or testing environments unless explicitly approved via a documented exception. Exceptions must include business justification, minimization, masking or anonymization, encryption, access restrictions, retention controls, and disposal verification. Synthetic or anonymized data must be used by default.  
+
+- **SCF Mapping:** TDA-10 (*Use of Live Data*)  
 
 ---
 
 ## 8. Subsidiary Responsibilities
 
-- Develop and maintain a documented SDLC aligned with this policy.  
-- Train developers and technical staff on secure coding practices and SDLC requirements.  
-- Incorporate automated tools (e.g., SAST, DAST, SCA) into the development workflow.  
-- Maintain secure repositories with access controls and audit logging.  
-- Ensure that third-party software and libraries are actively monitored for vulnerabilities.  
+- Maintain a documented SDLC aligned with Summit’s policy.  
+- Train developers in secure coding and SDLC practices.  
+- Implement automated security testing (e.g., static/dynamic analysis, composition analysis) in pipelines.  
+- Ensure repositories, dependencies, and environments are securely managed.  
+- Apply masking and anonymization when using live data under approved exceptions.  
 
 ---
 
 ## 9. Summit Oversight
 
 Summit will:  
-
-- Define enterprise minimum requirements for secure development and acquisition.  
-- Review subsidiary SDLCs annually to ensure compliance with this policy.  
-- Audit repositories, test results, and remediation evidence as part of enterprise security governance.  
+- Define minimum secure development and acquisition requirements.  
+- Review subsidiary SDLCs annually for compliance.  
+- Audit repositories, testing results, and exception approvals.  
+- Require remediation of deficiencies within defined timelines.  
 
 ---
 
 ## 10. Compliance & Governance
 
-- Subsidiaries must maintain evidence of SDLC documentation, code review logs, static/dynamic analysis reports, and third-party component reviews.  
-- Summit’s Security and Compliance teams will perform periodic audits of development and acquisition practices.  
-- Non-compliance with this policy will result in remediation actions and may trigger escalation to executive management.  
+- Subsidiaries must maintain evidence such as SDLC documentation, code review logs, security testing reports, and exception requests.  
+- Summit’s Security and Compliance teams will perform regular oversight and audits.  
+- Non-compliance will require remediation and may be escalated to executive management.  
 
 ---
 
 ## 11. Enforcement
 
-Violations of this policy may result in disciplinary action, up to and including termination of employment, contract suspension, or legal action depending on severity. Summit Technology Holdings reserves the right to revoke or restrict access to development environments that do not comply with this policy.  
+Violations of this policy may result in disciplinary action, termination of employment, suspension of vendor contracts, or other legal remedies. Summit may revoke or restrict access to development environments that fail to meet policy requirements.  
 
 ---
 
@@ -108,11 +108,11 @@ Violations of this policy may result in disciplinary action, up to and including
   - AICPA SOC 2 Trust Services Criteria: Security (CC7.2, CC7.3, CC7.4), Processing Integrity (PI1.1, PI1.2)  
 
 - **Framework Alignment:**  
-  - TDA-01 – Secure Development Lifecycle (SDLC)  
-  - TDA-06 – Secure Code Repositories & Version Control  
-  - TDA-07 – Secure Coding Standards  
-  - TDA-08 – Static & Dynamic Code Analysis  
-  - TDA-10 – Third-Party Software Component Analysis  
+  - TDA-01 – Technology Development & Acquisition  
+  - TDA-06 – Secure Coding  
+  - TDA-07 – Secure Development Environments  
+  - TDA-08 – Separation of Development, Testing and Operational Environments  
+  - TDA-10 – Use of Live Data  
 
 ---
 
