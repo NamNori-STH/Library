@@ -1,5 +1,5 @@
 ---
-title: Business Continuity
+title: Business Continuity & Disaster Recovery
 ---
 
 **Organization:** Summit Technology Holdings, LLC (STH)  
