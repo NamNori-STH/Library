@@ -99,7 +99,7 @@ export default defineConfig({
 						{
 						label: 'Policies',
 						items: [
-							{ label: 'Asset & Configuration Management', slug: 'departments/information-security/policies/asset-config-management'},
+							{ label: 'Asset Management', slug: 'departments/information-security/policies/03-ast'},
 							{ label: 'Business Continuity & Disaster Recovery', slug: 'departments/information-security/policies/04-bcd'},
 							{ label: 'Cryptographic Protections', slug: 'departments/information-security/policies/11-cry'},
 							{ label: 'Identification & Authentication', slug: 'departments/information-security/policies/16-iac'},

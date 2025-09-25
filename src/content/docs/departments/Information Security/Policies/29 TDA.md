@@ -67,27 +67,7 @@ Production (“live”) data must not be used in development or testing environm
 
 ---
 
-## 8. Subsidiary Responsibilities
-
-- Maintain a documented SDLC aligned with Summit’s policy.  
-- Train developers in secure coding and SDLC practices.  
-- Implement automated security testing (e.g., static/dynamic analysis, composition analysis) in pipelines.  
-- Ensure repositories, dependencies, and environments are securely managed.  
-- Apply masking and anonymization when using live data under approved exceptions.  
-
----
-
-## 9. Summit Oversight
-
-Summit will:  
-- Define minimum secure development and acquisition requirements.  
-- Review subsidiary SDLCs annually for compliance.  
-- Audit repositories, testing results, and exception approvals.  
-- Require remediation of deficiencies within defined timelines.  
-
----
-
-## 10. Compliance & Governance
+## 8. Compliance & Governance
 
 - Subsidiaries must maintain evidence such as SDLC documentation, code review logs, security testing reports, and exception requests.  
 - Summit’s Security and Compliance teams will perform regular oversight and audits.  
@@ -95,13 +75,13 @@ Summit will:
 
 ---
 
-## 11. Enforcement
+## 9. Enforcement
 
 Violations of this policy may result in disciplinary action, termination of employment, suspension of vendor contracts, or other legal remedies. Summit may revoke or restrict access to development environments that fail to meet policy requirements.  
 
 ---
 
-## 12. References
+## 10. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.308(a)(1)(ii)(B) (Risk Management)  
@@ -116,7 +96,7 @@ Violations of this policy may result in disciplinary action, termination of empl
 
 ---
 
-## 13. Revision Tracking
+## 11. Revision Tracking
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |
