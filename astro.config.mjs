@@ -102,6 +102,7 @@ export default defineConfig({
 							{ label: 'Artificial & Autonomous Technologies', slug: 'departments/information-security/policies/02-aat'},
 							{ label: 'Asset Management', slug: 'departments/information-security/policies/03-ast'},
 							{ label: 'Business Continuity & Disaster Recovery', slug: 'departments/information-security/policies/04-bcd'},
+							{ label: 'Capacity & Performance Planning', slug: 'departments/information-security/policies/05-cap'},							
 							{ label: 'Cryptographic Protections', slug: 'departments/information-security/policies/11-cry'},
 							{ label: 'Identification & Authentication', slug: 'departments/information-security/policies/16-iac'},
 							{ label: 'Technology Devopment & Acquisition', slug: 'departments/information-security/policies/29-tda'},							
