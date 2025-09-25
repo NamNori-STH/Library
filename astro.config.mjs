@@ -99,7 +99,7 @@ export default defineConfig({
 						{
 						label: 'Policies',
 						items: [
-							{ label: 'Artificial & Autonomous Technologies', slug: 'departments/information-security/policies/02-ast'},
+							{ label: 'Artificial & Autonomous Technologies', slug: 'departments/information-security/policies/02-aat'},
 							{ label: 'Asset Management', slug: 'departments/information-security/policies/03-ast'},
 							{ label: 'Business Continuity & Disaster Recovery', slug: 'departments/information-security/policies/04-bcd'},
 							{ label: 'Cryptographic Protections', slug: 'departments/information-security/policies/11-cry'},
