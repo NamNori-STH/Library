@@ -105,6 +105,7 @@ export default defineConfig({
 							{ label: 'Capacity & Performance Planning', slug: 'departments/information-security/policies/05-cap'},
 							{ label: 'Change Management', slug: 'departments/information-security/policies/06-chg'},															
 							{ label: 'Cloud Security', slug: 'departments/information-security/policies/07-cld'},
+							{ label: 'Compliance', slug: 'departments/information-security/policies/08-cpl'},
 							{ label: 'Cryptographic Protections', slug: 'departments/information-security/policies/11-cry'},
 							{ label: 'Identification & Authentication', slug: 'departments/information-security/policies/16-iac'},
 							{ label: 'Technology Devopment & Acquisition', slug: 'departments/information-security/policies/29-tda'},							
