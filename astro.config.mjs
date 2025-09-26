@@ -112,6 +112,7 @@ export default defineConfig({
 							{ label: 'Cryptographic Protections', slug: 'departments/information-security/policies/11-cry'},
 							{ label: 'Data Classification & Handling', slug: 'departments/information-security/policies/12-dch'},
 							{ label: 'Endpoint Security', slug: 'departments/information-security/policies/14-end'},
+							{ label: 'Human Resources Security', slug: 'departments/information-security/policies/15-hrs'},							
 							{ label: 'Identification & Authentication', slug: 'departments/information-security/policies/16-iac'},
 							{ label: 'Technology Devopment & Acquisition', slug: 'departments/information-security/policies/29-tda'},							
 							{ label: 'Third Party Management', slug: 'departments/information-security/policies/30-tpm'},
