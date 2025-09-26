@@ -110,6 +110,7 @@ export default defineConfig({
 							{ label: 'Configuration Management', slug: 'departments/information-security/policies/09-cfg'},
 							{ label: 'Continuous Monitoring', slug: 'departments/information-security/policies/10-mon'},							
 							{ label: 'Cryptographic Protections', slug: 'departments/information-security/policies/11-cry'},
+							{ label: 'Data Classification & Handling', slug: 'departments/information-security/policies/12-dch'},							
 							{ label: 'Identification & Authentication', slug: 'departments/information-security/policies/16-iac'},
 							{ label: 'Technology Devopment & Acquisition', slug: 'departments/information-security/policies/29-tda'},							
 							{ label: 'Third Party Management', slug: 'departments/information-security/policies/30-tpm'},
