@@ -118,6 +118,7 @@ export default defineConfig({
 							{ label: 'Information Assurance', slug: 'departments/information-security/policies/18-iao'},
 							{ label: 'Mobile Device Management', slug: 'departments/information-security/policies/20-mdm'},						
 							{ label: 'Network Security', slug: 'departments/information-security/policies/21-net'},	
+							{ label: 'Physical & Environmental Security', slug: 'departments/information-security/policies/22-pes'},							
 							{ label: 'Technology Devopment & Acquisition', slug: 'departments/information-security/policies/29-tda'},							
 							{ label: 'Third Party Management', slug: 'departments/information-security/policies/30-tpm'},
 							{ label: 'Vulnerability & Patch Management', slug: 'departments/information-security/policies/32-vpm'},
