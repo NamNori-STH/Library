@@ -121,6 +121,7 @@ export default defineConfig({
 							{ label: 'Physical & Environmental Security', slug: 'departments/information-security/policies/22-pes'},
 							{ label: 'Data Privacy', slug: 'departments/information-security/policies/23-pri'},
 							{ label: 'Risk Management', slug: 'departments/information-security/policies/25-rsk'},																								
+							{ label: 'Security Awareness Training', slug: 'departments/information-security/policies/28-sat'},	
 							{ label: 'Technology Devopment & Acquisition', slug: 'departments/information-security/policies/29-tda'},							
 							{ label: 'Third Party Management', slug: 'departments/information-security/policies/30-tpm'},
 							{ label: 'Vulnerability & Patch Management', slug: 'departments/information-security/policies/32-vpm'},
