@@ -124,6 +124,7 @@ export default defineConfig({
 							{ label: 'Security Awareness Training', slug: 'departments/information-security/policies/28-sat'},	
 							{ label: 'Technology Devopment & Acquisition', slug: 'departments/information-security/policies/29-tda'},							
 							{ label: 'Third Party Management', slug: 'departments/information-security/policies/30-tpm'},
+							{ label: 'Threat Management', slug: 'departments/information-security/policies/31-thr'},
 							{ label: 'Vulnerability & Patch Management', slug: 'departments/information-security/policies/32-vpm'},
 						]
 						},
