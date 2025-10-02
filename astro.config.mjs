@@ -126,6 +126,7 @@ export default defineConfig({
 							{ label: 'Third Party Management', slug: 'departments/information-security/policies/30-tpm'},
 							{ label: 'Threat Management', slug: 'departments/information-security/policies/31-thr'},
 							{ label: 'Vulnerability & Patch Management', slug: 'departments/information-security/policies/32-vpm'},
+							{ label: 'Web Security', slug: 'departments/information-security/policies/33-web'},							
 						]
 						},
 						{
