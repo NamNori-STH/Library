@@ -42,6 +42,7 @@ export default defineConfig({
 						label: 'Policies',
 						items: [
 							{ label: 'Acceptable Use Policy', slug: 'departments/hr/policies/acceptableuse' },
+							{ label: 'Floating Holiday', slug: 'departments/hr/policies/floatingholiday' },							
 						]
 						},
 						{
