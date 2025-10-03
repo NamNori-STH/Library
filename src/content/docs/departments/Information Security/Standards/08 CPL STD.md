@@ -3,8 +3,11 @@ title: Compliance Standard
 ---
 
 **Organization:** Summit Technology Holdings, LLC (STH)  
-**Parent Policy Reference:** STH – Compliance Policy  
 **Framework Reference:** Secure Controls Framework (SCF) – Compliance (CPL)
+
+**Parent Policy Reference:**
+
+- [Summit Technology Holdings – Compliance Policy](departments/information-security/policies/08-cpl/)
 
 ---
 
@@ -94,8 +97,12 @@ Failure to supply timely, accurate evidence, implement required controls, or com
 
 ## 12. References
 
-- **Parent Policy:** STH – Compliance Policy  
-- **Regulatory/Frameworks (examples):** HIPAA Security Rule; AICPA SOC 2 Trust Services Criteria  
+- **Parent Policy:**  
+  - [Summit Technology Holdings – Compliance Policy](departments/information-security/policies/08-cpl/)
+
+- **Regulatory/Frameworks (examples):**  
+  - HIPAA Security Rule; AICPA SOC 2 Trust Services Criteria  
+
 - **Framework Alignment:**  
   - CPL-01 – Statutory, Regulatory & Contractual Compliance  
   - CPL-02 – Cybersecurity & Data Protection Controls Oversight  
