@@ -8,8 +8,7 @@ title: Threat Management
 
 **Subsidiary References:**  
 
-- LabXChange, LLC – Threat Management Standard *(to be published)*  
-- FrontRunnerHC, Inc – Threat Management Standard *(to be published)*  
+- Not applicable – Threat Management is centrally managed by Summit Technology Holdings, LLC.  
 
 ---
 

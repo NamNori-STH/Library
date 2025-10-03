@@ -8,8 +8,7 @@ title: Security Awareness & Training
 
 **Subsidiary References:**  
 
-- LabXChange, LLC – Security Awareness & Training Standard *(to be published)*  
-- FrontRunnerHC, Inc – Security Awareness & Training Standard *(to be published)*  
+- Not applicable – Security Awareness & Training is centrally managed by Summit Technology Holdings, LLC.  
 
 ---
 

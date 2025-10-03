@@ -8,8 +8,7 @@ title: Third Party Management
 
 **Subsidiary References:**
 
-- [LabXChange, LLC – Third Party Management Standard](https://library.labxchange.io/Information%20Security/Policies/ThirdPartyManagement/)  
-- [FrontRunnerHC, Inc – Third Party Management Standard](https://library.frhc.com/Information%20Security/Policies/13%20-%20Third%20Party%20Management/)  
+- Not applicable – Third Party Management is centrally managed by Summit Technology Holdings, LLC.  
 
 ---
 

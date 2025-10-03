@@ -10,6 +10,10 @@ title: Compliance
 
 - Not applicable – compliance is centrally managed by Summit Technology Holdings, LLC.  
 
+**Supporting Standard:**  
+
+- [Summit Technology Holdings – Compliance Standard](/departments/Information%20Security/Standards/08%20CPL%20STD.md)
+
 ---
 
 ## 1. Purpose
@@ -65,6 +69,9 @@ Violations of this policy, including failure to comply with compliance oversight
 ---
 
 ## 8. References
+
+- **Supporting Standard:**  
+  - [Summit Technology Holdings – Compliance Standard](/departments/Information%20Security/Standards/08%20CPL%20STD.md)
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.308(a)(8) (Evaluation)  
