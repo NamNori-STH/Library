@@ -9,13 +9,13 @@ title: Floating Holidays
 
 ## 1. Purpose
 
-Summit Technology Holdings, LLC (STH) requires that artificial intelligence (AI), machine learning (ML), robotic process automation (RPA), and other autonomous technologies be governed responsibly and safely. This policy establishes enterprise-wide requirements to manage risk, uphold accountability, and ensure compliance when these technologies support business operations or regulated workloads.  
+Summit Technology Holdings, LLC (STH) xyz. This policy xyz.  
 
 ---
 
 ## 2. Applicability
 
-This policy applies to all AI/ML/autonomous technologies developed, acquired, or deployed by STH or its subsidiaries, including internal builds, third-party tools, SaaS features, and embedded capabilities in platforms or devices.  
+This policy applies to all subsidiaries of STH.  
 
 ---
 
