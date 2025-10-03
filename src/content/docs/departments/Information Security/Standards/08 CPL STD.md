@@ -7,7 +7,7 @@ title: Compliance Standard
 
 **Parent Policy Reference:**
 
-- [Summit Technology Holdings – Compliance Policy](departments/information-security/policies/08-cpl/)
+- [Summit Technology Holdings – Compliance Policy](/departments/information-security/policies/08-cpl/)
 
 ---
 
@@ -91,17 +91,17 @@ Subsidiaries must: (1) designate a compliance point of contact; (2) implement ST
 
 ## 11. Enforcement
 
-Failure to supply timely, accurate evidence, implement required controls, or complete remediation may result in escalation, access restrictions, or contractual/disciplinary actions. STH may impose interim risk treatments when compliance gaps present material risk.
-
+Violations of this standard and related policies, including failure to comply with compliance oversight or audit activities, may result in disciplinary action, contract suspension, or legal action. 
 ---
 
 ## 12. References
 
 - **Parent Policy:**  
-  - [Summit Technology Holdings – Compliance Policy](departments/information-security/policies/08-cpl/)
+  - [Summit Technology Holdings – Compliance Policy](/departments/information-security/policies/08-cpl/)
 
-- **Regulatory/Frameworks (examples):**  
-  - HIPAA Security Rule; AICPA SOC 2 Trust Services Criteria  
+- **Regulatory Requirements:**  
+  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.308(a)(8) (Evaluation)  
+  - AICPA SOC 2 Trust Services Criteria: Security (CC1.1, CC7.2), Confidentiality (C1), Privacy (P8)  
 
 - **Framework Alignment:**  
   - CPL-01 – Statutory, Regulatory & Contractual Compliance  
