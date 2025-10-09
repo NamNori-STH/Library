@@ -134,6 +134,7 @@ export default defineConfig({
 						label: 'Standards',
 						items: [
 							{ label: 'Compliance', slug: 'departments/information-security/standards/08-cpl-std'},
+							{ label: 'Human Resources Security', slug: 'departments/information-security/standards/15-hrs-std'},								
 							{ label: 'Threat Management', slug: 'departments/information-security/standards/31-thr-std'},							
 						]
 						},
