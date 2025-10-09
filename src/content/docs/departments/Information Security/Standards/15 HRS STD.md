@@ -3,8 +3,11 @@ title: Human Resources Security Standard
 ---
 
 **Organization:** Summit Technology Holdings, LLC (STH)  
-**Parent Policy Reference:** [Summit Technology Holdings – Human Resources Security Policy](https://library.summittechnology.com/Information-Security/Policies/HumanResourcesSecurity)  
 **Framework Reference:** Secure Controls Framework (SCF) – Human Resources Security (HRS)
+
+**Parent Policy Reference:** 
+
+- [Summit Technology Holdings – Human Resources Security Policy](/departments/information-security/policies/15-hrs/)  
 
 ---
 
@@ -114,7 +117,8 @@ Failure to comply with this Standard, including unauthorized access, failure to 
 
 ## 15. References
 
-- **Parent Policy:** [STH – Human Resources Security Policy](https://library.summittechnology.com/Information-Security/Policies/HumanResourcesSecurity)  
+- **Parent Policy:**  
+  - [STH – Human Resources Security Policy](/departments/information-security/policies/15-hrs/)  
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.308(a)(3) (Workforce Security)  
@@ -138,4 +142,4 @@ Failure to comply with this Standard, including unauthorized access, failure to 
 
 | Rev | Description       | Date         | Approved |
 | --- | ----------------- | ------------ | -------- |
-| -   | Standard created  | October 2025 | CIO      |
+| -   | Standard created  | October 2025 | M Machin |
