@@ -81,7 +81,7 @@ STH delivers periodic compliance status reports and risk summaries to executive 
 
 ---
 
-## 10. Subsidiary Support Requirements
+## 10. Subsidiary Requirements
 
 Subsidiaries must: (1) designate a compliance point of contact; (2) implement STH-mandated controls/standards; (3) **produce evidence** on STH timelines; (4) execute remediation as directed; and (5) notify STH of system or contractual changes that may affect obligations. Subsidiaries **do not** maintain separate compliance programs or negotiate compliance positions independently.
 
@@ -92,6 +92,7 @@ Subsidiaries must: (1) designate a compliance point of contact; (2) implement ST
 ## 11. Enforcement
 
 Violations of this standard and related policies, including failure to comply with compliance oversight or audit activities, may result in disciplinary action, contract suspension, or legal action. 
+
 ---
 
 ## 12. References

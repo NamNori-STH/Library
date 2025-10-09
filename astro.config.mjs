@@ -134,12 +134,7 @@ export default defineConfig({
 						label: 'Standards',
 						items: [
 							{ label: 'Compliance', slug: 'departments/information-security/standards/08-cpl-std'},
-						]
-						},
-						{
-						label: 'Procedures',
-						items: [
-							//{ label: 'Policies', slug: 'departments/finance/policies/' },
+							{ label: 'Threat Management', slug: 'departments/information-security/standards/31-thr-std'},							
 						]
 						},
 					],
