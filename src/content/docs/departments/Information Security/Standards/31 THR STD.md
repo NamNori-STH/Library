@@ -59,10 +59,7 @@ STH performs centralized analysis of collected threat data. This includes correl
 
 ## 4. Governance & Oversight
 
-- The CIO is accountable for the operation of the threat management program.  
-- Subsidiaries must designate a security point of contact to receive and act on STH advisories.  
-- Subsidiary compliance with threat advisories is subject to STH oversight and review.  
-- Records of feeds, vendor subscriptions, advisories, and subsidiary responses must be retained in the enterprise evidence repository.  
+The Chief Information Officer (CIO) is responsible for managing and overseeing the enterprise threat management program. The CIO ensures that all threat intelligence collection, analysis, and communication activities are consistent with STH’s information security objectives and regulatory obligations.  
 
 ---
 

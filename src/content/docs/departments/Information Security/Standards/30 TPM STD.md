@@ -23,7 +23,9 @@ This Standard applies to all third parties that provide products or services to 
 
 ---
 
-## 3. Vendor Inventory & Classification
+## 3. Control Implementation
+
+### 3.1 Vendor Inventory & Classification
 
 STH maintains a centralized inventory of all vendors engaged by the organization or its subsidiaries. Each vendor is classified according to its criticality and access level—critical vendors, data-handling vendors, and system/network-access vendors receive heightened scrutiny. The vendor inventory is reviewed to ensure accuracy and completeness. Subsidiaries must notify STH of any new vendor requirements so the vendor can be properly classified and included in the centralized register.  
 
@@ -31,7 +33,7 @@ STH maintains a centralized inventory of all vendors engaged by the organization
 
 ---
 
-## 4. Vendor Risk Assessments
+### 3.2 Vendor Risk Assessments
 
 STH conducts security and risk assessments for all vendors that meet the applicability criteria before any contract is executed. The assessment evaluates the vendor’s information security practices, data protection capabilities, and compliance posture against relevant frameworks such as HIPAA and SOC 2. For high-risk vendors, STH may request evidence such as SOC 2 Type II reports, HIPAA attestations, penetration testing summaries, or security questionnaires. Risk assessments are repeated periodically based on vendor classification, or upon significant changes to service scope or ownership.  
 
@@ -39,7 +41,7 @@ STH conducts security and risk assessments for all vendors that meet the applica
 
 ---
 
-## 5. Contractual Requirements
+### 3.3 Contractual Requirements
 
 All vendor contracts, including Business Associate Agreements (BAAs), are negotiated, reviewed, and executed by STH. Each contract must contain data protection provisions appropriate to the sensitivity of the information shared, including confidentiality clauses, incident notification obligations, right-to-audit provisions, and data return or destruction terms. Subsidiaries are prohibited from executing independent contracts or amending existing vendor agreements without STH approval.  
 
@@ -47,7 +49,7 @@ All vendor contracts, including Business Associate Agreements (BAAs), are negoti
 
 ---
 
-## 6. Monitoring & Oversight
+### 3.4 Monitoring & Oversight
 
 STH maintains ongoing oversight of all vendors through periodic monitoring and reassessment. All third-party vendors must be evaluated and classified based on the potential risk they pose to the organization. This classification considers the vendor’s access to systems, networks, and data—especially ePHI—and the criticality of their services to business operations. The classification determines the depth of due diligence, as well as the frequency and scope of ongoing reviews.
 
@@ -65,7 +67,7 @@ STH’s Security and Compliance teams are responsible for coordinating monitorin
 
 ---
 
-## 7. Termination of Vendor Relationships
+### 3.5 Termination of Vendor Relationships
 
 When a vendor relationship ends, STH ensures that all logical and physical access to company and subsidiary systems is revoked. Vendors are required to return or securely destroy any STH or subsidiary data and to certify completion of these actions in writing. Termination procedures are documented, reviewed, and retained by STH as part of vendor lifecycle management records. Subsidiaries must not manage vendor disengagements independently, but instead coordinate with STH to confirm proper closure.  
 
@@ -73,25 +75,25 @@ When a vendor relationship ends, STH ensures that all logical and physical acces
 
 ---
 
-## 8. Subsidiary Participation
+### 3.6 Subsidiary Participation
 
 Subsidiaries are required to participate in the STH vendor management process by submitting new vendor requests through STH’s procurement and compliance workflow. Each request must include a justification for the service, data classification impact, and operational need. Subsidiaries must cooperate fully with STH-led assessments and monitoring activities and must not engage any vendor outside the enterprise process without explicit written approval from the CIO or legal counsel.
 
 ---
 
-## 9. Governance & Oversight
+## 4. Governance & Oversight
 
 The CIO is responsible for oversight of the enterprise vendor management program, supported by Legal Counsel for contract review and by the Security and Compliance teams for ongoing monitoring. STH maintains complete documentation of vendor inventories, risk assessments, contracts, and monitoring results. Periodic internal reviews are performed to verify program effectiveness, identify gaps, and ensure regulatory alignment. Non-compliance or deviations from this Standard will be escalated to executive leadership for corrective action.
 
 ---
 
-## 10. Enforcement
+## 5. Enforcement
 
 Violations of this Standard, including failure to comply with vendor management processes or unauthorized vendor engagements, may result in disciplinary action, termination of contracts, or legal proceedings. STH reserves the right to immediately suspend or terminate vendor access to systems and data when security or compliance risks are identified.
 
 ---
 
-## 11. References
+## 6. References
 
 - **Parent Policy:**  
   -[STH – Third Party Management Policy](/departments/information-security/policies/30-tpm/)
@@ -109,7 +111,7 @@ Violations of this Standard, including failure to comply with vendor management 
 
 ---
 
-## 12. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description       | Date         | Approved |
 | --- | ----------------- | ------------ | -------- |

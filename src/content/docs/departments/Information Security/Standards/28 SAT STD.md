@@ -23,7 +23,9 @@ This Standard applies to all STH employees, contractors, and third-party personn
 
 ---
 
-## 3. Cybersecurity & Data Privacy-Minded Workforce
+## 3. Control Implementation
+
+### 3.1 Cybersecurity & Data Privacy-Minded Workforce
 
 STH promotes a security-conscious culture by embedding cybersecurity and data privacy awareness into everyday business practices. All personnel must recognize that protecting sensitive information is a shared responsibility. To reinforce this, STH’s training content emphasizes real-world threat scenarios, such as phishing and social engineering, and encourages employees to remain vigilant and report suspicious activities promptly. The CIO oversees the enterprise awareness program, ensuring that it remains relevant and aligned with evolving risks.  
 
@@ -31,7 +33,7 @@ STH promotes a security-conscious culture by embedding cybersecurity and data pr
 
 ---
 
-## 4. Awareness Training
+### 3.2 Awareness Training
 
 All personnel must complete general cybersecurity and data privacy awareness training upon hire and annually thereafter. The training covers key topics such as secure data handling, password management, physical security, phishing detection, and acceptable use of corporate resources. Additional awareness materials—such as email campaigns, posters, and simulated phishing exercises—are distributed periodically to reinforce learning.  
 
@@ -39,7 +41,7 @@ All personnel must complete general cybersecurity and data privacy awareness tra
 
 ---
 
-## 5. Role-Based Training
+### 3.3 Role-Based Training
 
 Certain personnel, such as software developers, administrators, and compliance or legal staff, receive specialized training based on their job functions. Role-based training provides deeper coverage of topics such as secure coding practices, incident response coordination, regulatory reporting, and data classification handling. The CIO determines which roles require enhanced training and ensures curricula are reviewed and updated regularly to match operational responsibilities and system changes.  
 
@@ -47,7 +49,7 @@ Certain personnel, such as software developers, administrators, and compliance o
 
 ---
 
-## 6. Training Records
+### 3.4 Training Records
 
 STH maintains centralized records of all security and privacy training activities, including participant rosters, completion dates, and the specific modules or courses completed. These records demonstrate compliance with regulatory and contractual requirements and support external audits, internal reviews, and SOC 2 evaluations. Training records are securely stored in the enterprise learning management system and retained in accordance with STH’s data retention schedule.  
 
@@ -55,19 +57,19 @@ STH maintains centralized records of all security and privacy training activitie
 
 ---
 
-## 7. Governance & Oversight
+## 4. Governance & Oversight
 
 The CIO is responsible for the oversight and management of the enterprise awareness and training program. STH reviews training metrics to verify participation and identify gaps. Subsidiary leadership must enforce compliance with training requirements and escalate instances of non-completion or repeated failures to STH for further action. The effectiveness of the awareness program is evaluated through periodic testing and employee feedback surveys.  
 
 ---
 
-## 8. Enforcement
+## 5. Enforcement
 
 Failure to complete assigned training or to adhere to secure behavior expectations may result in disciplinary action, including temporary suspension of system access or termination of employment or contracts. Subsidiary management is responsible for ensuring corrective action is taken for personnel found non-compliant with STH’s training requirements.  
 
 ---
 
-## 9. References
+## 6. References
 
 - **Parent Policy:**  
   -[STH – Security Awareness & Training Policy](/departments/information-security/policies/28-sat/)  
@@ -84,7 +86,7 @@ Failure to complete assigned training or to adhere to secure behavior expectatio
 
 ---
 
-## 10. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description       | Date         | Approved |
 | --- | ----------------- | ------------ | -------- |
