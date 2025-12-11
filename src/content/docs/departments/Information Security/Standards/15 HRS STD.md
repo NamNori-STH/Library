@@ -19,7 +19,7 @@ This Standard defines how Summit Technology Holdings, LLC (STH) implements its H
 
 ## 2. Scope
 
-This Standard applies to all individuals employed or contracted by Summit Technology Holdings and its subsidiaries, including FrontRunnerHC (FRHC) and LabXChange (LX). Because human resource functions are centrally managed at STH, this Standard governs all HR security practices throughout the organization, from hiring and onboarding through transfer, termination, and post-employment obligations. Subsidiaries must follow this Standard in coordination with STH Human Resources and the Chief Information Officer (CIO), who oversees compliance and governance.
+This Standard applies to all individuals employed or contracted by Summit Technology Holdings and its subsidiaries, including FrontRunnerHC (FRHC) and LabXChange360 (LX). Because human resource functions are centrally managed at STH, this Standard governs all HR security practices throughout the organization, from hiring and onboarding through transfer, termination, and post-employment obligations. Subsidiaries must follow this Standard in coordination with STH Human Resources and the Chief Information Officer (CIO), who oversees compliance and governance.
 
 ---
 
