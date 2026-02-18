@@ -1,5 +1,5 @@
 ---
-title: Conditional Access Policy: STH - Phishing Resistant MFA COPY
+title: Conditional Access Policy - STH - Phishing Resistant MFA COPY
 ---
 
 ## Overview
