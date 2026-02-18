@@ -95,6 +95,17 @@ export default defineConfig({
 					],
 					},
 					{
+					label: 'Information Technology',
+					items: [
+						{
+						label: 'Infrastructure',
+						items: [
+							{ label: 'CAP', slug: 'departments/information-technology/cap' },
+						]
+						},
+					],
+					},
+					{
 					label: 'Information Security',
 					items: [
 						{
