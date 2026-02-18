@@ -1,4 +1,6 @@
-# Conditional Access Policy: STH - Phishing Resistant MFA COPY
+---
+title: Conditional Access Policy: STH - Phishing Resistant MFA COPY
+---
 
 ## Overview
 - **ID**: `3aa22431-04e2-400d-8f0e-0ee7146fe865`
