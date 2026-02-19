@@ -100,7 +100,7 @@ export default defineConfig({
 						{
 						label: 'Infrastructure',
 						items: [
-							{ label: 'CAP', slug: 'departments/information-technology/cap' },
+							{ label: 'CAP', slug: 'departments/information-technology/identity-access-management/entra-id/conditional-access/overview'},
 						]
 						},
 					],
