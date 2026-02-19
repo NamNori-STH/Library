@@ -1,6 +1,6 @@
 ---
 title: Require Phishing Resistant MFA
-slug: departments/information-technology/identity-access-management/entra-id/conditional-access
+slug: departments/information-technology/identity-access-management/entra-id/conditional-access/cap
 ---
 
 ## Overview
