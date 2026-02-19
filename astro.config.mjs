@@ -157,7 +157,7 @@ export default defineConfig({
 				},
 			],								
 			logo: {
-					src: '/src/assets/summit logo.png',
+					src: '/src/assets/Transparent.png',
 					replacesTitle: false,
 			},
 		}),

@@ -5,47 +5,72 @@ slug: departments/information-technology
 
 ## Overview
 
-The Operations section contains documentation that supports the day-to-day execution of LabXChange360 business processes. These documents define operational procedures, workflows, and guidance required to ensure consistent, reliable, and compliant operations across the organization.
+The Information Technology (IT) department is responsible for the design, implementation, and maintenance of the enterprise technology infrastructure that supports Summit Technology Holdings operations and business applications.
 
-Operational documentation focuses on *how work is performed* and is intended to support efficiency, accountability, and continuity.
+This includes cloud environments, networking, identity platforms, endpoint management, collaboration systems, and core enterprise services. IT documentation in this section defines how enterprise systems are architected, configured, deployed, and maintained to ensure availability, performance, and operational reliability.
 
 ---
 
 ## What you’ll find here
 
-This section includes operational documentation such as:
+This section contains official Information Technology documentation, including:
 
-- Standard operating procedures
-- Process documentation
-- Internal workflows and reference materials
-- Supporting guidance for cross-functional activities
+### Architecture Documentation
 
-Documents in this section may reference enterprise policies and standards where applicable but are focused on execution rather than governance.
+High-level architectural overviews of enterprise platforms, including cloud environments, identity systems, networking design, and system integrations.
 
----
+### Infrastructure Standards
 
-## How to use this section
+Defined configuration baselines, environment segmentation models, naming conventions, and platform governance requirements.
 
-- Refer to procedures when performing operational tasks
-- Use documented workflows to ensure consistency and quality
-- Review updates regularly, as operational processes may evolve over time
+### Operational Procedures
 
-Each document includes revision tracking to help identify the most current guidance.
+Step-by-step procedures for provisioning, configuration, lifecycle management, and ongoing administration of enterprise systems.
 
 ---
 
-## Relationship to other departments
+## Key document groups
 
-Operational procedures may intersect with requirements defined by other departments, including:
+- **Cloud & Infrastructure**
+  - AWS Account Architecture
+  - Environment Segmentation (Dev / Prod)
+  - Infrastructure as Code (if applicable)
 
-- **Information Security** (security controls, incident handling, data protection)
-- **Compliance & Governance** (regulatory or contractual requirements)
-- **Engineering & Product** (deployment and support processes)
+- **Identity & Access Management**
+  - Entra Configuration
+  - AWS IAM & Identity Center
+  - Platform RBAC Models
 
-When conflicts or questions arise, escalate through appropriate management channels.
+- **Networking & Connectivity**
+  - VPC Architecture
+  - VPN & Secure Access
+  - Network Segmentation
+
+- **Endpoint & Collaboration Systems**
+  - Device Provisioning
+  - Microsoft 365 Administration
+  - Platform Administration Procedures
 
 ---
 
-## Getting help
+## Relationship to Information Security
 
-If you have questions about a specific operational procedure or require clarification, contact your manager or the process owner identified in the document.
+Information Technology implements and operates enterprise infrastructure in alignment with security policies and standards established by the Information Security Office.
+
+While Information Security defines control requirements, IT is responsible for technical implementation, configuration, and operational execution of those controls within supported platforms.
+
+---
+
+## Who should use this section
+
+- Engineering and Infrastructure personnel
+- Platform administrators
+- Leadership reviewing enterprise architecture
+- Auditors seeking documentation of system implementation
+- Cross-functional teams integrating with enterprise systems
+
+---
+
+## Questions or support
+
+Questions related to infrastructure design, system configuration, or enterprise platforms should be directed to the Information Technology team or the document owner listed within the relevant document.

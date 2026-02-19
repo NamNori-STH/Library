@@ -5,7 +5,7 @@ slug: departments/compliance
 
 ## Overview
 
-The Information Security (InfoSec) department is responsible for establishing, maintaining, and overseeing controls that protect LabXChange360 information assets, systems, and data. This includes safeguarding sensitive and regulated data, supporting compliance obligations, and enabling the secure operation of business applications.
+The Information Security (InfoSec) department is responsible for establishing, maintaining, and overseeing controls that protect Summit Technology Holdings information assets, systems, and data. This includes safeguarding sensitive and regulated data, supporting compliance obligations, and enabling the secure operation of business applications.
 
 InfoSec documentation in this section defines **what is required**, **how those requirements are implemented**, and **how security-related activities are performed** across the organization.
 
@@ -17,11 +17,11 @@ This section contains official Information Security documentation, including:
 
 ### Policies
 
-High-level requirements and expectations established by Summit Technology Holdings (STH) and adopted by LabXChange360. Policies define *what must be done* but not implementation detail.
+High-level requirements and expectations established by Summit Technology Holdings (STH) and adopted by Summit Technology Holdings. Policies define *what must be done* but not implementation detail.
 
 ### Standards
 
-Implementation standards that describe *how LabXChange complies* with enterprise policies and regulatory requirements. Standards are aligned to the Secure Controls Framework (SCF) and other applicable frameworks.
+Implementation standards that describe *how Summit Technology Holdings complies* with enterprise policies and regulatory requirements. Standards are aligned to the Secure Controls Framework (SCF) and other applicable frameworks.
 
 ### Procedures
 
