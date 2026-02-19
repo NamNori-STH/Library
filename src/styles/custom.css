@@ -1,0 +1,9 @@
+:root {
+  --sl-sidebar-width: 16rem; /* Default is around 14rem; increase as needed, e.g., 18rem or 20rem */
+}
+
+@media (min-width: 90rem) {
+  :root {
+    --sl-sidebar-width: 25rem; /* Optional: make it even wider on very large screens */
+  }
+}

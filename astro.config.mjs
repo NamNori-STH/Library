@@ -8,6 +8,9 @@ export default defineConfig({
 		starlight({
 			title: 'Summit Technology Holdings Corporate Policies',
 	        description: 'Corporate library for STH policies, standards, and governance',
+			customCss: [
+        		'./src/styles/custom.css',
+      		],
 			sidebar: [
 				{
 				label: 'Departments',
