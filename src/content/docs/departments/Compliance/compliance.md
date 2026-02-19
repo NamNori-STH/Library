@@ -1,6 +1,6 @@
 ---
 title: Compliance
-slug: departments/information-security
+slug: departments/compliance
 ---
 
 ## Overview

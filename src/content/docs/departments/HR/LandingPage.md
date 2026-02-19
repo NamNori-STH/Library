@@ -1,4 +1,4 @@
 ---
 title: Human Resources
-description: blah blah
+slug: departments/hr
 ---
