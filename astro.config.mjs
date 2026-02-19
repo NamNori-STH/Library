@@ -100,7 +100,7 @@ export default defineConfig({
 						{
 						label: 'Infrastructure',
 						items: [
-							{ label: 'Require Phishing Resistant MFA', slug: 'departments/information-technology/identity-access-management/entra-id/conditional-access/cap'},
+							{ label: 'Require Phishing Resistant MFA', slug: 'departments/information-technology/identity-&-access-management/entra-id/conditional-access/cap'},
 						]
 						},
 					],
