@@ -10,29 +10,6 @@ export default defineConfig({
 	        description: 'Corporate library for STH policies, standards, and governance',
 			sidebar: [
 				{
-					label: 'Company',
-					items: [
-						{
-						label: 'Policies',
-						items: [
-							//{ label: 'Policies', slug: 'departments/hr/policies/' },
-						]
-						},
-						{
-						label: 'Procedures',
-						items: [
-							//{ label: 'Policies', slug: 'departments/hr/policies/' },
-						]
-						},						
-						{
-						label: 'Handbooks',
-						items: [
-							//{ label: 'Policies', slug: 'departments/hr/policies/' },
-						]
-						},
-					],
-				},
-				{
 				label: 'Departments',
 				items: [
 					{
@@ -98,10 +75,22 @@ export default defineConfig({
 					label: 'Information Technology',
 					items: [
 						{
-						label: 'Infrastructure',
+						label: 'Identity & Access Management',
 						items: [
-							{ label: 'Require Phishing Resistant MFA', slug: 'departments/information-technology/identity-access-management/entra-id/conditional-access/cap'},
-						]
+							{
+							label: 'Entra ID',
+							items: [
+								{
+								label: 'Conditional Access',
+								items: [
+									{
+									label: 'Require Phishing Resistant MFA', slug: 'departments/information-technology/identity-access-management/entra-id/conditional-access/cap',
+									},
+								],
+								},
+							],
+							},
+						],
 						},
 					],
 					},
