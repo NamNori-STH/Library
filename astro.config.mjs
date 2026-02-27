@@ -6,12 +6,16 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'Summit Technology Holdings Corporate Policies',
+			title: 'Summit Technology Holdings Library',
 	        description: 'Corporate library for STH policies, standards, and governance',
 			customCss: [
         		'./src/styles/custom.css',
       		],
 			sidebar: [
+				{
+          			label: 'Home',
+        		    link: '/',
+		        },
 				{
 				label: 'Departments',
 				items: [
@@ -143,6 +147,12 @@ export default defineConfig({
 							{ label: 'Threat Management', slug: 'departments/compliance/standards/31-thr-std'},							
 						]
 						},
+						{
+						label: 'Procedures',
+						items: [
+							{ label: 'Emergency Break Glass', slug: 'departments/compliance/procedures/breakglass'},
+						]
+						},						
 					],
 					},
 				],
