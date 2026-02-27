@@ -2,8 +2,7 @@
 title: Break Glass Emergency Access Procedure
 ---
 
-**Organization:** Summit Technology Holdings  
-**Parent Standard Reference:** Summit Technology Holdings – Identification & Authentication Standard  
+**Organization:** Summit Technology Holdings, LLC (STH)  
 **Framework Reference:** Secure Controls Framework – Identification & Authentication (IAC)
 
 ---
