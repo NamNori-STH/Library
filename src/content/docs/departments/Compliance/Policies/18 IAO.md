@@ -3,12 +3,12 @@ title: Information Assurance
 ---
 
 **Organization:** Summit Technology Holdings, LLC (STH)  
-**Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange, LLC)  
+**Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange360, LLC)  
 **Framework Reference:** Secure Controls Framework (SCF) – Information Assurance (IAO)
 
 **Subsidiary References:**  
 
-- LabXChange, LLC – Information Assurance Standard *(to be published)*  
+- LabXChange360, LLC – Information Assurance Standard *(to be published)*  
 - FrontRunnerHC, Inc – Information Assurance Standard *(to be published)*  
 
 ---

@@ -3,12 +3,12 @@ title: Business Continuity & Disaster Recovery
 ---
 
 **Organization:** Summit Technology Holdings, LLC (STH)  
-**Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange, LLC)  
+**Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange360, LLC)  
 **Framework Reference:** Secure Controls Framework (SCF) – Business Continuity & Disaster Recovery (BCD)
 
 **Subsidiary References:**
 
-- [LabXChange, LLC – Business Continuity Standard](https://library.labxchange.io/Information%20Security/Policies/BusinessContinuity/)  
+- [LabXChange360, LLC – Business Continuity Standard](https://library.labxchange360.com/Information%20Security/Policies/BusinessContinuity/)  
 - [FrontRunnerHC, Inc – Business Continuity Standard](https://library.frhc.com/Information%20Security/Policies/16%20-%20BusinessContinuity/)  
 
 ---

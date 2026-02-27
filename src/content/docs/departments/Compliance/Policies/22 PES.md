@@ -3,12 +3,12 @@ title: Physical & Environmental Security
 ---
 
 **Organization:** Summit Technology Holdings, LLC (STH)  
-**Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange, LLC)  
+**Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange360, LLC)  
 **Framework Reference:** Secure Controls Framework (SCF) – Physical & Environmental Security (PES)
 
 **Subsidiary References:**  
 
-- LabXChange, LLC – Physical & Environmental Security Standard *(to be published)*  
+- LabXChange360, LLC – Physical & Environmental Security Standard *(to be published)*  
 - FrontRunnerHC, Inc – Physical & Environmental Security Standard *(to be published)*  
 
 ---

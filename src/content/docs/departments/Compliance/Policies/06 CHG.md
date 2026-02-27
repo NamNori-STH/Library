@@ -3,12 +3,12 @@ title: Change Management
 ---
 
 **Organization:** Summit Technology Holdings, LLC (STH)  
-**Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange, LLC)  
+**Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange360, LLC)  
 **Framework Reference:** Secure Controls Framework (SCF) – Change Management (CHG)
 
 **Subsidiary References:**  
 
-- LabXChange, LLC – Change Management Standard *(to be published)*  
+- LabXChange360, LLC – Change Management Standard *(to be published)*  
 - FrontRunnerHC, Inc – Change Management Standard *(to be published)*  
 
 ---

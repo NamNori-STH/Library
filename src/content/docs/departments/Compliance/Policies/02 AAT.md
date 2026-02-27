@@ -3,12 +3,12 @@ title: Artificial & Autonomous Technologies
 ---
 
 **Organization:** Summit Technology Holdings, LLC (STH)  
-**Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange, LLC)  
+**Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange360, LLC)  
 **Framework Reference:** Secure Controls Framework (SCF) – Artificial & Autonomous Technologies (AAT)
 
 **Subsidiary References:**  
 
-- LabXChange, LLC – Artificial & Autonomous Technologies Standard *(to be published)*  
+- LabXChange360, LLC – Artificial & Autonomous Technologies Standard *(to be published)*  
 - FrontRunnerHC, Inc – Artificial & Autonomous Technologies Standard *(to be published)*  
 
 ---

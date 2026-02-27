@@ -210,9 +210,9 @@ The break glass procedure must be tested at minimum twice per year. Testing must
 
 Test results must be documented and retained.
 
-### 10.2 Annual Review
+### 10.2 Quarterly Review
 
-On an annual basis, the following must be reviewed and confirmed:
+On a quarterly basis, the following must be reviewed and confirmed:
 
 - All three authorized custodians remain appropriate — update if personnel changes have occurred
 - All six YubiKeys are physically present and functional
@@ -233,6 +233,19 @@ The break glass account password must be rotated:
 
 YubiKey serial numbers must be verified against the Sentinel Watchlist and BitWarden Notes quarterly. Any discrepancy must be investigated immediately.
 
+### 10.5 YubiKey Loss or Damage
+
+If a registered YubiKey is lost, stolen, or physically damaged, the affected custodian must act immediately regardless of whether the key was a primary or secondary:
+
+1. **Deregister the key immediately** — sign in to Entra ID using your other registered YubiKey, navigate to the break glass account's authentication methods, and remove the lost or damaged key. Do not wait.
+2. **Notify the other two custodians** — inform them a key has been removed so they are aware of the temporary reduction in redundancy.
+3. **Document the deregistration** — update the BitWarden Notes field and the Sentinel Watchlist to reflect the removed key and the date of removal. Note that deregistering an authentication method will trigger a High severity Sentinel alert — this is expected. Record the incident in the alert notes.
+4. **Order a replacement key** — procure a replacement YubiKey of the same model (YubiKey 5 Series) immediately. Do not operate indefinitely with only one registered key.
+5. **Register the replacement** — once the replacement arrives, have a Global Administrator generate a Temporary Access Pass (TAP) for the break glass account, then register the new key following the standard FIDO2 registration procedure.
+6. **Update records** — update BitWarden Notes and the Sentinel Watchlist with the new key's serial number and registration date.
+
+If a custodian is ever left with zero registered keys, they must notify the other two custodians immediately. The remaining custodians retain the ability to authenticate using their own keys — this situation does not prevent break glass access but does reduce redundancy and must be resolved within 5 business days.
+
 ---
 
 ## 11. Personnel Changes
@@ -246,7 +259,28 @@ If any authorized custodian leaves the organization or is removed from the break
 5. Update the Sentinel Watchlist and BitWarden Notes to reflect the change
 6. Document the change and obtain a replacement custodian if the total drops below three
 
-These steps must be completed on the custodian's last day — not after. This must be included in the offboarding checklist for all three custodians.
+These steps must be completed on the custodian's last day — not after.
+
+### 11.1 Offboarding Requirements — Break Glass Custodian
+
+The following steps must be incorporated into the standard offboarding process for all three authorized custodians. IT and HR must coordinate to ensure these steps are completed no later than the custodian's last day of access.
+
+**To be completed by the remaining custodians on or before the departing custodian's last day:**
+
+1. Deregister all of the departing custodian's YubiKeys from the break glass account authentication methods in Entra ID
+2. Revoke the departing custodian's access to the **Emergency** collection in the BitWarden organization vault
+3. Rotate the break glass account password — generate a new 30+ character random password in BitWarden and update the vault entry
+4. Update the BitWarden Notes field with the rotation date and reason
+5. Notify the remaining custodians that password rotation has occurred and new physical envelopes are required
+6. Replace all physical sealed password envelopes with the new password — all remaining custodians must complete this within 48 hours
+7. Update the Sentinel Watchlist (BreakGlassAssets) to remove the departing custodian's YubiKey serial numbers and record the change date
+8. If the total number of custodians has dropped below three, identify and onboard a replacement custodian before or immediately after the departure
+
+**To be completed by IT/HR during offboarding:**
+
+1. Confirm the departing custodian no longer has access to the BitWarden Emergency collection (verify in BitWarden admin console)
+2. Confirm the departing custodian's YubiKeys no longer appear in the break glass account's authentication methods in Entra ID
+3. Document completion of all above steps and retain with the offboarding record
 
 ---
 
@@ -259,6 +293,7 @@ Exceptions documented in this procedure:
 | Exception | Justification |
 | --- | --- |
 | Permanent active Global Administrator | PIM may be unavailable during emergency scenarios requiring break glass access |
+| Shared account (multiple custodians authenticate to a single identity) | A single break glass identity with multiple authorized custodians is required to ensure access is available when any individual custodian is unavailable; compensating controls include FIDO2-only authentication (each custodian's keys are individually registered), comprehensive monitoring, and restricted credential access |
 | Conditional Access exclusion | CA policy failure is a primary break glass use case; exclusion ensures account remains accessible |
 | Microsoft Secure Score impact | Intentional — documented exception, not an oversight |
 

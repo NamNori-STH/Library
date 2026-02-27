@@ -3,12 +3,12 @@ title: Incident Response
 ---
 
 **Organization:** Summit Technology Holdings, LLC (STH)  
-**Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange, LLC)  
+**Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange360, LLC)  
 **Framework Reference:** Secure Controls Framework (SCF) – Incident Response (IRO)
 
 **Subsidiary References:**  
 
-- LabXChange, LLC – Incident Response Standard *(to be published)*  
+- LabXChange360, LLC – Incident Response Standard *(to be published)*  
 - FrontRunnerHC, Inc – Incident Response Standard *(to be published)*  
 
 ---

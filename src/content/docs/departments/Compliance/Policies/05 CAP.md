@@ -3,12 +3,12 @@ title: Capacity & Performance Planning
 ---
 
 **Organization:** Summit Technology Holdings, LLC (STH)  
-**Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange, LLC)  
+**Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange360, LLC)  
 **Framework Reference:** Secure Controls Framework (SCF) – Capacity & Performance Planning (CAP)
 
 **Subsidiary References:**  
 
-- LabXChange, LLC – Capacity & Performance Planning Standard *(to be published)*  
+- LabXChange360, LLC – Capacity & Performance Planning Standard *(to be published)*  
 - FrontRunnerHC, Inc – Capacity & Performance Planning Standard *(to be published)*  
 
 ---

@@ -3,12 +3,12 @@ title: Network Security
 ---
 
 **Organization:** Summit Technology Holdings, LLC (STH)  
-**Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange, LLC)  
+**Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange360, LLC)  
 **Framework Reference:** Secure Controls Framework (SCF) – Network Security (NET)
 
 **Subsidiary References:**  
 
-- LabXChange, LLC – Network Security Standard *(to be published)*  
+- LabXChange360, LLC – Network Security Standard *(to be published)*  
 - FrontRunnerHC, Inc – Network Security Standard *(to be published)*  
 
 ---

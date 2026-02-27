@@ -3,12 +3,12 @@ title: Risk Management
 ---
 
 **Organization:** Summit Technology Holdings, LLC (STH)  
-**Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange, LLC)  
+**Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange360, LLC)  
 **Framework Reference:** Secure Controls Framework (SCF) – Risk Management (RSK)
 
 **Subsidiary References:**  
 
-- LabXChange, LLC – Risk Management Standard *(to be published)*  
+- LabXChange360, LLC – Risk Management Standard *(to be published)*  
 - FrontRunnerHC, Inc – Risk Management Standard *(to be published)*  
 
 ---

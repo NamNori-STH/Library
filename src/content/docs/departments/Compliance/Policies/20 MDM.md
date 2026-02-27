@@ -3,12 +3,12 @@ title: Mobile Device Management
 ---
 
 **Organization:** Summit Technology Holdings, LLC (STH)  
-**Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange, LLC)  
+**Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange360, LLC)  
 **Framework Reference:** Secure Controls Framework (SCF) – Mobile Device Management (MDM)
 
 **Subsidiary References:**  
 
-- LabXChange, LLC – Mobile Device Management Standard *(to be published)*  
+- LabXChange360, LLC – Mobile Device Management Standard *(to be published)*  
 - FrontRunnerHC, Inc – Mobile Device Management Standard *(to be published)*  
 
 ---
