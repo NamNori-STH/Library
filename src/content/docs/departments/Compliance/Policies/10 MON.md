@@ -27,7 +27,9 @@ This policy applies to all systems, networks, databases, applications, and cloud
 
 ---
 
-## 3. Continuous Monitoring
+## 3. Policy
+
+### 3.1 Continuous Monitoring
 
 Each subsidiary must establish and maintain continuous monitoring capabilities that detect unauthorized activity, threats, and system anomalies. Monitoring must cover host, network, application, and cloud layers and be reviewed regularly to ensure effectiveness.  
 
@@ -35,7 +37,7 @@ Each subsidiary must establish and maintain continuous monitoring capabilities t
 
 ---
 
-## 4. Centralized Collection of Security Event Logs
+### 3.2 Centralized Collection of Security Event Logs
 
 Subsidiaries must collect, consolidate, and retain security-relevant logs from critical systems, applications, and infrastructure. Logs must be centrally stored in a secure system that supports correlation, analysis, and long-term retention. Access to logs must be restricted to authorized personnel.  
 
@@ -43,7 +45,7 @@ Subsidiaries must collect, consolidate, and retain security-relevant logs from c
 
 ---
 
-## 5. Time Stamps
+### 3.3 Time Stamps
 
 All systems must use synchronized time sources to ensure accurate and consistent time stamps across logs and audit records. Subsidiaries must configure systems to synchronize with an authoritative time source to support correlation during investigations and audits.  
 
@@ -51,7 +53,7 @@ All systems must use synchronized time sources to ensure accurate and consistent
 
 ---
 
-## 6. Anomalous Behavior
+### 3.4 Anomalous Behavior
 
 Subsidiaries must implement processes and tools to detect anomalous behavior, such as unauthorized access attempts, insider threats, or unusual account activity. Monitoring must include baselines of normal activity to help identify outliers and prioritize investigation and response.  
 
@@ -59,7 +61,15 @@ Subsidiaries must implement processes and tools to detect anomalous behavior, su
 
 ---
 
-## 7. Compliance & Governance
+### 3.5 Privileged & Emergency Account Monitoring
+
+Subsidiaries must apply enhanced monitoring to privileged accounts, including administrators, service accounts with elevated rights, and any emergency access accounts. At minimum, privileged account monitoring must include alerting on successful and failed sign-in attempts, authentication method changes, role assignment changes, and modifications to access control group membership. Alerts for these events must be routed to a centralized security monitoring capability (such as a SIEM) and generate timely notifications to designated security personnel. Emergency access accounts must be subject to a dedicated monitoring configuration that treats any use as a high-severity event requiring immediate review.
+
+- **SCF Mapping:** MON-02 (*Centralized Collection of Security Event Logs*),  MON-16 (*Anomalous Behavior*)
+
+---
+
+## 4. Compliance & Governance
 
 - Subsidiaries must maintain evidence of monitoring tools, log collection processes, synchronization settings, and anomalous behavior detection mechanisms.  
 - STH will periodically review subsidiary monitoring practices to ensure compliance with this policy.  
@@ -67,13 +77,13 @@ Subsidiaries must implement processes and tools to detect anomalous behavior, su
 
 ---
 
-## 8. Enforcement
+## 5. Enforcement
 
 Violations of this policy may result in disciplinary action, contract suspension, or legal action depending on severity. Unauthorized disabling or manipulation of monitoring capabilities is strictly prohibited.  
 
 ---
 
-## 9. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(D) (Information System Activity Review)  
@@ -87,8 +97,9 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ---
 
-## 10. Revision Tracking
+## 7. Revision Tracking
 
-| Rev | Description   | Date          | Approved |
+| Rev | Description | Date | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | September 2025 | M Machin |
+| - | Policy created | September 2025 | M Machin |
+| 1 | Addition of 3.5  for monitoring Break Glass | March 2026 | M Machin |

@@ -27,15 +27,17 @@ This policy applies to all subsidiaries, systems, applications, endpoints, and i
 
 ---
 
-## 3. Account Management
+## 3. Policy
 
-All user, service, and system accounts must be uniquely identifiable, provisioned through documented approvals, and promptly deactivated when no longer required. Shared accounts are prohibited unless approved through formal exception with compensating controls. Orphaned and inactive accounts must be detected and removed through automated or manual reviews.  
+### 3.1 Account Management
 
-- **SCF Mapping:** IAC-01 (*Identity & Access Management*), IAC-15 (*Automated Account Management*).  
+All user, service, and system accounts must be uniquely identifiable, provisioned through documented approvals, and promptly deactivated when no longer required. Shared accounts are prohibited unless approved through formal exception with compensating controls. Emergency access accounts (commonly referred to as "break glass" accounts) are a recognized exception category: they may be configured as shared accounts with permanent privileged assignments where operationally necessary, provided that a formal procedure documents the account's purpose, access controls, authorized custodians, and compensating controls including comprehensive monitoring and alerting. Orphaned and inactive accounts must be detected and removed through automated or manual reviews.  
+
+- **SCF Mapping:** IAC-01 (*Identity & Access Management*), IAC-15 (*Automated Account Management*), IAC-15.9 (*Emergency Accounts*).  
 
 ---
 
-## 4. Authentication
+### 3.2 Authentication
 
 Multi-Factor Authentication (MFA) is required for **all accounts**, without exception. This includes standard user accounts, privileged accounts, service accounts, and third-party accounts. MFA must be enforced at the identity provider level (e.g., SSO, directory services) and integrated into subsidiary systems to ensure consistent coverage.  
 
@@ -45,15 +47,15 @@ Passwords and authenticators must follow enterprise standards for complexity, ex
 
 ---
 
-## 5. Role-Based & Attribute-Based Access Control
+### 3.3 Role-Based & Attribute-Based Access Control
 
-Subsidiaries must implement role-based access control (RBAC) or attribute-based access control (ABAC) where feasible. Privileges must align with job responsibilities and be limited to the minimum necessary. Privileged access must be time-bound, tightly scoped, and subject to enhanced approval and monitoring.  
+Subsidiaries must implement role-based access control (RBAC) or attribute-based access control (ABAC) where feasible. Privileges must align with job responsibilities and be limited to the minimum necessary. Privileged access must be time-bound, tightly scoped, and subject to enhanced approval and monitoring.  Documented exceptions to time-bound privileged access are permissible where operationally justified — such as emergency access accounts that must remain accessible when just-in-time activation mechanisms are themselves unavailable — provided that compensating controls are in place and the exception is formally risk-accepted and reviewed periodically.
 
-- **SCF Mapping:** IAC-08 (*Role-Based Access Control*), IAC-28 (*Attribute-Based Access Control*), IAC-21 (*Least Privilege*).  
+- **SCF Mapping:** IAC-08 (*Role-Based Access Control*), IAC-21 (*Least Privilege*), IAC-28 (*Attribute-Based Access Control*).  
 
 ---
 
-## 6. Access Enforcement & Revocation
+### 3.4 Access Enforcement & Revocation
 
 System access must be enforced according to defined authorizations. Access rights must be revoked immediately upon employee termination, role change, or contract end. Automated processes should ensure timely deprovisioning.  
 
@@ -61,7 +63,7 @@ System access must be enforced according to defined authorizations. Access right
 
 ---
 
-## 7. Periodic Access Reviews
+### 3.5 Periodic Access Reviews
 
 Managers must review user access rights at least quarterly to validate that access remains appropriate. Reviews must focus on high-risk accounts such as privileged, service, or shared accounts. Findings must be documented, and inappropriate access must be removed immediately.  
 
@@ -69,7 +71,7 @@ Managers must review user access rights at least quarterly to validate that acce
 
 ---
 
-## 8. Session Management
+### 3.6 Session Management
 
 All user sessions must be actively controlled. Systems must enforce session timeouts after periods of inactivity, require reauthentication for sensitive transactions, and terminate sessions after maximum defined durations. Concurrent sessions must be restricted where possible.  
 
@@ -77,7 +79,7 @@ All user sessions must be actively controlled. Systems must enforce session time
 
 ---
 
-## 9. Compliance & Governance
+## 4. Compliance & Governance
 
 - Subsidiaries must maintain evidence (e.g., access review attestations, MFA logs, provisioning/deprovisioning records) to demonstrate compliance with this policy.  
 - Security and compliance functions must perform periodic audits of identity and access management practices.  
@@ -85,13 +87,13 @@ All user sessions must be actively controlled. Systems must enforce session time
 
 ---
 
-## 10. Enforcement
+## 5. Enforcement
 
 Violations of this policy may result in disciplinary action, up to and including termination of employment, contract suspension, or legal action depending on severity. Summit Technology Holdings reserves the right to revoke access privileges at any time to protect its systems and data.  
 
 ---
 
-## 11. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.312(d) (Person or Entity Authentication)  
@@ -117,8 +119,9 @@ Violations of this policy may result in disciplinary action, up to and including
 
 ---
 
-## 12. Revision Tracking
+## 7. Revision Tracking
 
-| Rev | Description   | Date          | Approved |
+| Rev | Description | Date | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | September 2025 | M Machin |
+| - | Policy created | September 2025 | M Machin |
+| 1 | 3.1 and 3.3 updated to account for Break Glass account | March 2026 | M Machin |
