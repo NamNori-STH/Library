@@ -25,7 +25,9 @@ This policy applies to all AI/ML/autonomous technologies developed, acquired, or
 
 ---
 
-## 3. AI & Autonomous Technologies Governance
+## 3. Policy
+
+### 3.1 AI & Autonomous Technologies Governance
 
 STH will establish and maintain governance processes for AI and autonomous technologies. Subsidiaries must:  
 
@@ -38,7 +40,7 @@ STH will establish and maintain governance processes for AI and autonomous techn
 
 ---
 
-## 4. Situational Awareness of AI & Autonomous Technologies
+### 3.2 Situational Awareness of AI & Autonomous Technologies
 
 STH and subsidiaries must maintain an up-to-date inventory of AI/AAT systems—including purpose, data types (e.g., ePHI, PII), providers, hosting location, owners, risk tier, and lifecycle status. The inventory must be reconciled on a defined cadence and used for risk management, monitoring, and decommissioning.  
 
@@ -46,7 +48,7 @@ STH and subsidiaries must maintain an up-to-date inventory of AI/AAT systems—i
 
 ---
 
-## 5. Compliance & Governance
+## 4. Compliance & Governance
 
 - Evidence must be maintained (e.g., risk assessments, use-case approvals, inventories).  
 - STH Security and Compliance will perform periodic reviews of AI/AAT governance and inventories.  
@@ -54,13 +56,13 @@ STH and subsidiaries must maintain an up-to-date inventory of AI/AAT systems—i
 
 ---
 
-## 6. Enforcement
+## 5. Enforcement
 
 Violations of this policy may result in disciplinary action, contract suspension, or legal action depending on severity. STH reserves the right to disable or decommission any AI/AAT systems that fail to meet enterprise governance requirements.  
 
 ---
 
-## 7. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis)  
@@ -73,7 +75,7 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ---
 
-## 8. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |

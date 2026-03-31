@@ -24,7 +24,9 @@ This policy applies to all subsidiaries and affiliates of STH. It governs the st
 
 ---
 
-## 3. Governance Program
+## 3. Policy
+
+### 3.1 Governance Program
 
 STH will maintain a formal cybersecurity and data protection governance program. This program includes oversight by a governance committee, program charters, and structured reporting to executive leadership and the governing body.  
 
@@ -32,7 +34,7 @@ STH will maintain a formal cybersecurity and data protection governance program.
 
 ---
 
-## 4. Documentation
+### 3.2 Documentation
 
 STH will publish and maintain cybersecurity and data protection policies, standards, and related documentation. Exceptions must be formally approved and documented.  
 
@@ -40,7 +42,7 @@ STH will publish and maintain cybersecurity and data protection policies, standa
 
 ---
 
-## 5. Periodic Review
+### 3.3 Periodic Review
 
 All cybersecurity and data protection documentation will undergo periodic review and update to ensure continued alignment with business needs, regulatory requirements, and industry best practices.  
 
@@ -48,7 +50,7 @@ All cybersecurity and data protection documentation will undergo periodic review
 
 ---
 
-## 6. Responsibilities
+### 3.4 Responsibilities
 
 STH will assign roles and responsibilities for cybersecurity and data protection. This includes establishing clear accountability structures, chains of command, and points of escalation across the enterprise.  
 
@@ -56,7 +58,7 @@ STH will assign roles and responsibilities for cybersecurity and data protection
 
 ---
 
-## 7. Measures of Performance
+### 3.5 Measures of Performance
 
 STH will define and track measures of performance for the cybersecurity and data protection program. These measures include key performance indicators (KPIs) and key risk indicators (KRIs) to evaluate program maturity, effectiveness, and risk posture.  
 
@@ -64,7 +66,7 @@ STH will define and track measures of performance for the cybersecurity and data
 
 ---
 
-## 8. Contacts With Authorities
+### 3.6 Contacts With Authorities
 
 STH will maintain established relationships and points of contact with appropriate regulatory, legal, and law enforcement authorities. These contacts will be leveraged in the event of security incidents, regulatory inquiries, or compliance reviews.  
 
@@ -72,7 +74,7 @@ STH will maintain established relationships and points of contact with appropria
 
 ---
 
-## 9. Contacts With Groups & Associations
+### 3.7 Contacts With Groups & Associations
 
 STH will maintain active membership and participation in relevant industry groups, associations, and information-sharing organizations to remain informed of emerging risks, threats, and best practices.  
 
@@ -80,7 +82,7 @@ STH will maintain active membership and participation in relevant industry group
 
 ---
 
-## 10. Compliance & Governance
+## 4. Compliance & Governance
 
 - STH will maintain evidence of governance program activities, documentation, reviews, and performance measures.  
 - Subsidiaries must comply with governance directives and provide requested information to support oversight.  
@@ -88,13 +90,13 @@ STH will maintain active membership and participation in relevant industry group
 
 ---
 
-## 11. Enforcement
+## 5. Enforcement
 
 Violations of this policy may result in disciplinary action, contract suspension, or legal action depending on severity.  
 
 ---
 
-## 12. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.308(a)(8) (Evaluation)  
@@ -111,7 +113,7 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ---
 
-## 13. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |
