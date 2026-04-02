@@ -27,7 +27,9 @@ This policy applies to all systems, applications, cloud services, and infrastruc
 
 ---
 
-## 3. Configuration Management Program
+## 3. Policy
+
+### 3.1 Configuration Management Program
 
 Each subsidiary must establish a documented configuration management program that defines roles, responsibilities, processes, and tools for managing configurations throughout the system lifecycle.  
 
@@ -35,7 +37,7 @@ Each subsidiary must establish a documented configuration management program tha
 
 ---
 
-## 4. System Hardening Through Baseline Configurations
+### 3.2 System Hardening Through Baseline Configurations
 
 All systems must be deployed using hardened baseline configurations aligned with industry best practices (e.g., CIS Benchmarks, DISA STIGs). Baseline configurations must be documented, approved, and periodically reviewed. Deviations must be explicitly approved and tracked.  
 
@@ -43,7 +45,7 @@ All systems must be deployed using hardened baseline configurations aligned with
 
 ---
 
-## 5. Least Functionality
+### 3.3 Least Functionality
 
 Subsidiaries must configure systems and applications to provide only essential capabilities. Unnecessary services, ports, protocols, and applications must be disabled or removed. Regular reviews must verify adherence to least functionality principles.  
 
@@ -51,7 +53,7 @@ Subsidiaries must configure systems and applications to provide only essential c
 
 ---
 
-## 6. Software Usage Restrictions
+### 3.4 Software Usage Restrictions
 
 Subsidiaries must enforce software usage restrictions to prevent the use of unauthorized or unlicensed software. Open-source components must be reviewed for licensing and security risks. Unsupported browsers, email clients, or software are prohibited in production environments.  
 
@@ -59,7 +61,7 @@ Subsidiaries must enforce software usage restrictions to prevent the use of unau
 
 ---
 
-## 7. User-Installed Software
+### 3.5 User-Installed Software
 
 End-users must not install software on systems without explicit approval. Subsidiaries must enforce technical controls to restrict software installation rights to authorized administrators and must monitor for unauthorized installations.  
 
@@ -67,7 +69,7 @@ End-users must not install software on systems without explicit approval. Subsid
 
 ---
 
-## 8. Configuration Enforcement
+### 3.6 Configuration Enforcement
 
 Subsidiaries must use automated tools and centralized management platforms where possible to enforce configuration standards. Unauthorized changes must be detected, logged, and remediated promptly. Configuration integrity must be validated regularly.  
 
@@ -75,7 +77,7 @@ Subsidiaries must use automated tools and centralized management platforms where
 
 ---
 
-## 9. Zero-Touch Provisioning (ZTP)
+### 3.7 Zero-Touch Provisioning (ZTP)
 
 Where supported, subsidiaries must use zero-touch provisioning (ZTP) technologies to ensure secure, consistent, and efficient deployment of devices and systems. ZTP implementations must be protected against unauthorized manipulation.  
 
@@ -83,7 +85,7 @@ Where supported, subsidiaries must use zero-touch provisioning (ZTP) technologie
 
 ---
 
-## 10. Sensitive / Regulated Data Access Enforcement
+### 3.8 Sensitive / Regulated Data Access Enforcement
 
 Systems that store or process sensitive or regulated data (including ePHI and PII) must enforce configuration settings that restrict and monitor access. These settings must prevent unauthorized disclosure, alteration, or destruction of sensitive data.  
 
@@ -91,7 +93,7 @@ Systems that store or process sensitive or regulated data (including ePHI and PI
 
 ---
 
-## 11. Compliance & Governance
+## 4. Compliance & Governance
 
 - Subsidiaries must maintain evidence of baseline configurations, hardening standards, enforcement logs, and configuration reviews.  
 - STH will periodically review subsidiary configuration management programs for consistency with this policy.  
@@ -99,13 +101,13 @@ Systems that store or process sensitive or regulated data (including ePHI and PI
 
 ---
 
-## 12. Enforcement
+## 5. Enforcement
 
 Violations of this policy may result in disciplinary action, contract suspension, or legal action depending on severity. STH reserves the right to restrict or revoke system access where non-compliant configurations pose risk to enterprise security.  
 
 ---
 
-## 13. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(B) (Risk Management), §164.312(c)(1) (Integrity)  
@@ -123,7 +125,7 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ---
 
-## 14. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |

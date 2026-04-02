@@ -31,7 +31,9 @@ This policy applies to all assets owned, leased, or otherwise controlled by STH,
 
 ---
 
-## 3. Asset Governance
+## 3. Policy
+
+### 3.1 Asset Governance
 
 STH will maintain governance processes that define policies, standards, roles, and responsibilities for asset management. These processes will cover the entire lifecycle of assets, from acquisition through disposal, and will include inventories, diagrams, and return requirements. Governance activities will be reviewed at least annually.  
 
@@ -39,7 +41,7 @@ STH will maintain governance processes that define policies, standards, roles, a
 
 ---
 
-## 4. Asset Inventories
+### 3.2 Asset Inventories
 
 STH will maintain a complete and accurate inventory of all assets. The inventory must include ownership, location, classification, and unique identifiers. Automated discovery and manual updates must be used to ensure accuracy. Inventory reviews will be conducted on a defined cadence.  
 
@@ -47,7 +49,7 @@ STH will maintain a complete and accurate inventory of all assets. The inventory
 
 ---
 
-## 5. Asset Ownership Assignment
+### 3.3 Asset Ownership Assignment
 
 Every asset must have an assigned owner who is accountable for its use, security, and lifecycle management. Ownership will be documented in the centralized inventory and reviewed whenever changes occur.  
 
@@ -55,7 +57,7 @@ Every asset must have an assigned owner who is accountable for its use, security
 
 ---
 
-## 6. Network Diagrams & Data Flow Diagrams
+### 3.4 Network Diagrams & Data Flow Diagrams
 
 Each subsidiary is responsible for maintaining up-to-date network diagrams and data flow diagrams (DFDs) that document their local environments, trust boundaries, and movement of sensitive data such as ePHI. STH will establish enterprise standards for diagram formats and content, while subsidiaries must ensure diagrams are kept current and submitted to STH for central governance and risk management purposes.  
 
@@ -63,7 +65,7 @@ Each subsidiary is responsible for maintaining up-to-date network diagrams and d
 
 ---
 
-## 7. Secure Disposal, Destruction or Re-Use of Equipment
+### 3.5 Secure Disposal, Destruction or Re-Use of Equipment
 
 STH will ensure that all data-bearing assets are securely sanitized or destroyed before disposal or re-use. Subsidiaries must coordinate all asset retirements through STH. Detailed requirements for data sanitization and disposal processes are further defined in the **Data Classification & Handling Policy**, which governs disposal in alignment with SCF’s broader Data Classification & Handling (DCH) controls.  
 
@@ -71,7 +73,7 @@ STH will ensure that all data-bearing assets are securely sanitized or destroyed
 
 ---
 
-## 8. Return of Assets
+### 3.6 Return of Assets
 
 All assets must be returned to STH upon employee termination, role change, or contract completion. STH IT and HR will coordinate the collection and verification of returned assets. Failure to return assets will be escalated and may result in disciplinary or legal action.  
 
@@ -79,7 +81,7 @@ All assets must be returned to STH upon employee termination, role change, or co
 
 ---
 
-## 9. Compliance & Governance
+## 4. Compliance & Governance
 
 - STH will maintain evidence of inventories, ownership records, diagrams, destruction certificates, and asset return logs.  
 - Subsidiaries must promptly notify STH of any asset changes.  
@@ -87,13 +89,13 @@ All assets must be returned to STH upon employee termination, role change, or co
 
 ---
 
-## 10. Enforcement
+## 5. Enforcement
 
 Violations of this policy may result in disciplinary action, contract suspension, or legal action depending on severity. STH reserves the right to disable, quarantine, or repossess any asset that does not comply with enterprise requirements.  
 
 ---
 
-## 11. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.310(d)(1) (Device and Media Controls)  
@@ -109,7 +111,7 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ---
 
-## 12. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |

@@ -27,7 +27,9 @@ This policy applies to all subsidiaries, employees, contractors, systems, applic
 
 ---
 
-## 3. Network Security Controls
+## 3. Policy
+
+### 3.1 Network Security Controls
 
 Subsidiaries must implement and maintain appropriate network security controls to protect enterprise systems and sensitive data. This includes the use of firewalls, secure routing and switching practices, monitoring systems, and enforcement of least privilege for network access. Controls must be regularly reviewed and updated to align with emerging threats and compliance requirements.  
 
@@ -35,7 +37,7 @@ Subsidiaries must implement and maintain appropriate network security controls t
 
 ---
 
-## 4. Network Segmentation
+### 3.2 Network Segmentation
 
 Subsidiaries must implement network segmentation to isolate sensitive systems and regulated data environments from general business systems. Macrosegmentation techniques must be applied to separate production from non-production environments, and enclaves must be established for systems processing ePHI, financial data, or other sensitive information.  
 
@@ -45,7 +47,7 @@ Segmentation must also restrict lateral movement and limit direct internet acces
 
 ---
 
-## 5. Network Intrusion Detection & Prevention
+### 3.3 Network Intrusion Detection & Prevention
 
 Subsidiaries must deploy intrusion detection and/or prevention systems (NIDS/NIPS) to monitor traffic for malicious activity. Alerts must be logged, reviewed, and escalated to incident response teams as necessary. Where feasible, systems must be configured to block known malicious traffic automatically.  
 
@@ -55,7 +57,7 @@ NIDS/NIPS must cover both perimeter and internal network traffic, and wireless i
 
 ---
 
-## 6. Compliance & Governance
+## 4. Compliance & Governance
 
 - Subsidiaries must maintain evidence of firewall configurations, segmentation architecture, and intrusion detection logs.  
 - STH will review subsidiary implementations for compliance with this policy and may require remediation of deficiencies.  
@@ -63,13 +65,13 @@ NIDS/NIPS must cover both perimeter and internal network traffic, and wireless i
 
 ---
 
-## 7. Enforcement
+## 5. Enforcement
 
 Non-compliance with this policy may result in disciplinary action, suspension of system access, contract suspension, or legal action. STH reserves the right to restrict or block subsidiary network connections if security controls are deemed inadequate.  
 
 ---
 
-## 8. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A), §164.312(e)(1)  
@@ -82,7 +84,7 @@ Non-compliance with this policy may result in disciplinary action, suspension of
 
 ---
 
-## 9. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |

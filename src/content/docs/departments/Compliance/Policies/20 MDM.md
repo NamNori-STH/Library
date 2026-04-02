@@ -25,7 +25,9 @@ This policy applies to all mobile devices, including smartphones, tablets, lapto
 
 ---
 
-## 3. Centralized Management of Mobile Devices
+## 3. Policy
+
+### 3.1 Centralized Management of Mobile Devices
 
 Subsidiaries must enroll all corporate-issued and approved personally-owned mobile devices into a centralized Mobile Device Management (MDM) solution. The MDM platform must provide configuration enforcement, patch deployment, security monitoring, and policy enforcement across devices.  
 
@@ -33,7 +35,7 @@ Subsidiaries must enroll all corporate-issued and approved personally-owned mobi
 
 ---
 
-## 4. Access Control for Mobile Devices
+### 3.2 Access Control for Mobile Devices
 
 Mobile devices accessing sensitive data or corporate systems must require strong authentication, including multi-factor authentication (MFA). Device access must be restricted after defined periods of inactivity, and failed login attempts must trigger account lockouts consistent with the enterprise access control policy.  
 
@@ -41,7 +43,7 @@ Mobile devices accessing sensitive data or corporate systems must require strong
 
 ---
 
-## 5. Full Device & Container-Based Encryption
+### 3.3 Full Device & Container-Based Encryption
 
 All mobile devices must implement full-device encryption or container-based encryption to protect data at rest. Devices must use encryption algorithms consistent with enterprise cryptographic standards, and keys must be managed securely.  
 
@@ -49,7 +51,7 @@ All mobile devices must implement full-device encryption or container-based encr
 
 ---
 
-## 6. Remote Purging
+### 3.4 Remote Purging
 
 MDM solutions must support the ability to remotely lock or wipe devices that are lost, stolen, or otherwise compromised. Remote purging must be executed promptly upon detection of risk, and records of these actions must be maintained.  
 
@@ -57,7 +59,7 @@ MDM solutions must support the ability to remotely lock or wipe devices that are
 
 ---
 
-## 7. Personally-Owned Mobile Devices
+### 3.5 Personally-Owned Mobile Devices
 
 Personally-owned devices (BYOD) used for business purposes must meet the same security standards as corporate-issued devices. These devices must be enrolled in the MDM platform, segmented to protect corporate data, and subject to remote wipe capabilities for business-related information.  
 
@@ -65,7 +67,7 @@ Personally-owned devices (BYOD) used for business purposes must meet the same se
 
 ---
 
-## 8. Mobile Device Geofencing
+### 3.6 Mobile Device Geofencing
 
 Where appropriate, subsidiaries must implement geofencing controls to restrict mobile device access to sensitive systems or data based on geographic location. Geofencing may be applied to protect against unauthorized access from high-risk regions or to comply with regulatory restrictions.  
 
@@ -73,7 +75,7 @@ Where appropriate, subsidiaries must implement geofencing controls to restrict m
 
 ---
 
-## 9. Compliance & Governance
+## 4. Compliance & Governance
 
 - Subsidiaries must maintain evidence of device enrollment, encryption status, access control settings, and remote wipe tests.  
 - STH will periodically audit subsidiary compliance with this policy and require remediation of deficiencies.  
@@ -81,13 +83,13 @@ Where appropriate, subsidiaries must implement geofencing controls to restrict m
 
 ---
 
-## 10. Enforcement
+## 5. Enforcement
 
 Violations of this policy, including unauthorized use of unregistered devices or circumvention of MDM controls, may result in disciplinary action, loss of device privileges, contract suspension, or legal action.  
 
 ---
 
-## 11. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.312(a)(2)(iv), §164.312(e)(1)  
@@ -103,7 +105,7 @@ Violations of this policy, including unauthorized use of unregistered devices or
 
 ---
 
-## 12. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |

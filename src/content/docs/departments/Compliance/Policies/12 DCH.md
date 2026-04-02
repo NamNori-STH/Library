@@ -27,7 +27,9 @@ This policy applies to all forms of data created, processed, stored, or transmit
 
 ---
 
-## 3. Data Protection
+## 3. Policy
+
+### 3.1 Data Protection
 
 All sensitive or regulated data must be identified, protected, and handled in accordance with applicable regulatory and contractual obligations. Subsidiaries must implement controls to ensure data is protected against unauthorized access, disclosure, modification, or destruction.  
 
@@ -35,7 +37,7 @@ All sensitive or regulated data must be identified, protected, and handled in ac
 
 ---
 
-## 4. Data & Asset Classification
+### 3.2 Data & Asset Classification
 
 STH will maintain a data classification scheme that defines categories such as Public, Internal, Confidential, and Restricted. Subsidiaries must classify all data and assets accordingly and apply handling procedures based on classification level.  
 
@@ -43,7 +45,7 @@ STH will maintain a data classification scheme that defines categories such as P
 
 ---
 
-## 5. Media Access
+### 3.3 Media Access
 
 Access to media containing sensitive or regulated data must be restricted to authorized personnel. Logging and monitoring must be enabled for access to removable or high-risk storage.  
 
@@ -51,7 +53,7 @@ Access to media containing sensitive or regulated data must be restricted to aut
 
 ---
 
-## 6. Media Marking
+### 3.4 Media Marking
 
 Subsidiaries must ensure that physical and digital media containing sensitive data are clearly marked according to classification level. Automated marking tools must be used where available.  
 
@@ -59,7 +61,7 @@ Subsidiaries must ensure that physical and digital media containing sensitive da
 
 ---
 
-## 7. Media Storage
+### 3.5 Media Storage
 
 Sensitive media must be stored in secure environments with physical or logical protections. Encryption, locked storage, and access monitoring must be applied to protect sensitive or regulated information at rest.  
 
@@ -67,7 +69,7 @@ Sensitive media must be stored in secure environments with physical or logical p
 
 ---
 
-## 8. Media Transportation
+### 3.6 Media Transportation
 
 Sensitive media must be encrypted and transported only by authorized custodians. Appropriate chain-of-custody records must be maintained.  
 
@@ -75,7 +77,7 @@ Sensitive media must be encrypted and transported only by authorized custodians.
 
 ---
 
-## 9. Physical Media Disposal
+### 3.7 Physical Media Disposal
 
 Physical media must be disposed of securely to prevent unauthorized recovery of sensitive data. Approved methods include shredding, degaussing, or incineration by trusted vendors.  
 
@@ -83,7 +85,7 @@ Physical media must be disposed of securely to prevent unauthorized recovery of 
 
 ---
 
-## 10. System Media Sanitization
+### 3.8 System Media Sanitization
 
 Before reuse or disposal, system media must be sanitized using approved methods to ensure sensitive data cannot be recovered. Documentation must be retained for sanitization activities.  
 
@@ -91,7 +93,7 @@ Before reuse or disposal, system media must be sanitized using approved methods 
 
 ---
 
-## 11. Removable Media Security
+### 3.9 Removable Media Security
 
 The use of removable media (e.g., USB drives, external hard drives) must be restricted and approved. Where use is necessary, removable media must be encrypted, inventoried, and periodically reviewed.  
 
@@ -99,7 +101,7 @@ The use of removable media (e.g., USB drives, external hard drives) must be rest
 
 ---
 
-## 12. Use of External Information Systems
+### 3.10 Use of External Information Systems
 
 Subsidiaries must restrict and control the use of external information systems for processing or storing STH data. If external systems are authorized, they must comply with enterprise security requirements.  
 
@@ -107,7 +109,7 @@ Subsidiaries must restrict and control the use of external information systems f
 
 ---
 
-## 13. Media & Data Retention
+### 3.11 Media & Data Retention
 
 Subsidiaries must retain data only for as long as required by legal, regulatory, or contractual obligations. Retention policies must minimize storage of sensitive or regulated data beyond business necessity.  
 
@@ -115,7 +117,7 @@ Subsidiaries must retain data only for as long as required by legal, regulatory,
 
 ---
 
-## 14. Information Disposal
+### 3.12 Information Disposal
 
 Data must be securely disposed of when it is no longer required. This applies to both electronic and physical formats. Disposal must be irreversible and performed in alignment with regulatory and contractual requirements.  
 
@@ -123,7 +125,7 @@ Data must be securely disposed of when it is no longer required. This applies to
 
 ---
 
-## 15. Compliance & Governance
+## 4. Compliance & Governance
 
 - Subsidiaries must maintain evidence of classification labels, storage controls, transport logs, retention schedules, and disposal certificates.  
 - STH will periodically review subsidiary practices for compliance with this policy.  
@@ -131,13 +133,13 @@ Data must be securely disposed of when it is no longer required. This applies to
 
 ---
 
-## 16. Enforcement
+## 5. Enforcement
 
 Violations of this policy may result in disciplinary action, contract suspension, or legal action depending on severity. Unauthorized handling or disclosure of sensitive data is strictly prohibited.  
 
 ---
 
-## 17. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.310(d)(2)(i) (Device & Media Controls)  
@@ -159,7 +161,7 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ---
 
-## 18. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |

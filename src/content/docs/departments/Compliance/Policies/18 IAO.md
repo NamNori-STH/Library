@@ -27,7 +27,9 @@ This policy applies to all STH subsidiaries, systems, applications, and services
 
 ---
 
-## 3. Information Assurance Operations
+## 3. Policy
+
+### 3.1 Information Assurance Operations
 
 STH requires subsidiaries to implement information assurance (IA) operations that integrate security, availability, integrity, and resilience into all systems and services. IA operations must be documented, regularly reviewed, and embedded into system lifecycle management.  
 
@@ -35,7 +37,7 @@ STH requires subsidiaries to implement information assurance (IA) operations tha
 
 ---
 
-## 4. Assessments
+### 3.2 Assessments
 
 Subsidiaries must conduct periodic assessments to verify that controls are implemented and effective. These assessments may include internal reviews, independent audits, vulnerability assessments, and penetration testing. Assessment results must be documented, tracked, and remediated.  
 
@@ -45,7 +47,7 @@ Assessments must be repeated at regular intervals, after significant system chan
 
 ---
 
-## 5. Compliance & Governance
+## 4. Compliance & Governance
 
 - Subsidiaries must maintain evidence of IA operations and assessment results.  
 - STH will review assessment findings and may require additional testing or independent assurance as needed.  
@@ -53,13 +55,13 @@ Assessments must be repeated at regular intervals, after significant system chan
 
 ---
 
-## 6. Enforcement
+## 5. Enforcement
 
 Failure to comply with this policy may result in disciplinary action, revocation of system access, contract suspension, or legal action depending on severity.  
 
 ---
 
-## 7. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.308(a)(8) (Evaluation)  
@@ -71,7 +73,7 @@ Failure to comply with this policy may result in disciplinary action, revocation
 
 ---
 
-## 8. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |

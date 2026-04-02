@@ -27,7 +27,9 @@ This policy applies to all information systems, applications, databases, infrast
 
 ---
 
-## 3. Capacity & Performance Management
+## 3. Policy
+
+### 3.1 Capacity & Performance Management
 
 Each subsidiary must establish processes for monitoring and managing capacity and performance within its environment. These processes must include defining baseline expectations, identifying critical services, and implementing escalation procedures when thresholds are exceeded. Subsidiaries must provide reporting to STH on capacity and performance status upon request.  
 
@@ -35,7 +37,7 @@ Each subsidiary must establish processes for monitoring and managing capacity an
 
 ---
 
-## 4. Resource Priority
+### 3.2 Resource Priority
 
 Each subsidiary must identify business-critical applications and systems, including those supporting ePHI, financial reporting, or regulated workloads. During times of constrained resources, these critical services must be prioritized over less essential workloads, consistent with enterprise priorities defined by STH.  
 
@@ -43,7 +45,7 @@ Each subsidiary must identify business-critical applications and systems, includ
 
 ---
 
-## 5. Capacity Planning
+### 3.3 Capacity Planning
 
 Each subsidiary must conduct forward-looking capacity planning to anticipate growth, seasonal demand, or new projects. Plans must ensure adequate resources are available to support business needs under both normal and peak loads. Material changes or risks identified during planning must be reported to STH for review and oversight.  
 
@@ -51,7 +53,7 @@ Each subsidiary must conduct forward-looking capacity planning to anticipate gro
 
 ---
 
-## 6. Performance Monitoring
+### 3.4 Performance Monitoring
 
 Each subsidiary must implement continuous monitoring of system performance to detect anomalies, degradation, and potential bottlenecks. Metrics must be collected, analyzed, and retained. Monitoring results must be incorporated into capacity planning activities and made available to STH for compliance oversight.  
 
@@ -59,7 +61,7 @@ Each subsidiary must implement continuous monitoring of system performance to de
 
 ---
 
-## 7. Compliance & Governance
+## 4. Compliance & Governance
 
 - Subsidiaries must maintain evidence of performance baselines, monitoring results, capacity forecasts, and resource prioritization plans.  
 - STH Security and Compliance will review subsidiary practices to ensure they align with this policy.  
@@ -67,13 +69,13 @@ Each subsidiary must implement continuous monitoring of system performance to de
 
 ---
 
-## 8. Enforcement
+## 5. Enforcement
 
 Violations of this policy may result in disciplinary action, contract suspension, or legal action depending on severity. STH reserves the right to direct remediation activities or reallocate resources where capacity or performance risks threaten enterprise operations.  
 
 ---
 
-## 9. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(B) (Risk Management)  
@@ -87,7 +89,7 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ---
 
-## 10. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |

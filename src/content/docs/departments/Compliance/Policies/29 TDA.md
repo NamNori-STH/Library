@@ -27,7 +27,9 @@ This policy applies to all systems, applications, platforms, and tools developed
 
 ---
 
-## 3. Technology Development & Acquisition Program
+## 3. Policy
+
+### 3.1 Technology Development & Acquisition Program
 
 STH will establish enterprise-wide requirements for secure technology development and acquisition. Subsidiaries must align their SDLCs to include security requirements in design, build, testing, and release. All acquisitions must undergo security due diligence before being placed into production.  
 
@@ -35,7 +37,7 @@ STH will establish enterprise-wide requirements for secure technology developmen
 
 ---
 
-## 4. Secure Coding
+### 3.2 Secure Coding
 
 All software development must follow secure coding practices. Subsidiaries must maintain written secure coding standards and provide secure coding training for developers at least annually. Peer reviews must verify that code meets security requirements, and any security-related defects must be tracked to closure.  
 
@@ -43,7 +45,7 @@ All software development must follow secure coding practices. Subsidiaries must 
 
 ---
 
-## 5. Secure Development Environments
+### 3.3 Secure Development Environments
 
 Subsidiaries must use secure and hardened development environments. Development tools and pipelines must enforce least-privilege access, multi-factor authentication (MFA), secure secrets management, and timely patching. Build provenance and logging must be preserved to maintain accountability.  
 
@@ -51,7 +53,7 @@ Subsidiaries must use secure and hardened development environments. Development 
 
 ---
 
-## 6. Separation of Development, Testing, and Operational Environments
+### 3.4 Separation of Development, Testing, and Operational Environments
 
 Development, test, and production environments must remain logically or physically separated. Access to production must be limited, logged, and subject to change management controls. CI/CD pipelines must enforce environment-specific approval gates.  
 
@@ -59,7 +61,7 @@ Development, test, and production environments must remain logically or physical
 
 ---
 
-## 7. Use of Live Data
+### 3.5 Use of Live Data
 
 Production (“live”) data must not be used in development or testing environments unless explicitly approved via a documented exception. Exceptions must include business justification, minimization, masking or anonymization, encryption, access restrictions, retention controls, and disposal verification. Synthetic or anonymized data must be used by default.  
 
@@ -67,7 +69,7 @@ Production (“live”) data must not be used in development or testing environm
 
 ---
 
-## 8. Compliance & Governance
+## 4. Compliance & Governance
 
 - Subsidiaries must maintain evidence such as SDLC documentation, code review logs, security testing reports, and exception requests.  
 - Summit’s Security and Compliance teams will perform regular oversight and audits.  
@@ -75,13 +77,13 @@ Production (“live”) data must not be used in development or testing environm
 
 ---
 
-## 9. Enforcement
+## 5. Enforcement
 
 Violations of this policy may result in disciplinary action, termination of employment, suspension of vendor contracts, or other legal remedies. Summit may revoke or restrict access to development environments that fail to meet policy requirements.  
 
 ---
 
-## 10. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.308(a)(1)(ii)(B) (Risk Management)  
@@ -96,7 +98,7 @@ Violations of this policy may result in disciplinary action, termination of empl
 
 ---
 
-## 11. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |

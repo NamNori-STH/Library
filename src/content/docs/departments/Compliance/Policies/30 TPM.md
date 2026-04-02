@@ -32,7 +32,9 @@ The policy covers both new engagements and the ongoing management of existing ve
 
 ---
 
-## 3. Vendor Inventory & Classification
+## 3. Policy
+
+### 3.1 Vendor Inventory & Classification
 
 STH will maintain a centralized inventory of all third parties engaged across the enterprise. Vendors will be classified according to the criteria in Section 2 (criticality, access to sensitive data, or access to internal systems/networks). Higher-risk vendors will be subject to stricter onboarding requirements, more frequent reviews, and heightened monitoring. Subsidiaries are responsible for notifying STH of new vendor needs or changes so that vendors may be inventoried and assessed appropriately.  
 
@@ -40,7 +42,7 @@ STH will maintain a centralized inventory of all third parties engaged across th
 
 ---
 
-## 4. Risk Assessment of Vendors
+### 3.2 Risk Assessment of Vendors
 
 STH will conduct security and risk assessments of all vendors that meet the applicability criteria before contracts are executed. Assessments will evaluate the vendor’s security posture, ability to protect sensitive data, and compliance with relevant regulations (e.g., HIPAA, SOC 2). Vendors classified as critical, sensitive-data handlers, or network/system integrators will receive higher levels of due diligence. Risk assessments will be repeated periodically based on vendor classification. Subsidiaries must cooperate with STH’s information gathering efforts but will not conduct assessments independently.  
 
@@ -48,7 +50,7 @@ STH will conduct security and risk assessments of all vendors that meet the appl
 
 ---
 
-## 5. Contracts and Business Associate Agreements
+### 3.3 Contracts and Business Associate Agreements
 
 All vendor contracts will be negotiated, reviewed, and executed under the authority of Summit Technology Holdings. Contracts involving access to sensitive data must include appropriate data protection clauses, right-to-audit provisions, breach notification obligations, and, where required by HIPAA, Business Associate Agreements (BAAs). Subsidiaries must not engage vendors outside of STH’s contracting process except by explicit written approval from Summit leadership.  
 
@@ -56,7 +58,7 @@ All vendor contracts will be negotiated, reviewed, and executed under the author
 
 ---
 
-## 6. Monitoring and Oversight
+### 3.4 Monitoring and Oversight
 
 STH will oversee all vendors through periodic monitoring and due diligence reviews. The level of monitoring will be proportionate to vendor classification (critical, sensitive-data, network/system access). Monitoring may include SOC 2 Type II reports, HIPAA attestations, penetration test results, and security questionnaires. Subsidiaries must escalate any vendor-related performance or security concerns to STH immediately for investigation and resolution.  
 
@@ -64,7 +66,7 @@ STH will oversee all vendors through periodic monitoring and due diligence revie
 
 ---
 
-## 7. Termination of Vendor Relationships
+### 3.5 Termination of Vendor Relationships
 
 When a vendor relationship ends, STH is responsible for ensuring that all access to systems, data, and facilities is revoked. Vendors must return or securely destroy Summit-owned or subsidiary-owned data, with certification of destruction provided as evidence. Contract closure activities must be documented and reviewed by management. Subsidiaries must not manage vendor termination independently, but must coordinate with STH to ensure proper disengagement.  
 
@@ -72,7 +74,7 @@ When a vendor relationship ends, STH is responsible for ensuring that all access
 
 ---
 
-## 8. Subsidiary Participation
+### 3.6 Subsidiary Participation
 
 Subsidiaries are expected to:  
 
@@ -85,7 +87,7 @@ Subsidiaries must not bypass or duplicate vendor management activities unless ex
 
 ---
 
-## 9. Compliance & Governance
+## 4. Compliance & Governance
 
 - STH will maintain evidence of vendor inventories, risk assessments, contracts, monitoring results, and termination certifications.  
 - The STH Security and Compliance teams will conduct periodic audits of vendor management processes.  
@@ -93,13 +95,13 @@ Subsidiaries must not bypass or duplicate vendor management activities unless ex
 
 ---
 
-## 10. Enforcement
+## 5. Enforcement
 
 Violations of this policy may result in disciplinary action, up to and including termination of employment, contract suspension, or legal action depending on severity. Summit Technology Holdings reserves the right to restrict or terminate vendor access at any time to protect its systems and data.  
 
 ---
 
-## 11. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.308(b) (Business Associate Contracts and Other Arrangements)  
@@ -114,7 +116,7 @@ Violations of this policy may result in disciplinary action, up to and including
 
 ---
 
-## 12. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |

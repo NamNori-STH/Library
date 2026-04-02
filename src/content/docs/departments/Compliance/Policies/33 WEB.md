@@ -25,7 +25,9 @@ This policy applies to all subsidiaries, employees, contractors, and third parti
 
 ---
 
-## 3. Web Security
+## 3. Policy
+
+### 3.1 Web Security
 
 Subsidiaries must implement web security measures, including filtering malicious content, restricting access to inappropriate or unauthorized websites, and monitoring for anomalous activity. These controls must protect users, endpoints, and backend systems from web-based threats.  
 
@@ -33,7 +35,7 @@ Subsidiaries must implement web security measures, including filtering malicious
 
 ---
 
-## 4. Demilitarized Zones (DMZ)
+### 3.2 Demilitarized Zones (DMZ)
 
 Public-facing systems, including web servers and applications, must be deployed within properly configured demilitarized zones (DMZs). DMZs must isolate public services from internal networks, reducing the risk of compromise to critical systems. Access rules must follow least privilege principles and be reviewed periodically.  
 
@@ -41,7 +43,7 @@ Public-facing systems, including web servers and applications, must be deployed 
 
 ---
 
-## 5. Web Application Firewalls (WAF)
+### 3.3 Web Application Firewalls (WAF)
 
 All externally accessible web applications must be protected with a Web Application Firewall (WAF). The WAF must be configured to block common attacks such as SQL injection, cross-site scripting (XSS), and other OWASP Top 10 vulnerabilities. WAF policies must be tuned and monitored to reduce false positives while maintaining strong protections.  
 
@@ -49,7 +51,7 @@ All externally accessible web applications must be protected with a Web Applicat
 
 ---
 
-## 6. Secure Web Traffic
+### 3.4 Secure Web Traffic
 
 Subsidiaries must ensure all web traffic to and from corporate systems and applications is transmitted securely using industry-accepted encryption protocols. TLS 1.2 or higher is required, with TLS 1.3 strongly recommended where supported. Unencrypted (HTTP) traffic must be redirected or blocked.  
 
@@ -57,7 +59,7 @@ Subsidiaries must ensure all web traffic to and from corporate systems and appli
 
 ---
 
-## 7. Compliance & Governance
+## 4. Compliance & Governance
 
 - Subsidiaries must maintain evidence of WAF deployments, DMZ configurations, and secure traffic enforcement.  
 - STH security teams may audit subsidiary environments to ensure compliance with this policy.  
@@ -65,13 +67,13 @@ Subsidiaries must ensure all web traffic to and from corporate systems and appli
 
 ---
 
-## 8. Enforcement
+## 5. Enforcement
 
 Failure to comply with this policy may result in restricted access, disciplinary action, termination of contracts, or legal action depending on severity.  
 
 ---
 
-## 9. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.312(e)(1) (Transmission Security)  
@@ -85,7 +87,7 @@ Failure to comply with this policy may result in restricted access, disciplinary
 
 ---
 
-## 10. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date         | Approved |
 | --- | ------------- | ------------ | -------- |

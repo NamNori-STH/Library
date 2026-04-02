@@ -27,7 +27,9 @@ This policy applies to all subsidiaries, business units, information systems, ap
 
 ---
 
-## 3. Business Continuity Management System (BCMS)
+## 3. Policy
+
+### 3.1 Business Continuity Management System (BCMS)
 
 Each subsidiary must develop and manage its own BCP in accordance with Summit’s BCMS framework. The BCMS provides governance, enterprise requirements, and oversight for subsidiary planning efforts. Subsidiaries must ensure their BCPs address recovery time objectives (RTOs), recovery point objectives (RPOs), dependencies, and communications protocols consistent with Summit standards.  
 
@@ -35,7 +37,7 @@ Each subsidiary must develop and manage its own BCP in accordance with Summit’
 
 ---
 
-## 4. Identify Critical Assets
+### 3.2 Identify Critical Assets
 
 Subsidiaries must identify essential missions, business functions, critical assets, and dependencies (people, facilities, vendors, technology). This information must be documented in subsidiary BCPs and reported to Summit to support enterprise-level visibility and risk management.  
 
@@ -43,7 +45,7 @@ Subsidiaries must identify essential missions, business functions, critical asse
 
 ---
 
-## 5. Contingency Training
+### 3.3 Contingency Training
 
 Subsidiaries must ensure personnel with business continuity roles receive training specific to their responsibilities. Training must include simulations or table-top exercises appropriate to their operations. Summit will review and validate that training programs are in place.  
 
@@ -51,7 +53,7 @@ Subsidiaries must ensure personnel with business continuity roles receive traini
 
 ---
 
-## 6. Contingency Plan Testing & Exercises
+### 3.4 Contingency Plan Testing & Exercises
 
 Each subsidiary must test its BCP at least annually. Tests may include functional exercises, simulations, or failover validations. Summit will provide oversight, require documentation of test results, and ensure corrective actions are implemented.  
 
@@ -59,7 +61,7 @@ Each subsidiary must test its BCP at least annually. Tests may include functiona
 
 ---
 
-## 7. Root Cause Analysis & Lessons Learned
+### 3.5 Root Cause Analysis & Lessons Learned
 
 Subsidiaries must conduct root cause analysis (RCA) and capture lessons learned following any real-world disruption or test. Corrective actions must be documented and tracked to closure. Summit will oversee RCA outcomes to ensure systemic issues are addressed.  
 
@@ -67,7 +69,7 @@ Subsidiaries must conduct root cause analysis (RCA) and capture lessons learned 
 
 ---
 
-## 8. Ongoing Contingency Planning
+### 3.6 Ongoing Contingency Planning
 
 Subsidiary BCPs must be updated regularly to reflect organizational or technology changes, emerging risks, and lessons learned. Summit will review plans periodically to ensure updates meet enterprise governance requirements.  
 
@@ -75,7 +77,7 @@ Subsidiary BCPs must be updated regularly to reflect organizational or technolog
 
 ---
 
-## 9. Alternate Storage Site
+### 3.7 Alternate Storage Site
 
 Subsidiaries that maintain or process critical data must ensure it is replicated or backed up to alternate storage locations with appropriate separation from the primary site. Summit will validate that subsidiary implementations align with enterprise requirements for data protection.  
 
@@ -83,7 +85,7 @@ Subsidiaries that maintain or process critical data must ensure it is replicated
 
 ---
 
-## 10. Alternate Processing Site
+### 3.8 Alternate Processing Site
 
 Where required, subsidiaries must identify and maintain alternate processing capabilities (e.g., secondary data centers, cloud regions) to support recovery of critical operations. Summit will provide oversight to ensure alternate sites are tested and meet security requirements.  
 
@@ -91,7 +93,7 @@ Where required, subsidiaries must identify and maintain alternate processing cap
 
 ---
 
-## 11. Telecommunications Services Availability
+### 3.9 Telecommunications Services Availability
 
 Subsidiaries must ensure telecommunications services are resilient, with diversity of providers and alternate communication channels where feasible. Summit will monitor that telecommunications plans align with enterprise availability expectations.  
 
@@ -99,7 +101,7 @@ Subsidiaries must ensure telecommunications services are resilient, with diversi
 
 ---
 
-## 12. Data Backups
+### 3.10 Data Backups
 
 Subsidiaries must define and execute backup strategies for their systems in alignment with Summit’s enterprise backup requirements. Backups must be encrypted, tested for integrity, and retained per regulatory and business requirements. Summit will review backup strategies and test outcomes.  
 
@@ -107,7 +109,7 @@ Subsidiaries must define and execute backup strategies for their systems in alig
 
 ---
 
-## 13. Information System Recovery & Reconstitution
+### 3.11 Information System Recovery & Reconstitution
 
 Subsidiaries must ensure their systems can be recovered and reconstituted within required timeframes, including transaction recovery and failover capabilities. Summit will oversee recovery objectives and validate that system-level plans meet enterprise resiliency requirements.  
 
@@ -115,7 +117,7 @@ Subsidiaries must ensure their systems can be recovered and reconstituted within
 
 ---
 
-## 14. Compliance & Governance
+## 4. Compliance & Governance
 
 - Subsidiaries must maintain evidence of BIAs, risk assessments, continuity plans, training, and test results.  
 - Summit will conduct oversight reviews and audits of subsidiary continuity planning.  
@@ -123,13 +125,13 @@ Subsidiaries must ensure their systems can be recovered and reconstituted within
 
 ---
 
-## 15. Enforcement
+## 5. Enforcement
 
 Violations of this policy may result in disciplinary action, up to and including termination of employment, contract suspension, or legal action depending on severity. Summit Technology Holdings may take immediate action to protect enterprise operations during disruptions.  
 
 ---
 
-## 16. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.308(a)(7) (Contingency Plan)  
@@ -150,7 +152,7 @@ Violations of this policy may result in disciplinary action, up to and including
 
 ---
 
-## 17. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |

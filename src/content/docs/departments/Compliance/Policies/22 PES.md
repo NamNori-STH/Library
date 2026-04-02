@@ -25,7 +25,9 @@ This policy applies to all STH facilities, subsidiaries, and data centers, wheth
 
 ---
 
-## 3. Physical & Environmental Protections
+## 3. Policy
+
+### 3.1 Physical & Environmental Protections
 
 Subsidiaries must implement physical and environmental protections appropriate to the criticality of their systems and facilities. Protections may include perimeter defenses, security guards, barriers, and environmental controls such as fire suppression, HVAC redundancy, and power backup systems.  
 
@@ -33,7 +35,7 @@ Subsidiaries must implement physical and environmental protections appropriate t
 
 ---
 
-## 4. Physical Access Authorizations
+### 3.2 Physical Access Authorizations
 
 Physical access to facilities and data centers must be formally authorized. Subsidiaries must maintain role-based access lists, ensuring only personnel with a legitimate business need are granted entry. Dual authorization must be required for highly sensitive areas where critical systems or regulated data are stored.  
 
@@ -41,7 +43,7 @@ Physical access to facilities and data centers must be formally authorized. Subs
 
 ---
 
-## 5. Physical Access Control
+### 3.3 Physical Access Control
 
 Subsidiaries must enforce strict physical access controls, including the use of electronic badging, mantraps, or lockable physical casings where appropriate. Controlled ingress and egress points must be established, and all access must be logged and reviewed.  
 
@@ -49,7 +51,7 @@ Subsidiaries must enforce strict physical access controls, including the use of 
 
 ---
 
-## 6. Monitoring Physical Access
+### 3.4 Monitoring Physical Access
 
 Facilities must be equipped with monitoring systems, including cameras, alarms, and other surveillance equipment. Monitoring must provide coverage for entry/exit points and sensitive areas. Access logs and surveillance records must be retained in accordance with enterprise record retention requirements.  
 
@@ -57,7 +59,7 @@ Facilities must be equipped with monitoring systems, including cameras, alarms, 
 
 ---
 
-## 7. Visitor Control
+### 3.5 Visitor Control
 
 Subsidiaries must implement visitor control measures to distinguish visitors from employees and contractors. Visitors must be registered, wear visible identification, and be escorted at all times when in sensitive areas. Visitor records must be logged and reviewed, and access must be revoked promptly after visits are complete.  
 
@@ -65,7 +67,7 @@ Subsidiaries must implement visitor control measures to distinguish visitors fro
 
 ---
 
-## 8. Compliance & Governance
+## 4. Compliance & Governance
 
 - Subsidiaries must maintain evidence of access authorizations, surveillance system configurations, visitor logs, and physical security reviews.  
 - STH reserves the right to inspect subsidiary facilities or request third-party assessments.  
@@ -73,13 +75,13 @@ Subsidiaries must implement visitor control measures to distinguish visitors fro
 
 ---
 
-## 9. Enforcement
+## 5. Enforcement
 
 Failure to comply with this policy may result in loss of facility access, disciplinary action, termination of employment or contracts, and potential legal action.  
 
 ---
 
-## 10. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.310 (Physical Safeguards)  
@@ -94,7 +96,7 @@ Failure to comply with this policy may result in loss of facility access, discip
 
 ---
 
-## 11. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |

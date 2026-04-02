@@ -25,7 +25,9 @@ This policy applies to all subsidiaries, employees, contractors, and third parti
 
 ---
 
-## 3. Data Privacy Program
+## 3. Policy
+
+### 3.1 Data Privacy Program
 
 STH and its subsidiaries must maintain a documented data privacy program that defines organizational responsibilities, governance, and accountability for protecting personal data. The program must include a formally designated **Chief Privacy Officer (CPO)** role. For STH and all subsidiaries, **Corporate Legal Counsel serves as the designated CPO**, responsible for overseeing privacy activities, ensuring compliance with regulatory requirements, and coordinating responses to privacy incidents.  
 
@@ -33,7 +35,7 @@ STH and its subsidiaries must maintain a documented data privacy program that de
 
 ---
 
-## 4. Data Privacy Notice
+### 3.2 Data Privacy Notice
 
 Subsidiaries must provide clear and accessible privacy notices that inform individuals of data collection practices, purposes of use, and rights under applicable laws. Privacy notices must be reviewed periodically and updated to reflect any changes in processing activities.  
 
@@ -41,7 +43,7 @@ Subsidiaries must provide clear and accessible privacy notices that inform indiv
 
 ---
 
-## 5. Choice & Consent
+### 3.3 Choice & Consent
 
 Individuals must be given appropriate choice and the ability to provide informed consent for the collection and use of their personal data. Consent must be obtained in accordance with regulatory requirements and must be withdrawable at any time without penalty.  
 
@@ -49,7 +51,7 @@ Individuals must be given appropriate choice and the ability to provide informed
 
 ---
 
-## 6. Restrict Collection to Identified Purpose
+### 3.4 Restrict Collection to Identified Purpose
 
 Subsidiaries may only collect personal data for legitimate and explicitly defined purposes. Data collection must be limited to what is necessary to achieve those purposes, and re-use of collected data must be documented and authorized.  
 
@@ -57,7 +59,7 @@ Subsidiaries may only collect personal data for legitimate and explicitly define
 
 ---
 
-## 7. Personal Data Retention & Disposal
+### 3.5 Personal Data Retention & Disposal
 
 Personal data must be retained only as long as necessary to fulfill business, legal, or regulatory obligations. Subsidiaries must securely dispose of personal data once it is no longer required. Disposal processes must ensure data is irretrievable and follow enterprise-approved methods.  
 
@@ -65,7 +67,7 @@ Personal data must be retained only as long as necessary to fulfill business, le
 
 ---
 
-## 8. Data Subject Access
+### 3.6 Data Subject Access
 
 Subsidiaries must implement processes for individuals to access their personal data, request corrections, and exercise rights such as erasure or portability where legally applicable. Requests must be fulfilled in a timely, secure, and verifiable manner.  
 
@@ -73,7 +75,7 @@ Subsidiaries must implement processes for individuals to access their personal d
 
 ---
 
-## 9. Information Sharing With Third Parties
+### 3.7 Information Sharing With Third Parties
 
 Personal data may only be shared with third parties when necessary and authorized. Subsidiaries must establish contracts with third parties that define privacy obligations, prohibit unauthorized disclosures, and require equivalent safeguards.  
 
@@ -81,7 +83,7 @@ Personal data may only be shared with third parties when necessary and authorize
 
 ---
 
-## 10. Testing, Training & Monitoring
+### 3.8 Testing, Training & Monitoring
 
 Subsidiaries must provide regular privacy training to employees and contractors. Privacy controls must be tested periodically to validate effectiveness, and monitoring must be performed to ensure continuous compliance with privacy requirements.  
 
@@ -89,7 +91,7 @@ Subsidiaries must provide regular privacy training to employees and contractors.
 
 ---
 
-## 11. Compliance & Governance
+## 4. Compliance & Governance
 
 - Subsidiaries must maintain evidence of privacy notices, consent forms, retention schedules, and third-party agreements.  
 - STH will periodically review subsidiary compliance with privacy requirements and may require remediation or enhanced controls.  
@@ -97,13 +99,13 @@ Subsidiaries must provide regular privacy training to employees and contractors.
 
 ---
 
-## 12. Enforcement
+## 5. Enforcement
 
 Failure to comply with this policy may result in disciplinary action, loss of access to systems, termination of employment or contracts, and legal action where applicable.  
 
 ---
 
-## 13. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Privacy Rule: 45 CFR §164.520 (Notice of Privacy Practices), §164.522 (Rights to Request Restrictions)  
@@ -122,7 +124,7 @@ Failure to comply with this policy may result in disciplinary action, loss of ac
 
 ---
 
-## 14. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date         | Approved |
 | --- | ------------- | ------------ | -------- |

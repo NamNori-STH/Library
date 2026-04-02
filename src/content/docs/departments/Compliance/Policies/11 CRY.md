@@ -28,7 +28,9 @@ This policy applies to all subsidiaries, systems, applications, endpoints, cloud
 
 ---
 
-## 3. Cryptographic Standards
+## 3. Policy
+
+### 3.1 Cryptographic Standards
 
 STH subsidiaries must adopt industry-accepted cryptographic mechanisms. At a minimum:
 
@@ -43,7 +45,7 @@ Subsidiaries may implement stronger algorithms or newer versions (e.g., TLS 1.3)
 
 ---
 
-## 4. Data in Transit Protections
+### 3.2 Data in Transit Protections
 
 All subsidiaries must ensure sensitive data is encrypted during transmission across internal networks, external connections, partner integrations, and corporate communications. Transmission controls must provide both **confidentiality** and **integrity assurance**.  
 
@@ -53,7 +55,7 @@ Examples include enforcing TLS for web services, securing VPN tunnels with stron
 
 ---
 
-## 5. Data at Rest Protections
+### 3.3 Data at Rest Protections
 
 All subsidiaries must encrypt sensitive data stored on servers, databases, storage volumes, file shares, and endpoint devices. Encryption must be applied at both the platform (e.g., full-disk encryption, storage-level encryption) and, where appropriate, at the application or database level.  
 
@@ -63,7 +65,7 @@ This requirement applies equally to on-premise datacenters and cloud-hosted envi
 
 ---
 
-## 6. Administrative and Endpoint Protections
+### 3.4 Administrative and Endpoint Protections
 
 Administrative access to systems must be encrypted to prevent credential interception or unauthorized manipulation. Remote administration must use secure protocols such as SSH, RDP over TLS, or VPN with strong encryption. Legacy cleartext protocols (e.g., Telnet, FTP) are prohibited.  
 
@@ -73,7 +75,7 @@ Endpoints capable of storing or accessing sensitive data must employ full-disk e
 
 ---
 
-## 7. Wireless Access
+### 3.5 Wireless Access
 
 Subsidiaries must secure corporate wireless networks with strong authentication and encryption methods (e.g., WPA3-Enterprise with 802.1X/EAP-TLS). Guest networks must be logically segmented from corporate systems. Sensitive data may not be transmitted over unencrypted or open wireless networks without an additional secure channel (e.g., VPN).  
 
@@ -81,7 +83,7 @@ Subsidiaries must secure corporate wireless networks with strong authentication 
 
 ---
 
-## 8. Public Key Infrastructure (PKI)
+### 3.6 Public Key Infrastructure (PKI)
 
 Subsidiaries must use PKI to issue and govern certificates for securing communications and validating identities. Certificates must be issued by reputable public Certificate Authorities (CAs) for external services or trusted internal CAs for internal services.  
 
@@ -91,7 +93,7 @@ Certificates must be monitored for expiration, revoked promptly if compromised, 
 
 ---
 
-## 9. Key Management
+### 3.7 Key Management
 
 Cryptographic key management must follow enterprise-approved practices, including:
 
@@ -107,7 +109,7 @@ Subsidiaries may leverage cloud-native solutions (e.g., AWS KMS, Azure Key Vault
 
 ---
 
-## 10. Compliance & Governance
+## 4. Compliance & Governance
 
 - Subsidiaries must maintain evidence (e.g., configuration screenshots, logs, key rotation reports, certificate inventories) to demonstrate compliance with this policy.  
 - Security and compliance teams must perform regular reviews of encryption configurations and practices.  
@@ -115,13 +117,13 @@ Subsidiaries may leverage cloud-native solutions (e.g., AWS KMS, Azure Key Vault
 
 ---
 
-## 11. Enforcement
+## 5. Enforcement
 
 Violations of this policy may result in disciplinary action, up to and including termination of employment, contract suspension, or legal action depending on severity. Summit Technology Holdings reserves the right to revoke access privileges at any time to protect its systems and data.  
 
 ---
 
-## 12. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.312(a)(2)(iv), §164.312(e)(1)  
@@ -139,7 +141,7 @@ Violations of this policy may result in disciplinary action, up to and including
 
 ---
 
-## 13. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description | Date | Approved |
 | --- | ----------- | ---- | -------- |

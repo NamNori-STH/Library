@@ -25,7 +25,9 @@ This policy applies to all changes made to information systems, applications, in
 
 ---
 
-## 3. Change Management Program
+## 3. Policy
+
+### 3.1 Change Management Program
 
 Each subsidiary must implement and maintain a documented change management program. The program must ensure that all changes are requested, documented, reviewed, approved, and tracked through closure. Local processes may be tailored to subsidiary environments but must align with this enterprise policy.  
 
@@ -33,7 +35,7 @@ Each subsidiary must implement and maintain a documented change management progr
 
 ---
 
-## 4. Configuration Change Control
+### 3.2 Configuration Change Control
 
 All configuration changes must follow a formal process that includes change requests, documentation, approval, and verification. Emergency changes may use expedited workflows but must still be logged and reviewed after implementation. Unauthorized changes are prohibited.  
 
@@ -41,7 +43,7 @@ All configuration changes must follow a formal process that includes change requ
 
 ---
 
-## 5. Stakeholder Notification of Changes
+### 3.3 Stakeholder Notification of Changes
 
 Each subsidiary must ensure that relevant stakeholders are notified of approved changes that could affect operations, compliance obligations, or service availability. Notifications should be made in advance when feasible and must include details of the change, potential impacts, and rollback plans.  
 
@@ -49,7 +51,7 @@ Each subsidiary must ensure that relevant stakeholders are notified of approved 
 
 ---
 
-## 6. Compliance & Governance
+## 4. Compliance & Governance
 
 - Subsidiaries must maintain evidence of change requests, approvals, implementation records, and stakeholder notifications.  
 - STH may periodically review subsidiary change management practices for consistency with this policy.  
@@ -57,13 +59,13 @@ Each subsidiary must ensure that relevant stakeholders are notified of approved 
 
 ---
 
-## 7. Enforcement
+## 5. Enforcement
 
 Violations of this policy may result in disciplinary action, contract suspension, or legal action depending on severity. Unauthorized or unapproved changes may result in immediate access restrictions until risks are mitigated.  
 
 ---
 
-## 8. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(B) (Risk Management)  
@@ -76,7 +78,7 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ---
 
-## 9. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |

@@ -30,7 +30,9 @@ This policy applies to all business units, subsidiaries, and affiliates of STH. 
 
 ---
 
-## 3. Statutory, Regulatory & Contractual Compliance
+## 3. Policy
+
+### 3.1 Statutory, Regulatory & Contractual Compliance
 
 STH will identify, document, and track all applicable statutory, regulatory, and contractual obligations. This includes healthcare (HIPAA/HITECH), financial reporting, privacy laws, and customer-driven security requirements. Compliance ownership and accountability rest with STH’s Compliance Office.  
 
@@ -38,7 +40,7 @@ STH will identify, document, and track all applicable statutory, regulatory, and
 
 ---
 
-## 4. Cybersecurity & Data Protection Controls Oversight
+### 3.2 Cybersecurity & Data Protection Controls Oversight
 
 STH will oversee the implementation and operation of cybersecurity and data protection controls across the enterprise. This includes establishing policies, standards, and evidence collection mechanisms to demonstrate compliance with regulatory and contractual requirements. Subsidiaries must implement controls as directed and provide reporting to STH.  
 
@@ -46,7 +48,7 @@ STH will oversee the implementation and operation of cybersecurity and data prot
 
 ---
 
-## 5. Cybersecurity & Data Protection Assessments
+### 3.3 Cybersecurity & Data Protection Assessments
 
 STH will conduct periodic internal and external compliance assessments to verify adherence to statutory, regulatory, and contractual obligations. Independent assessors will be engaged when required (e.g., SOC 2 audits, HIPAA compliance reviews). Assessment results will be documented, communicated to executive leadership, and remediated on a timely basis.  
 
@@ -54,7 +56,7 @@ STH will conduct periodic internal and external compliance assessments to verify
 
 ---
 
-## 6. Compliance & Governance
+## 4. Compliance & Governance
 
 - STH will maintain evidence of compliance obligations, control mappings, audit reports, and assessment results.  
 - Subsidiaries must cooperate fully with compliance assessments and provide requested documentation.  
@@ -62,13 +64,13 @@ STH will conduct periodic internal and external compliance assessments to verify
 
 ---
 
-## 7. Enforcement
+## 5. Enforcement
 
 Violations of this policy, including failure to comply with compliance oversight or audit activities, may result in disciplinary action, contract suspension, or legal action.  
 
 ---
 
-## 8. References
+## 6. References
 
 - **Supporting Standard:**  
   - [Summit Technology Holdings – Compliance Standard](/departments/information-security/standards/08-cpl-std/)
@@ -84,7 +86,7 @@ Violations of this policy, including failure to comply with compliance oversight
 
 ---
 
-## 9. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |

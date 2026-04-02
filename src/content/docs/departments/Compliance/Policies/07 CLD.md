@@ -27,7 +27,9 @@ This policy applies to all cloud services (IaaS, PaaS, SaaS, and hybrid) that ar
 
 ---
 
-## 3. Cloud Services
+## 3. Policy
+
+### 3.1 Cloud Services
 
 All use of cloud services must be reviewed and approved by STH before onboarding. Subsidiaries must conduct risk assessments to ensure that security, compliance, and contractual requirements are met. Offboarding processes must include secure data transfer or deletion, revocation of access, and termination of billing.  
 
@@ -35,7 +37,7 @@ All use of cloud services must be reviewed and approved by STH before onboarding
 
 ---
 
-## 4. Geolocation Requirements for Processing, Storage & Services
+### 3.2 Geolocation Requirements for Processing, Storage & Services
 
 Subsidiaries must ensure that sensitive data (including ePHI and financial information) is processed, stored, and transmitted only within approved geographic regions. Cloud service providers (CSPs) must disclose data residency and replication practices, and subsidiaries must configure services to comply with Summit’s geolocation requirements.  
 
@@ -43,7 +45,7 @@ Subsidiaries must ensure that sensitive data (including ePHI and financial infor
 
 ---
 
-## 5. Cloud Access Security Broker (CASB)
+### 3.3 Cloud Access Security Broker (CASB)
 
 Each subsidiary must implement and maintain a **Cloud Access Security Broker (CASB)** or equivalent security control for their cloud environments. The CASB capability must provide visibility into cloud usage, enforce policy controls, detect shadow IT, and generate reports for compliance purposes. STH will oversee the consistency of CASB implementation across subsidiaries to ensure enterprise-wide coverage.  
 
@@ -51,7 +53,7 @@ Each subsidiary must implement and maintain a **Cloud Access Security Broker (CA
 
 ---
 
-## 6. Compliance & Governance
+## 4. Compliance & Governance
 
 - Subsidiaries must maintain evidence of cloud service approvals, risk assessments, geolocation configurations, and CASB reports.  
 - STH will review subsidiary cloud usage to ensure alignment with enterprise cloud security requirements.  
@@ -59,13 +61,13 @@ Each subsidiary must implement and maintain a **Cloud Access Security Broker (CA
 
 ---
 
-## 7. Enforcement
+## 5. Enforcement
 
 Violations of this policy may result in disciplinary action, suspension of contracts, or legal action depending on severity. STH reserves the right to suspend or terminate use of cloud services that do not meet enterprise requirements.  
 
 ---
 
-## 8. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(B) (Risk Management)  
@@ -78,7 +80,7 @@ Violations of this policy may result in disciplinary action, suspension of contr
 
 ---
 
-## 9. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |

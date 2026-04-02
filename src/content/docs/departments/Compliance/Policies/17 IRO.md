@@ -25,7 +25,9 @@ This policy applies to all STH subsidiaries, employees, contractors, systems, ne
 
 ---
 
-## 3. Incident Response Operations
+## 3. Policy
+
+### 3.1 Incident Response Operations
 
 STH requires subsidiaries to establish documented incident response operations capable of detecting, analyzing, responding to, and recovering from cybersecurity incidents. These operations must be formally approved, regularly maintained, and integrated into broader business continuity and disaster recovery processes.  
 
@@ -33,7 +35,7 @@ STH requires subsidiaries to establish documented incident response operations c
 
 ---
 
-## 4. Incident Handling
+### 3.2 Incident Handling
 
 Subsidiaries must follow a structured process for handling incidents, including detection, reporting, triage, containment, eradication, recovery, and post-incident review. The process must clearly define roles, responsibilities, escalation paths, and communication protocols.  
 
@@ -41,7 +43,7 @@ Subsidiaries must follow a structured process for handling incidents, including 
 
 ---
 
-## 5. Incident Response Plan (IRP)
+### 3.3 Incident Response Plan (IRP)
 
 Each subsidiary must maintain an Incident Response Plan (IRP) aligned with this policy. The IRP must define procedures for various incident types, identify responsible personnel, and include communication and escalation requirements. Plans must be reviewed and updated at least annually or following a significant incident.  
 
@@ -49,7 +51,7 @@ Each subsidiary must maintain an Incident Response Plan (IRP) aligned with this 
 
 ---
 
-## 6. Incident Response Testing
+### 3.4 Incident Response Testing
 
 Subsidiaries must test their IRPs on at least an annual basis through tabletop exercises, simulations, or live tests. Testing ensures personnel are familiar with their roles, plans remain current, and gaps are identified for remediation.  
 
@@ -57,7 +59,7 @@ Subsidiaries must test their IRPs on at least an annual basis through tabletop e
 
 ---
 
-## 7. Integrated Security Incident Response Team (SIRT)
+### 3.5 Integrated Security Incident Response Team (SIRT)
 
 Subsidiaries must maintain a Security Incident Response Team (SIRT) or equivalent capability that integrates with STH’s governance and oversight. The SIRT must include clearly assigned roles and provide cross-functional representation, including IT, security, legal, and compliance.  
 
@@ -65,7 +67,7 @@ Subsidiaries must maintain a Security Incident Response Team (SIRT) or equivalen
 
 ---
 
-## 8. Chain of Custody & Forensics
+### 3.6 Chain of Custody & Forensics
 
 Subsidiaries must preserve evidence through appropriate forensic practices, including documentation of chain of custody for digital and physical evidence. Evidence must be collected in a manner that is admissible in legal or regulatory proceedings.  
 
@@ -73,7 +75,7 @@ Subsidiaries must preserve evidence through appropriate forensic practices, incl
 
 ---
 
-## 9. Situational Awareness for Incidents
+### 3.7 Situational Awareness for Incidents
 
 Subsidiaries must maintain situational awareness of incident activity through continuous monitoring, alerting, and information-sharing with STH. Lessons learned from external threat intelligence and industry sources must be incorporated into incident response procedures.  
 
@@ -81,7 +83,7 @@ Subsidiaries must maintain situational awareness of incident activity through co
 
 ---
 
-## 10. Incident Stakeholder Reporting
+### 3.8 Incident Stakeholder Reporting
 
 All incidents must be reported to appropriate stakeholders in a timely manner. Internal notifications must escalate through security and executive leadership, while external notifications (e.g., regulators, partners, customers) must follow legal and contractual requirements.  
 
@@ -89,7 +91,7 @@ All incidents must be reported to appropriate stakeholders in a timely manner. I
 
 ---
 
-## 11. Root Cause Analysis & Lessons Learned
+### 3.9 Root Cause Analysis & Lessons Learned
 
 Following each major incident, subsidiaries must perform a root cause analysis (RCA) to identify contributing factors and corrective actions. Lessons learned must be incorporated into improved processes, updated playbooks, and revised training.  
 
@@ -97,7 +99,7 @@ Following each major incident, subsidiaries must perform a root cause analysis (
 
 ---
 
-## 12. Regulatory & Law Enforcement Contacts
+### 3.10 Regulatory & Law Enforcement Contacts
 
 STH will maintain formal points of contact with regulatory authorities and law enforcement. Subsidiaries must escalate incidents with potential legal, criminal, or regulatory impact to STH for coordinated response and disclosure.  
 
@@ -105,7 +107,7 @@ STH will maintain formal points of contact with regulatory authorities and law e
 
 ---
 
-## 13. Compliance & Governance
+## 4. Compliance & Governance
 
 - Subsidiaries must retain incident records, IRP documentation, testing evidence, and RCA reports.  
 - STH will periodically review subsidiary IRPs and incident response activities to ensure alignment with enterprise requirements.  
@@ -113,13 +115,13 @@ STH will maintain formal points of contact with regulatory authorities and law e
 
 ---
 
-## 14. Enforcement
+## 5. Enforcement
 
 Failure to comply with this policy may result in disciplinary action, suspension of system access, or termination of employment or contracts. STH reserves the right to assume control of incident response activities when necessary to protect enterprise operations.  
 
 ---
 
-## 15. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.308(a)(6) (Security Incident Procedures)  
@@ -139,7 +141,7 @@ Failure to comply with this policy may result in disciplinary action, suspension
 
 ---
 
-## 16. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |

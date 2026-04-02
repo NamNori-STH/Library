@@ -24,7 +24,9 @@ This policy applies to all employees, contractors, interns, and temporary staff 
 
 ---
 
-## 3. Human Resources Security Management
+## 3. Policy
+
+### 3.1 Human Resources Security Management
 
 STH will maintain an HR security management program that integrates personnel policies, procedures, and training with information security objectives.  
 
@@ -32,7 +34,7 @@ STH will maintain an HR security management program that integrates personnel po
 
 ---
 
-## 4. Position Categorization
+### 3.2 Position Categorization
 
 Roles will be categorized based on sensitivity and access requirements. Elevated privilege positions will be identified, documented, and subject to additional controls.  
 
@@ -40,7 +42,7 @@ Roles will be categorized based on sensitivity and access requirements. Elevated
 
 ---
 
-## 5. Defined Roles & Responsibilities
+### 3.3 Defined Roles & Responsibilities
 
 All roles will have defined responsibilities that include security and compliance obligations. Employees must acknowledge their responsibilities upon hire and when roles change.  
 
@@ -48,7 +50,7 @@ All roles will have defined responsibilities that include security and complianc
 
 ---
 
-## 6. Personnel Screening
+### 3.4 Personnel Screening
 
 STH will conduct background checks and other screening activities consistent with regulatory, contractual, and business requirements prior to granting access to sensitive systems or data.  
 
@@ -56,7 +58,7 @@ STH will conduct background checks and other screening activities consistent wit
 
 ---
 
-## 7. Terms of Employment
+### 3.5 Terms of Employment
 
 Terms of employment will include adherence to corporate policies, standards of conduct, and regulatory obligations. Employees must formally acknowledge rules of behavior and acceptable use.  
 
@@ -64,7 +66,7 @@ Terms of employment will include adherence to corporate policies, standards of c
 
 ---
 
-## 8. Access Agreements
+### 3.6 Access Agreements
 
 All individuals with access to sensitive data or systems must sign access agreements, including confidentiality agreements and post-employment obligations where required.  
 
@@ -72,7 +74,7 @@ All individuals with access to sensitive data or systems must sign access agreem
 
 ---
 
-## 9. Personnel Sanctions
+### 3.7 Personnel Sanctions
 
 Violations of information security policies, procedures, or agreements may result in personnel sanctions up to and including termination, legal action, or contract suspension.  
 
@@ -80,7 +82,7 @@ Violations of information security policies, procedures, or agreements may resul
 
 ---
 
-## 10. Personnel Transfer
+### 3.8 Personnel Transfer
 
 Security requirements will be reviewed whenever personnel are transferred between roles or subsidiaries. Access rights must be updated promptly to reflect new responsibilities and prevent inappropriate access.  
 
@@ -88,7 +90,7 @@ Security requirements will be reviewed whenever personnel are transferred betwee
 
 ---
 
-## 11. Personnel Termination
+### 3.9 Personnel Termination
 
 STH will ensure timely revocation of access, retrieval of company assets, and documentation of exit procedures during employee terminations. High-risk terminations may require additional safeguards.  
 
@@ -96,7 +98,7 @@ STH will ensure timely revocation of access, retrieval of company assets, and do
 
 ---
 
-## 12. Separation of Duties
+### 3.10 Separation of Duties
 
 Roles and responsibilities will be designed to enforce separation of duties, ensuring that no individual has excessive system or process control without independent oversight.  
 
@@ -104,7 +106,7 @@ Roles and responsibilities will be designed to enforce separation of duties, ens
 
 ---
 
-## 13. Compliance & Governance
+## 4. Compliance & Governance
 
 - STH HR will maintain documentation of screening records, access agreements, sanction records, transfers, and termination activities.  
 - Access rights reviews will be coordinated with IT Security to ensure alignment with least privilege and SoD requirements.  
@@ -112,13 +114,13 @@ Roles and responsibilities will be designed to enforce separation of duties, ens
 
 ---
 
-## 14. Enforcement
+## 5. Enforcement
 
 Violations of this policy may result in disciplinary action, termination of employment, contract suspension, or legal action depending on severity.  
 
 ---
 
-## 15. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.308(a)(3) (Workforce Security)  
@@ -138,7 +140,7 @@ Violations of this policy may result in disciplinary action, termination of empl
 
 ---
 
-## 16. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |

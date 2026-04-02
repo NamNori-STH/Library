@@ -24,7 +24,9 @@ This policy applies to all STH subsidiaries, employees, contractors, and third p
 
 ---
 
-## 3. Threat Intelligence Program
+## 3. Policy
+
+### 3.1 Threat Intelligence Program
 
 STH maintains the enterprise Threat Intelligence Program, which is responsible for collecting data from trusted government, industry, vendor, and open-source sources. STH validates, correlates, and disseminates relevant threat information to subsidiaries. Subsidiaries must integrate this intelligence into their local monitoring, detection, and risk management processes.  
 
@@ -32,7 +34,7 @@ STH maintains the enterprise Threat Intelligence Program, which is responsible f
 
 ---
 
-## 4. Threat Intelligence Feeds
+### 3.2 Threat Intelligence Feeds
 
 STH centrally subscribes to and manages all enterprise threat intelligence feeds. Intelligence from these feeds is analyzed by STH and distributed to subsidiaries in the form of alerts, advisories, and recommended defensive measures. Subsidiaries are required to implement these defensive measures in their environments.  
 
@@ -40,16 +42,15 @@ STH centrally subscribes to and manages all enterprise threat intelligence feeds
 
 ---
 
-## 5. Threat Catalog
+### 3.3 Threat Catalog
 
 STH maintains access to actively maintained **third-party threat catalogs** provided by trusted intelligence vendors and industry sources. These catalogs include threat actor profiles, tactics, techniques, and procedures (TTPs), and are continuously updated. STH curates and shares relevant information with subsidiaries, who must review and apply updates relevant to their operational environments.  
-
 
 - **SCF Mapping:** THR-09 (*Threat Catalog*)  
 
 ---
 
-## 6. Threat Analysis
+### 3.4 Threat Analysis
 
 STH performs enterprise-level threat analysis to identify trends, prioritize defensive strategies, and inform risk management activities. The results of this analysis are communicated to subsidiaries, who are responsible for integrating recommendations into their local processes, including incident response and vulnerability management.  
 
@@ -57,7 +58,7 @@ STH performs enterprise-level threat analysis to identify trends, prioritize def
 
 ---
 
-## 7. Compliance & Governance
+## 4. Compliance & Governance
 
 - STH will maintain evidence of subscribed threat feeds, the enterprise threat catalog, and analysis activities.  
 - Subsidiaries must demonstrate that they have implemented recommended mitigations or compensating controls based on STH-provided intelligence.  
@@ -65,13 +66,13 @@ STH performs enterprise-level threat analysis to identify trends, prioritize def
 
 ---
 
-## 8. Enforcement
+## 5. Enforcement
 
 Failure by subsidiaries to apply or act upon intelligence provided by STH may result in disciplinary action, suspension of system access, or contract termination. STH reserves the right to audit subsidiary environments for adherence to threat management requirements.  
 
 ---
 
-## 9. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A), §164.308(a)(6)  
@@ -85,7 +86,7 @@ Failure by subsidiaries to apply or act upon intelligence provided by STH may re
 
 ---
 
-## 10. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date         | Approved |
 | --- | ------------- | ------------ | -------- |

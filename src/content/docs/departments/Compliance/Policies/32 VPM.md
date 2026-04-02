@@ -27,7 +27,9 @@ This policy applies to all systems, applications, databases, cloud workloads, in
 
 ---
 
-## 3. Vulnerability Identification
+## 3. Policy
+
+### 3.1 Vulnerability Identification
 
 STH will ensure that vulnerabilities are identified using automated scanning tools, threat intelligence feeds, and security advisories from trusted sources. Subsidiaries must schedule recurring vulnerability scans of production systems and applications, with high-risk systems scanned more frequently. Critical vulnerabilities may also be identified through penetration tests or external security research.  
 
@@ -35,7 +37,7 @@ STH will ensure that vulnerabilities are identified using automated scanning too
 
 ---
 
-## 4. Vulnerability Assessment & Prioritization
+### 3.2 Vulnerability Assessment & Prioritization
 
 Identified vulnerabilities must be assessed based on severity, exploitability, business impact, and system exposure. Subsidiaries must use industry-standard scoring frameworks (e.g., CVSS) and business risk criteria to prioritize remediation. Vulnerabilities that threaten sensitive data or business-critical systems must be assigned the highest priority.  
 
@@ -43,7 +45,7 @@ Identified vulnerabilities must be assessed based on severity, exploitability, b
 
 ---
 
-## 5. Patch Management Program
+### 3.3 Patch Management Program
 
 All subsidiaries must maintain a formal patch management program that ensures operating systems, applications, and firmware are updated in a timely manner. Security patches must be applied according to risk-based timelines defined by Summit (e.g., critical patches within days, lower severity patches within weeks). Emergency out-of-band patching must be supported for high-risk threats.  
 
@@ -51,7 +53,7 @@ All subsidiaries must maintain a formal patch management program that ensures op
 
 ---
 
-## 6. Testing & Validation of Patches
+### 3.4 Testing & Validation of Patches
 
 Whenever possible, patches must be tested in a controlled or staging environment before deployment to production. Testing should validate stability, compatibility, and security effectiveness. If no suitable test environment exists, subsidiaries must take a risk-based approach to patch deployment, including change control approvals and rollback plans to minimize the risk of operational disruption.  
 
@@ -59,7 +61,7 @@ Whenever possible, patches must be tested in a controlled or staging environment
 
 ---
 
-## 7. Patch Deployment & Remediation
+### 3.5 Patch Deployment & Remediation
 
 Approved patches must be deployed to production systems according to defined timelines. Where immediate patching is not feasible, subsidiaries must implement compensating controls (e.g., configuration changes, access restrictions, intrusion prevention signatures) until full remediation is possible.  
 
@@ -67,7 +69,7 @@ Approved patches must be deployed to production systems according to defined tim
 
 ---
 
-## 8. Verification & Metrics
+### 3.6 Verification & Metrics
 
 STH will verify the effectiveness of patch management activities through follow-up scans, metrics, and reporting. Subsidiaries must track remediation progress, measure compliance with patch timelines, and provide evidence to STH’s Security Team upon request.  
 
@@ -75,7 +77,7 @@ STH will verify the effectiveness of patch management activities through follow-
 
 ---
 
-## 9. Vulnerability & Patch Management Documentation
+### 3.7 Vulnerability & Patch Management Documentation
 
 Subsidiaries must document vulnerability and patch management processes, including scanning schedules, patch testing procedures, remediation timelines, and exception handling. Documentation must be maintained as evidence for audits, regulatory requirements, and risk management activities.  
 
@@ -83,7 +85,7 @@ Subsidiaries must document vulnerability and patch management processes, includi
 
 ---
 
-## 10. Compliance & Governance
+## 4. Compliance & Governance
 
 - Subsidiaries must maintain evidence (e.g., scan results, patch deployment logs, risk assessments) to demonstrate compliance with this policy.  
 - STH’s Security and Compliance teams will perform periodic audits of vulnerability and patch management practices.  
@@ -91,13 +93,13 @@ Subsidiaries must document vulnerability and patch management processes, includi
 
 ---
 
-## 11. Enforcement
+## 5. Enforcement
 
 Violations of this policy may result in disciplinary action, up to and including termination of employment, contract suspension, or legal action depending on severity. Summit Technology Holdings reserves the right to restrict or disconnect systems that fail to meet patching requirements.  
 
 ---
 
-## 12. References
+## 6. References
 
 - **Regulatory Requirements:**  
   - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis) and §164.308(a)(1)(ii)(B) (Risk Management)  
@@ -114,7 +116,7 @@ Violations of this policy may result in disciplinary action, up to and including
 
 ---
 
-## 13. Revision Tracking
+## 7. Revision Tracking
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |
