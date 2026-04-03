@@ -105,7 +105,7 @@ The use of removable media (e.g., USB drives, external hard drives) must be rest
 
 Subsidiaries must restrict and control the use of external information systems for processing or storing STH data. If external systems are authorized, they must comply with enterprise security requirements.  
 
-- **SCF Mapping:** DCH-13 (*Use of External Information Systems*)  
+- **SCF Mapping:** DCH-13 (*Use of External Technology Assets, Applications and/or Services (TAAS)*)  
 
 ---
 
@@ -155,7 +155,7 @@ Violations of this policy may result in disciplinary action, contract suspension
   - DCH-08 – Physical Media Disposal  
   - DCH-09 – System Media Sanitization  
   - DCH-12 – Removable Media Security  
-  - DCH-13 – Use of External Information Systems  
+  - DCH-13 – Use of External Technology Assets, Applications and/or Services (TAAS)  
   - DCH-18 – Media & Data Retention  
   - DCH-21 – Information Disposal  
 
@@ -165,4 +165,4 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | September 2025 | M Machin |
+| -   | Policy create

@@ -33,7 +33,7 @@ This policy applies to all subsidiaries, systems, applications, endpoints, and i
 
 All user, service, and system accounts must be uniquely identifiable, provisioned through documented approvals, and promptly deactivated when no longer required. Shared accounts are prohibited unless approved through formal exception with compensating controls. Emergency access accounts (commonly referred to as "break glass" accounts) are a recognized exception category: they may be configured as shared accounts with permanent privileged assignments where operationally necessary, provided that a formal procedure documents the account's purpose, access controls, authorized custodians, and compensating controls including comprehensive monitoring and alerting. Orphaned and inactive accounts must be detected and removed through automated or manual reviews.  
 
-- **SCF Mapping:** IAC-01 (*Identity & Access Management*), IAC-15 (*Automated Account Management*), IAC-15.9 (*Emergency Accounts*).  
+- **SCF Mapping:** IAC-01 (*Identity & Access Management (IAM)*), IAC-15 (*Account Management*), IAC-15.9 (*Emergency Accounts*).  
 
 ---
 
@@ -43,7 +43,7 @@ Multi-Factor Authentication (MFA) is required for **all accounts**, without exce
 
 Passwords and authenticators must follow enterprise standards for complexity, expiration, and secure storage. Authentication mechanisms must resist replay, brute-force, and phishing attacks, and must not allow vendor-supplied defaults or insecure recovery mechanisms.  
 
-- **SCF Mapping:** IAC-02 (*Identification & Authentication for Users*), IAC-06 (*Multi-Factor Authentication*), IAC-07 (*Replay-Resistant Authentication*), IAC-09 (*Password Management*), IAC-10 (*Authenticator Management*), IAC-16 (*Password Complexity*).  
+- **SCF Mapping:** IAC-02 (*Identification & Authentication for Organizational Users*), IAC-02.2 (*Replay-Resistant Authentication*), IAC-06 (*Multi-Factor Authentication (MFA)*), IAC-09 (*Identifier Management (User Names)*), IAC-10 (*Authenticator Management*), IAC-10.1 (*Password-Based Authentication*).  
 
 ---
 
@@ -51,7 +51,7 @@ Passwords and authenticators must follow enterprise standards for complexity, ex
 
 Subsidiaries must implement role-based access control (RBAC) or attribute-based access control (ABAC) where feasible. Privileges must align with job responsibilities and be limited to the minimum necessary. Privileged access must be time-bound, tightly scoped, and subject to enhanced approval and monitoring.  Documented exceptions to time-bound privileged access are permissible where operationally justified — such as emergency access accounts that must remain accessible when just-in-time activation mechanisms are themselves unavailable — provided that compensating controls are in place and the exception is formally risk-accepted and reviewed periodically.
 
-- **SCF Mapping:** IAC-08 (*Role-Based Access Control*), IAC-21 (*Least Privilege*), IAC-28 (*Attribute-Based Access Control*).  
+- **SCF Mapping:** IAC-08 (*Role-Based Access Control (RBAC)*), IAC-21 (*Least Privilege*), IAC-29 (*Attribute-Based Access Control (ABAC)*).  
 
 ---
 
@@ -59,7 +59,7 @@ Subsidiaries must implement role-based access control (RBAC) or attribute-based 
 
 System access must be enforced according to defined authorizations. Access rights must be revoked immediately upon employee termination, role change, or contract end. Automated processes should ensure timely deprovisioning.  
 
-- **SCF Mapping:** IAC-20 (*Access Enforcement*), IAC-22 (*Revocation of Access*).  
+- **SCF Mapping:** IAC-20 (*Access Enforcement*), IAC-20.6 (*Revocation of Access Authorizations*).  
 
 ---
 
@@ -99,23 +99,24 @@ Violations of this policy may result in disciplinary action, up to and including
   - HIPAA Security Rule: 45 CFR §164.312(d) (Person or Entity Authentication)  
   - AICPA SOC 2 Trust Services Criteria: Security (CC6, CC7), Confidentiality (C1)  
 
-- **Framework Alignment:**  
-  - IAC-01 – Identity & Access Management  
-  - IAC-02 – Identification & Authentication for Users  
-  - IAC-06 – Multi-Factor Authentication  
-  - IAC-07 – Replay-Resistant Authentication  
-  - IAC-08 – Role-Based Access Control (RBAC)  
-  - IAC-09 – Password Management  
-  - IAC-10 – Authenticator Management  
-  - IAC-15 – Automated Account Management  
-  - IAC-16 – Password Complexity  
-  - IAC-17 – Periodic Review of Account Privileges  
-  - IAC-20 – Access Enforcement  
-  - IAC-21 – Least Privilege  
-  - IAC-22 – Revocation of Access  
-  - IAC-24 – Session Lock  
-  - IAC-25 – Session Termination  
-  - IAC-28 – Attribute-Based Access Control (ABAC)  
+- **Framework Alignment:**
+  - IAC-01 – Identity & Access Management (IAM)
+  - IAC-02 – Identification & Authentication for Organizational Users
+  - IAC-02.2 – Replay-Resistant Authentication
+  - IAC-06 – Multi-Factor Authentication (MFA)
+  - IAC-08 – Role-Based Access Control (RBAC)
+  - IAC-09 – Identifier Management (User Names)
+  - IAC-10 – Authenticator Management
+  - IAC-10.1 – Password-Based Authentication
+  - IAC-15 – Account Management
+  - IAC-15.9 – Emergency Accounts
+  - IAC-17 – Periodic Review of Account Privileges
+  - IAC-20 – Access Enforcement
+  - IAC-20.6 – Revocation of Access Authorizations
+  - IAC-21 – Least Privilege
+  - IAC-24 – Session Lock
+  - IAC-25 – Session Termination
+  - IAC-29 – Attribute-Based Access Control (ABAC)  
 
 ---
 
@@ -125,3 +126,4 @@ Violations of this policy may result in disciplinary action, up to and including
 | --- | ------------- | ------------- | -------- |
 | - | Policy created | September 2025 | M Machin |
 | 1 | 3.1 and 3.3 updated to account for Break Glass account | March 2026 | M Machin |
+| 2 | Updated to SCF 2026.1; corrected IAC control numbers throughout | April 2026 | M Machin |

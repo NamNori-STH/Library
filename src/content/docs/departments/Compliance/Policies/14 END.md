@@ -33,7 +33,7 @@ This policy applies to all endpoints managed by subsidiaries, including desktops
 
 Subsidiaries must implement an endpoint security program that includes documented procedures, centrally managed security tools, and compliance monitoring. The program must ensure that endpoints remain hardened, patched, and monitored for threats.  
 
-- **SCF Mapping:** END-01 (*Endpoint Security*)  
+- **SCF Mapping:** END-01 (*Endpoint Device Management (EDM)*)  
 
 ---
 
@@ -73,7 +73,7 @@ Endpoints must employ file integrity monitoring (FIM) capabilities that detect u
 
 Subsidiaries must deploy host intrusion detection and prevention systems (HIDPS) where feasible to detect suspicious activity and block malicious behavior on endpoints. Logs and alerts must be centrally collected and reviewed.  
 
-- **SCF Mapping:** END-07 (*Host Intrusion Detection and Prevention Systems (HIDPS)*)  
+- **SCF Mapping:** END-07 (*Host Intrusion Detection and Prevention Systems (HIDS / HIPS)*)  
 
 ---
 
@@ -114,12 +114,12 @@ Violations of this policy may result in disciplinary action, contract suspension
   - AICPA SOC 2 Trust Services Criteria: Security (CC6.1, CC6.2, CC7.1, CC7.2)  
 
 - **Framework Alignment:**  
-  - END-01 – Endpoint Security  
+  - END-01 – Endpoint Device Management (EDM)  
   - END-02 – Endpoint Protection Measures  
   - END-04 – Malicious Code Protection (Anti-Malware)  
   - END-05 – Software Firewall  
   - END-06 – Endpoint File Integrity Monitoring (FIM)  
-  - END-07 – Host Intrusion Detection and Prevention Systems (HIDPS)  
+  - END-07 – Host Intrusion Detection and Prevention Systems (HIDS / HIPS)  
   - END-08 – Phishing & Spam Protection  
   - END-15 – Hypervisor Access  
 
@@ -129,4 +129,4 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | September 2025 | M Machin |
+| -   | Policy created | Sep

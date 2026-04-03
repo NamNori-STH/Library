@@ -41,7 +41,7 @@ All use of cloud services must be reviewed and approved by STH before onboarding
 
 Subsidiaries must ensure that sensitive data (including ePHI and financial information) is processed, stored, and transmitted only within approved geographic regions. Cloud service providers (CSPs) must disclose data residency and replication practices, and subsidiaries must configure services to comply with Summit’s geolocation requirements.  
 
-- **SCF Mapping:** CLD-09 (*Geolocation Requirements for Processing, Storage & Services*)  
+- **SCF Mapping:** CLD-09 (*Geolocation Requirements for Processing, Storage and Service Locations*)  
 
 ---
 
@@ -75,7 +75,7 @@ Violations of this policy may result in disciplinary action, suspension of contr
 
 - **Framework Alignment:**  
   - CLD-01 – Cloud Services  
-  - CLD-09 – Geolocation Requirements for Processing, Storage & Services  
+  - CLD-09 – Geolocation Requirements for Processing, Storage and Service Locations  
   - CLD-11 – Cloud Access Security Broker (CASB)  
 
 ---
@@ -84,4 +84,4 @@ Violations of this policy may result in disciplinary action, suspension of contr
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | September 2025 | M Machin |
+| -   | Policy created | Septembe

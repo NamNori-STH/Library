@@ -41,7 +41,7 @@ STH will establish enterprise-wide requirements for secure technology developmen
 
 All software development must follow secure coding practices. Subsidiaries must maintain written secure coding standards and provide secure coding training for developers at least annually. Peer reviews must verify that code meets security requirements, and any security-related defects must be tracked to closure.  
 
-- **SCF Mapping:** TDA-06 (*Secure Coding*)  
+- **SCF Mapping:** TDA-06 (*Secure Software Development Practices (SSDP)*)  
 
 ---
 
@@ -91,7 +91,7 @@ Violations of this policy may result in disciplinary action, termination of empl
 
 - **Framework Alignment:**  
   - TDA-01 – Technology Development & Acquisition  
-  - TDA-06 – Secure Coding  
+  - TDA-06 – Secure Software Development Practices (SSDP)  
   - TDA-07 – Secure Development Environments  
   - TDA-08 – Separation of Development, Testing and Operational Environments  
   - TDA-10 – Use of Live Data  
@@ -102,4 +102,4 @@ Violations of this policy may result in disciplinary action, termination of empl
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | September 2025 | M Machin |
+| -   | Policy created | Septem

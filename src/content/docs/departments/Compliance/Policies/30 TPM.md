@@ -38,7 +38,7 @@ The policy covers both new engagements and the ongoing management of existing ve
 
 STH will maintain a centralized inventory of all third parties engaged across the enterprise. Vendors will be classified according to the criteria in Section 2 (criticality, access to sensitive data, or access to internal systems/networks). Higher-risk vendors will be subject to stricter onboarding requirements, more frequent reviews, and heightened monitoring. Subsidiaries are responsible for notifying STH of new vendor needs or changes so that vendors may be inventoried and assessed appropriately.  
 
-- **SCF Mapping:** TPM-01 (*Inventory of Third Parties*).  
+- **SCF Mapping:** TPM-01 (*Third-Party Management*).  
 
 ---
 
@@ -46,7 +46,7 @@ STH will maintain a centralized inventory of all third parties engaged across th
 
 STH will conduct security and risk assessments of all vendors that meet the applicability criteria before contracts are executed. Assessments will evaluate the vendor’s security posture, ability to protect sensitive data, and compliance with relevant regulations (e.g., HIPAA, SOC 2). Vendors classified as critical, sensitive-data handlers, or network/system integrators will receive higher levels of due diligence. Risk assessments will be repeated periodically based on vendor classification. Subsidiaries must cooperate with STH’s information gathering efforts but will not conduct assessments independently.  
 
-- **SCF Mapping:** TPM-02 (*Third Party Risk Assessments*).  
+- **SCF Mapping:** TPM-02 (*Third-Party Criticality Assessments*).  
 
 ---
 
@@ -54,7 +54,7 @@ STH will conduct security and risk assessments of all vendors that meet the appl
 
 All vendor contracts will be negotiated, reviewed, and executed under the authority of Summit Technology Holdings. Contracts involving access to sensitive data must include appropriate data protection clauses, right-to-audit provisions, breach notification obligations, and, where required by HIPAA, Business Associate Agreements (BAAs). Subsidiaries must not engage vendors outside of STH’s contracting process except by explicit written approval from Summit leadership.  
 
-- **SCF Mapping:** TPM-04 (*Third Party Contracts*).  
+- **SCF Mapping:** TPM-04 (*Third-Party Services*).  
 
 ---
 
@@ -62,7 +62,7 @@ All vendor contracts will be negotiated, reviewed, and executed under the author
 
 STH will oversee all vendors through periodic monitoring and due diligence reviews. The level of monitoring will be proportionate to vendor classification (critical, sensitive-data, network/system access). Monitoring may include SOC 2 Type II reports, HIPAA attestations, penetration test results, and security questionnaires. Subsidiaries must escalate any vendor-related performance or security concerns to STH immediately for investigation and resolution.  
 
-- **SCF Mapping:** TPM-05 (*Third Party Monitoring*).  
+- **SCF Mapping:** TPM-05 (*Third-Party Contract Requirements*).  
 
 ---
 
@@ -70,7 +70,7 @@ STH will oversee all vendors through periodic monitoring and due diligence revie
 
 When a vendor relationship ends, STH is responsible for ensuring that all access to systems, data, and facilities is revoked. Vendors must return or securely destroy Summit-owned or subsidiary-owned data, with certification of destruction provided as evidence. Contract closure activities must be documented and reviewed by management. Subsidiaries must not manage vendor termination independently, but must coordinate with STH to ensure proper disengagement.  
 
-- **SCF Mapping:** TPM-08 (*Termination of Third Party Relationships*).  
+- **SCF Mapping:** TPM-08 (*Review of Third-Party Services*).  
 
 ---
 
@@ -108,11 +108,11 @@ Violations of this policy may result in disciplinary action, up to and including
   - AICPA SOC 2 Trust Services Criteria: Risk Mitigation (CC9.2), Vendor Management (CC3.1)  
 
 - **Framework Alignment:**  
-  - TPM-01 – Inventory of Third Parties  
-  - TPM-02 – Third Party Risk Assessments  
-  - TPM-04 – Third Party Contracts  
-  - TPM-05 – Third Party Monitoring  
-  - TPM-08 – Termination of Third Party Relationships  
+  - TPM-01 – Third-Party Management  
+  - TPM-02 – Third-Party Criticality Assessments  
+  - TPM-04 – Third-Party Services  
+  - TPM-05 – Third-Party Contract Requirements  
+  - TPM-08 – Review of Third-Party Services  
 
 ---
 
@@ -120,4 +120,4 @@ Violations of this policy may result in disciplinary action, up to and including
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | September 2025 | M Machin |
+| -   | Policy created | Septe

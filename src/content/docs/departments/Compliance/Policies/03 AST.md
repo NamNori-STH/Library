@@ -61,7 +61,7 @@ Every asset must have an assigned owner who is accountable for its use, security
 
 Each subsidiary is responsible for maintaining up-to-date network diagrams and data flow diagrams (DFDs) that document their local environments, trust boundaries, and movement of sensitive data such as ePHI. STH will establish enterprise standards for diagram formats and content, while subsidiaries must ensure diagrams are kept current and submitted to STH for central governance and risk management purposes.  
 
-- **SCF Mapping:** AST-04 (*Network Diagrams & Data Flow Diagrams*)  
+- **SCF Mapping:** AST-04 (*Network Diagrams & Data Flow Diagrams (DFDs)*)  
 
 ---
 
@@ -105,7 +105,7 @@ Violations of this policy may result in disciplinary action, contract suspension
   - AST-01 – Asset Governance  
   - AST-02 – Asset Inventories  
   - AST-03 – Asset Ownership Assignment  
-  - AST-04 – Network Diagrams & Data Flow Diagrams  
+  - AST-04 – Network Diagrams & Data Flow Diagrams (DFDs)  
   - AST-09 – Secure Disposal, Destruction or Re-Use of Equipment  
   - AST-10 – Return of Assets  
 
@@ -115,4 +115,4 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | September 2025 | M Machin |
+| -   | Policy created | Septe

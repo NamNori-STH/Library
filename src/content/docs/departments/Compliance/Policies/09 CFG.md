@@ -41,7 +41,7 @@ Each subsidiary must establish a documented configuration management program tha
 
 All systems must be deployed using hardened baseline configurations aligned with industry best practices (e.g., CIS Benchmarks, DISA STIGs). Baseline configurations must be documented, approved, and periodically reviewed. Deviations must be explicitly approved and tracked.  
 
-- **SCF Mapping:** CFG-02 (*System Hardening Through Baseline Configurations*)  
+- **SCF Mapping:** CFG-02 (*Secure Baseline Configurations*)  
 
 ---
 
@@ -115,7 +115,7 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 - **Framework Alignment:**  
   - CFG-01 – Configuration Management Program  
-  - CFG-02 – System Hardening Through Baseline Configurations  
+  - CFG-02 – Secure Baseline Configurations  
   - CFG-03 – Least Functionality  
   - CFG-04 – Software Usage Restrictions  
   - CFG-05 – User-Installed Software  
@@ -129,4 +129,4 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | September 2025 | M Machin |
+| -   | Policy created | Sep

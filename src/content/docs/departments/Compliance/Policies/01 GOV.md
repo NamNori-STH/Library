@@ -30,7 +30,7 @@ This policy applies to all subsidiaries and affiliates of STH. It governs the st
 
 STH will maintain a formal cybersecurity and data protection governance program. This program includes oversight by a governance committee, program charters, and structured reporting to executive leadership and the governing body.  
 
-- **SCF Mapping:** GOV-01 (*Cybersecurity & Data Protection Governance Program*)  
+- **SCF Mapping:** GOV-01 (*Security, Compliance & Resilience Program (SCRP)*)  
 
 ---
 
@@ -38,7 +38,7 @@ STH will maintain a formal cybersecurity and data protection governance program.
 
 STH will publish and maintain cybersecurity and data protection policies, standards, and related documentation. Exceptions must be formally approved and documented.  
 
-- **SCF Mapping:** GOV-02 (*Publishing Cybersecurity & Data Protection Documentation*)  
+- **SCF Mapping:** GOV-02 (*Publishing Security, Compliance & Resilience Documentation*)  
 
 ---
 
@@ -46,7 +46,7 @@ STH will publish and maintain cybersecurity and data protection policies, standa
 
 All cybersecurity and data protection documentation will undergo periodic review and update to ensure continued alignment with business needs, regulatory requirements, and industry best practices.  
 
-- **SCF Mapping:** GOV-03 (*Periodic Review & Update of Cybersecurity & Data Protection Documents*)  
+- **SCF Mapping:** GOV-03 (*Periodic Review & Update of Security, Compliance & Resilience Program*)  
 
 ---
 
@@ -54,7 +54,7 @@ All cybersecurity and data protection documentation will undergo periodic review
 
 STH will assign roles and responsibilities for cybersecurity and data protection. This includes establishing clear accountability structures, chains of command, and points of escalation across the enterprise.  
 
-- **SCF Mapping:** GOV-04 (*Assigned Cybersecurity & Data Protection Responsibilities*)  
+- **SCF Mapping:** GOV-04 (*Assigned Security, Compliance & Resilience Responsibilities*)  
 
 ---
 
@@ -103,10 +103,10 @@ Violations of this policy may result in disciplinary action, contract suspension
   - AICPA SOC 2 Trust Services Criteria: Security (CC1.1, CC1.2), Risk Management (CC3.2), Monitoring (CC4.1)  
 
 - **Framework Alignment:**  
-  - GOV-01 – Cybersecurity & Data Protection Governance Program  
-  - GOV-02 – Publishing Cybersecurity & Data Protection Documentation  
-  - GOV-03 – Periodic Review & Update of Cybersecurity & Data Protection Documents  
-  - GOV-04 – Assigned Cybersecurity & Data Protection Responsibilities  
+  - GOV-01 – Security, Compliance & Resilience Program (SCRP)  
+  - GOV-02 – Publishing Security, Compliance & Resilience Documentation  
+  - GOV-03 – Periodic Review & Update of Security, Compliance & Resilience Program  
+  - GOV-04 – Assigned Security, Compliance & Resilience Responsibilities  
   - GOV-05 – Measures of Performance  
   - GOV-06 – Contacts With Authorities  
   - GOV-07 – Contacts With Groups & Associations  

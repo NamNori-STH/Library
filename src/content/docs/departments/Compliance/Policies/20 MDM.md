@@ -31,7 +31,7 @@ This policy applies to all mobile devices, including smartphones, tablets, lapto
 
 Subsidiaries must enroll all corporate-issued and approved personally-owned mobile devices into a centralized Mobile Device Management (MDM) solution. The MDM platform must provide configuration enforcement, patch deployment, security monitoring, and policy enforcement across devices.  
 
-- **SCF Mapping:** MDM-01 (*Centralized Management of Mobile Devices*)  
+- **SCF Mapping:** MDM-01 (*Centralized Management Of Mobile Devices*)  
 
 ---
 
@@ -39,7 +39,7 @@ Subsidiaries must enroll all corporate-issued and approved personally-owned mobi
 
 Mobile devices accessing sensitive data or corporate systems must require strong authentication, including multi-factor authentication (MFA). Device access must be restricted after defined periods of inactivity, and failed login attempts must trigger account lockouts consistent with the enterprise access control policy.  
 
-- **SCF Mapping:** MDM-02 (*Access Control for Mobile Devices*)  
+- **SCF Mapping:** MDM-02 (*Access Control For Mobile Devices*)  
 
 ---
 
@@ -96,8 +96,8 @@ Violations of this policy, including unauthorized use of unregistered devices or
   - AICPA SOC 2 Trust Services Criteria: Security (CC6.1, CC6.2), Confidentiality (C1.2)  
 
 - **Framework Alignment:**  
-  - MDM-01 – Centralized Management of Mobile Devices  
-  - MDM-02 – Access Control for Mobile Devices  
+  - MDM-01 – Centralized Management Of Mobile Devices  
+  - MDM-02 – Access Control For Mobile Devices  
   - MDM-03 – Full Device & Container-Based Encryption  
   - MDM-05 – Remote Purging  
   - MDM-06 – Personally-Owned Mobile Devices  
@@ -109,4 +109,4 @@ Violations of this policy, including unauthorized use of unregistered devices or
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | October 2025 | M Machin |
+| -   | Policy created | Oct

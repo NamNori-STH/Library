@@ -113,7 +113,7 @@ Subsidiaries must define and execute backup strategies for their systems in alig
 
 Subsidiaries must ensure their systems can be recovered and reconstituted within required timeframes, including transaction recovery and failover capabilities. Summit will oversee recovery objectives and validate that system-level plans meet enterprise resiliency requirements.  
 
-- **SCF Mapping:** BCD-12 (*Information System Recovery & Reconstitution*)  
+- **SCF Mapping:** BCD-12 (*Technology Assets, Applications and/or Services (TAAS) Recovery & Reconstitution*)  
 
 ---
 
@@ -148,7 +148,7 @@ Violations of this policy may result in disciplinary action, up to and including
   - BCD-09 – Alternate Processing Site  
   - BCD-10 – Telecommunications Services Availability  
   - BCD-11 – Data Backups  
-  - BCD-12 – Information System Recovery & Reconstitution  
+  - BCD-12 – Technology Assets, Applications and/or Services (TAAS) Recovery & Reconstitution  
 
 ---
 
@@ -156,4 +156,4 @@ Violations of this policy may result in disciplinary action, up to and including
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | September 2025 | M Machin |
+| -   | Policy created 

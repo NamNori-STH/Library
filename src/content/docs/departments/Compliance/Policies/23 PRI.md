@@ -63,7 +63,7 @@ Subsidiaries may only collect personal data for legitimate and explicitly define
 
 Personal data must be retained only as long as necessary to fulfill business, legal, or regulatory obligations. Subsidiaries must securely dispose of personal data once it is no longer required. Disposal processes must ensure data is irretrievable and follow enterprise-approved methods.  
 
-- **SCF Mapping:** PRI-05 (*Personal Data Retention & Disposal*)  
+- **SCF Mapping:** PRI-05 (*Personal Data (PD) Retention & Disposal*)  
 
 ---
 
@@ -71,7 +71,7 @@ Personal data must be retained only as long as necessary to fulfill business, le
 
 Subsidiaries must implement processes for individuals to access their personal data, request corrections, and exercise rights such as erasure or portability where legally applicable. Requests must be fulfilled in a timely, secure, and verifiable manner.  
 
-- **SCF Mapping:** PRI-06 (*Data Subject Access*)  
+- **SCF Mapping:** PRI-06 (*Data Subject Empowerment*)  
 
 ---
 
@@ -87,7 +87,7 @@ Personal data may only be shared with third parties when necessary and authorize
 
 Subsidiaries must provide regular privacy training to employees and contractors. Privacy controls must be tested periodically to validate effectiveness, and monitoring must be performed to ensure continuous compliance with privacy requirements.  
 
-- **SCF Mapping:** PRI-08 (*Testing, Training & Monitoring*)  
+- **SCF Mapping:** PRI-08 (*Personal Data (PD) Control Testing, Training & Monitoring*)  
 
 ---
 
@@ -117,10 +117,10 @@ Failure to comply with this policy may result in disciplinary action, loss of ac
   - PRI-02 – Data Privacy Notice  
   - PRI-03 – Choice & Consent  
   - PRI-04 – Restrict Collection To Identified Purpose  
-  - PRI-05 – Personal Data Retention & Disposal  
-  - PRI-06 – Data Subject Access  
+  - PRI-05 – Personal Data (PD) Retention & Disposal  
+  - PRI-06 – Data Subject Empowerment  
   - PRI-07 – Information Sharing With Third Parties  
-  - PRI-08 – Testing, Training & Monitoring  
+  - PRI-08 – Personal Data (PD) Control Testing, Training & Monitoring  
 
 ---
 
@@ -128,4 +128,4 @@ Failure to comply with this policy may result in disciplinary action, loss of ac
 
 | Rev | Description   | Date         | Approved |
 | --- | ------------- | ------------ | -------- |
-| -   | Policy created | October 2025 | M Machin |
+| -   | Policy created | O

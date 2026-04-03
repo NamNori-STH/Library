@@ -44,7 +44,7 @@ STH will identify, document, and track all applicable statutory, regulatory, and
 
 STH will oversee the implementation and operation of cybersecurity and data protection controls across the enterprise. This includes establishing policies, standards, and evidence collection mechanisms to demonstrate compliance with regulatory and contractual requirements. Subsidiaries must implement controls as directed and provide reporting to STH.  
 
-- **SCF Mapping:** CPL-02 (*Cybersecurity & Data Protection Controls Oversight*)  
+- **SCF Mapping:** CPL-02 (*Security, Compliance & Resilience Controls Oversight*)  
 
 ---
 
@@ -52,7 +52,7 @@ STH will oversee the implementation and operation of cybersecurity and data prot
 
 STH will conduct periodic internal and external compliance assessments to verify adherence to statutory, regulatory, and contractual obligations. Independent assessors will be engaged when required (e.g., SOC 2 audits, HIPAA compliance reviews). Assessment results will be documented, communicated to executive leadership, and remediated on a timely basis.  
 
-- **SCF Mapping:** CPL-03 (*Cybersecurity & Data Protection Assessments*)  
+- **SCF Mapping:** CPL-03 (*Security, Compliance & Resilience Assessments*)  
 
 ---
 
@@ -81,8 +81,8 @@ Violations of this policy, including failure to comply with compliance oversight
 
 - **Framework Alignment:**  
   - CPL-01 – Statutory, Regulatory & Contractual Compliance  
-  - CPL-02 – Cybersecurity & Data Protection Controls Oversight  
-  - CPL-03 – Cybersecurity & Data Protection Assessments  
+  - CPL-02 – Security, Compliance & Resilience Controls Oversight  
+  - CPL-03 – Security, Compliance & Resilience Assessments  
 
 ---
 
@@ -90,4 +90,4 @@ Violations of this policy, including failure to comply with compliance oversight
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | September 2025 | M Machin |
+| -   | Policy created | Septembe

@@ -29,7 +29,7 @@ This Standard applies to all STH employees, contractors, and third-party personn
 
 STH promotes a security-conscious culture by embedding cybersecurity and data privacy awareness into everyday business practices. All personnel must recognize that protecting sensitive information is a shared responsibility. To reinforce this, STH’s training content emphasizes real-world threat scenarios, such as phishing and social engineering, and encourages employees to remain vigilant and report suspicious activities promptly. The CIO oversees the enterprise awareness program, ensuring that it remains relevant and aligned with evolving risks.  
 
-- **SCF Mapping:** SAT-01 (*Cybersecurity & Data Privacy-Minded Workforce*)  
+- **SCF Mapping:** SAT-01 (*Security, Compliance & Resilience-Minded Workforce*)  
 
 ---
 
@@ -37,7 +37,7 @@ STH promotes a security-conscious culture by embedding cybersecurity and data pr
 
 All personnel must complete general cybersecurity and data privacy awareness training upon hire and annually thereafter. The training covers key topics such as secure data handling, password management, physical security, phishing detection, and acceptable use of corporate resources. Additional awareness materials—such as email campaigns, posters, and simulated phishing exercises—are distributed periodically to reinforce learning.  
 
-- **SCF Mapping:** SAT-02 (*Cybersecurity & Data Privacy Awareness Training*)  
+- **SCF Mapping:** SAT-02 (*Security, Compliance & Resilience Awareness Training*)  
 
 ---
 
@@ -45,7 +45,7 @@ All personnel must complete general cybersecurity and data privacy awareness tra
 
 Certain personnel, such as software developers, administrators, and compliance or legal staff, receive specialized training based on their job functions. Role-based training provides deeper coverage of topics such as secure coding practices, incident response coordination, regulatory reporting, and data classification handling. The CIO determines which roles require enhanced training and ensures curricula are reviewed and updated regularly to match operational responsibilities and system changes.  
 
-- **SCF Mapping:** SAT-03 (*Role-Based Cybersecurity & Data Privacy Training*)  
+- **SCF Mapping:** SAT-03 (*Role-Based Security, Compliance & Resilience Training*)  
 
 ---
 
@@ -53,7 +53,7 @@ Certain personnel, such as software developers, administrators, and compliance o
 
 STH maintains centralized records of all security and privacy training activities, including participant rosters, completion dates, and the specific modules or courses completed. These records demonstrate compliance with regulatory and contractual requirements and support external audits, internal reviews, and SOC 2 evaluations. Training records are securely stored in the enterprise learning management system and retained in accordance with STH’s data retention schedule.  
 
-- **SCF Mapping:** SAT-04 (*Cybersecurity & Data Privacy Training Records*)  
+- **SCF Mapping:** SAT-04 (*Security, Compliance & Resilience Training Records*)  
 
 ---
 
@@ -79,10 +79,10 @@ Failure to complete assigned training or to adhere to secure behavior expectatio
   - AICPA SOC 2 Trust Services Criteria: Security (CC5.2, CC5.3)  
 
 - **Framework Alignment:**  
-  - SAT-01 – Cybersecurity & Data Privacy-Minded Workforce  
-  - SAT-02 – Cybersecurity & Data Privacy Awareness Training  
-  - SAT-03 – Role-Based Cybersecurity & Data Privacy Training  
-  - SAT-04 – Cybersecurity & Data Privacy Training Records  
+  - SAT-01 – Security, Compliance & Resilience-Minded Workforce  
+  - SAT-02 – Security, Compliance & Resilience Awareness Training  
+  - SAT-03 – Role-Based Security, Compliance & Resilience Training  
+  - SAT-04 – Security, Compliance & Resilience Training Records  
 
 ---
 

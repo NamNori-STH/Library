@@ -63,7 +63,7 @@ Subsidiaries must test their IRPs on at least an annual basis through tabletop e
 
 Subsidiaries must maintain a Security Incident Response Team (SIRT) or equivalent capability that integrates with STH’s governance and oversight. The SIRT must include clearly assigned roles and provide cross-functional representation, including IT, security, legal, and compliance.  
 
-- **SCF Mapping:** IRO-07 (*Integrated Security Incident Response Team (SIRT)*)  
+- **SCF Mapping:** IRO-07 (*Integrated Security Incident Response Team (ISIRT)*)  
 
 ---
 
@@ -79,7 +79,7 @@ Subsidiaries must preserve evidence through appropriate forensic practices, incl
 
 Subsidiaries must maintain situational awareness of incident activity through continuous monitoring, alerting, and information-sharing with STH. Lessons learned from external threat intelligence and industry sources must be incorporated into incident response procedures.  
 
-- **SCF Mapping:** IRO-09 (*Situational Awareness for Incidents*)  
+- **SCF Mapping:** IRO-09 (*Situational Awareness For Incidents*)  
 
 ---
 
@@ -132,9 +132,9 @@ Failure to comply with this policy may result in disciplinary action, suspension
   - IRO-02 – Incident Handling  
   - IRO-04 – Incident Response Plan (IRP)  
   - IRO-06 – Incident Response Testing  
-  - IRO-07 – Integrated Security Incident Response Team (SIRT)  
+  - IRO-07 – Integrated Security Incident Response Team (ISIRT)  
   - IRO-08 – Chain of Custody & Forensics  
-  - IRO-09 – Situational Awareness for Incidents  
+  - IRO-09 – Situational Awareness For Incidents  
   - IRO-10 – Incident Stakeholder Reporting  
   - IRO-13 – Root Cause Analysis (RCA) & Lessons Learned  
   - IRO-14 – Regulatory & Law Enforcement Contacts  
@@ -145,4 +145,4 @@ Failure to comply with this policy may result in disciplinary action, suspension
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | September 2025 | M Machin |
+| -   | Policy created | 

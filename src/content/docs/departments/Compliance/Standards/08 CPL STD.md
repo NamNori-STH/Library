@@ -31,7 +31,7 @@ The **Chief Information Officer (CIO)** of Summit Technology Holdings is respons
 
 Legal Counsel supports the CIO by interpreting regulatory requirements and serving as the designated Chief Privacy Officer (CPO). Subsidiaries assign **local points of contact** to provide artifacts and implement remediation under the CIO’s direction.  
 
-- **SCF Mapping:** CPL-02 (*Cybersecurity & Data Protection Controls Oversight*)
+- **SCF Mapping:** CPL-02 (*Security, Compliance & Resilience Controls Oversight*)
 
 ---
 
@@ -47,7 +47,7 @@ STH maintains a **central obligations register** cataloging all applicable laws,
 
 STH maintains an **enterprise control catalogue** aligned to the SCF and mapped to each obligation in the register. For every control, STH defines: objective, implementation expectations, **evidence required**, responsible parties (STH owner and subsidiary implementers), and review cadence. STH publishes enterprise **policies/standards** and sets minimum baselines (e.g., MFA for all accounts, encryption, logging). Subsidiaries implement locally (cloud/provider/tool specifics) and **submit evidence to STH’s central repository** by the due dates on the compliance calendar. STH performs control health checks, requests corrective action plans (CAPs) where gaps exist, tracks remediation to closure, and validates fixes.
 
-- **SCF Mapping:** CPL-02 (*Cybersecurity & Data Protection Controls Oversight*)
+- **SCF Mapping:** CPL-02 (*Security, Compliance & Resilience Controls Oversight*)
 
 ---
 
@@ -55,7 +55,7 @@ STH maintains an **enterprise control catalogue** aligned to the SCF and mapped 
 
 STH runs a **risk-based assessment program** that includes: periodic internal control testing, readiness activities for external audits (e.g., SOC 2), HIPAA evaluations, and targeted reviews after material changes or incidents. Assessment scopes derive from the obligations register and risk profile. STH may use independent assessors where appropriate. Findings are logged centrally with severity, owner, due date, and required evidence of closure; retesting verifies effectiveness. STH coordinates all **customer and third-party assessments**, providing standardized responses and evidence packages and limiting subsidiary interactions to curated, need-to-know artifacts.
 
-- **SCF Mapping:** CPL-03 (*Cybersecurity & Data Protection Assessments*)
+- **SCF Mapping:** CPL-03 (*Security, Compliance & Resilience Assessments*)
 
 ---
 
@@ -114,8 +114,8 @@ Violations of this standard and related policies, including failure to comply wi
 
 - **Framework Alignment:**  
   - CPL-01 – Statutory, Regulatory & Contractual Compliance  
-  - CPL-02 – Cybersecurity & Data Protection Controls Oversight  
-  - CPL-03 – Cybersecurity & Data Protection Assessments
+  - CPL-02 – Security, Compliance & Resilience Controls Oversight  
+  - CPL-03 – Security, Compliance & Resilience Assessments
 
 ---
 

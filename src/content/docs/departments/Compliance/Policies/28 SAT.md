@@ -32,7 +32,7 @@ This policy applies to all employees, contractors, and third-party personnel at 
 
 STH requires the establishment of a culture where all personnel understand their role in protecting sensitive data and critical systems. Security and privacy awareness must be incorporated into onboarding, daily activities, and professional development.  
 
-- **SCF Mapping:** SAT-01 (*Cybersecurity & Data Privacy-Minded Workforce*)  
+- **SCF Mapping:** SAT-01 (*Security, Compliance & Resilience-Minded Workforce*)  
 
 ---
 
@@ -42,7 +42,7 @@ All employees, contractors, and third parties must complete cybersecurity and da
 
 Training modules must be periodically updated to reflect evolving threats and regulatory requirements.  
 
-- **SCF Mapping:** SAT-02 (*Cybersecurity & Data Privacy Awareness Training*)  
+- **SCF Mapping:** SAT-02 (*Security, Compliance & Resilience Awareness Training*)  
 
 ---
 
@@ -50,7 +50,7 @@ Training modules must be periodically updated to reflect evolving threats and re
 
 In addition to general awareness training, personnel with specialized roles (e.g., developers, administrators, compliance officers) must receive tailored, role-based training. This ensures individuals understand the specific risks and responsibilities associated with their duties.  
 
-- **SCF Mapping:** SAT-03 (*Role-Based Cybersecurity & Data Privacy Training*)  
+- **SCF Mapping:** SAT-03 (*Role-Based Security, Compliance & Resilience Training*)  
 
 ---
 
@@ -58,7 +58,7 @@ In addition to general awareness training, personnel with specialized roles (e.g
 
 STH must maintain centralized records of all training activities, including completion status, dates, and content provided. These records demonstrate compliance with regulatory and contractual requirements and support ongoing audits and assessments.  
 
-- **SCF Mapping:** SAT-04 (*Cybersecurity & Data Privacy Training Records*)  
+- **SCF Mapping:** SAT-04 (*Security, Compliance & Resilience Training Records*)  
 
 ---
 
@@ -83,10 +83,10 @@ Failure to complete required training or to demonstrate secure behavior may resu
   - AICPA SOC 2 Trust Services Criteria: Security (CC5.2, CC5.3)  
 
 - **Framework Alignment:**  
-  - SAT-01 – Cybersecurity & Data Privacy-Minded Workforce  
-  - SAT-02 – Cybersecurity & Data Privacy Awareness Training  
-  - SAT-03 – Role-Based Cybersecurity & Data Privacy Training  
-  - SAT-04 – Cybersecurity & Data Privacy Training Records  
+  - SAT-01 – Security, Compliance & Resilience-Minded Workforce  
+  - SAT-02 – Security, Compliance & Resilience Awareness Training  
+  - SAT-03 – Role-Based Security, Compliance & Resilience Training  
+  - SAT-04 – Security, Compliance & Resilience Training Records  
 
 ---
 
@@ -94,4 +94,4 @@ Failure to complete required training or to demonstrate secure behavior may resu
 
 | Rev | Description   | Date         | Approved |
 | --- | ------------- | ------------ | -------- |
-| -   | Policy created | October 2025 | M Machin |
+| -   | Policy created | Octob

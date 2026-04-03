@@ -41,7 +41,7 @@ STH subsidiaries must adopt industry-accepted cryptographic mechanisms. At a min
 
 Subsidiaries may implement stronger algorithms or newer versions (e.g., TLS 1.3), but may not fall below these baselines.  
 
-- **SCF Mapping:** CRY-01 (*Use of Cryptographic Controls*), CRY-05 (*Encrypting Data at Rest*).  
+- **SCF Mapping:** CRY-01 (*Use of Cryptographic Controls*), CRY-05 (*Encrypting Data At Rest*).  
 
 ---
 
@@ -89,7 +89,7 @@ Subsidiaries must use PKI to issue and govern certificates for securing communic
 
 Certificates must be monitored for expiration, revoked promptly if compromised, and renewed with sufficient lead time to prevent outages. Self-signed certificates may only be used in development/test environments and must not be deployed in production.  
 
-- **SCF Mapping:** CRY-08 (*Public Key Infrastructure*).  
+- **SCF Mapping:** CRY-08 (*Public Key Infrastructure (PKI)*).  
 
 ---
 
