@@ -85,8 +85,8 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(D) (Information System Activity Review)  
+- **Regulatory Requirements:**
+  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(D) (Information System Activity Review), §164.312(b) (Audit Controls)
   - AICPA SOC 2 Trust Services Criteria: Security (CC7.2, CC7.3, CC7.4), Availability (A1.2)  
 
 - **Framework Alignment:**  
@@ -103,3 +103,4 @@ Violations of this policy may result in disciplinary action, contract suspension
 | --- | ------------- | ------------- | -------- |
 | - | Policy created | September 2025 | M Machin |
 | 1 | Addition of 3.5  for monitoring Break Glass | March 2026 | M Machin |
+| 2 | Added HIPAA §164.312(b) citation to References | April 2026 | M Machin |

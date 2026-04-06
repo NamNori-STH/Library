@@ -122,8 +122,8 @@ Violations of this policy may result in disciplinary action, termination of empl
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(3) (Workforce Security)  
+- **Regulatory Requirements:**
+  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(C) (Sanction Policy), §164.308(a)(3) (Workforce Security)
   - AICPA SOC 2 Trust Services Criteria: Security (CC1.1, CC6.1), Confidentiality (C1.1)  
 
 - **Framework Alignment:**  
@@ -145,3 +145,4 @@ Violations of this policy may result in disciplinary action, termination of empl
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |
 | -   | Policy created | September 2025 | M Machin |
+| 1   | Added HIPAA §164.308(a)(1)(ii)(C) Sanction Policy citation to References | April 2026 | M Machin |

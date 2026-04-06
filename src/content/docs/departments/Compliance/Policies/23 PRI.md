@@ -53,7 +53,7 @@ Individuals must be given appropriate choice and the ability to provide informed
 
 ### 3.4 Restrict Collection to Identified Purpose
 
-Subsidiaries may only collect personal data for legitimate and explicitly defined purposes. Data collection must be limited to what is necessary to achieve those purposes, and re-use of collected data must be documented and authorized.  
+Subsidiaries may only collect personal data for legitimate and explicitly defined purposes. Data collection must be limited to what is necessary to achieve those purposes, and re-use of collected data must be documented and authorized. For PHI handled under a Business Associate Agreement, this requirement encompasses the HIPAA minimum necessary standard: subsidiaries must make reasonable efforts to use, disclose, and request only the minimum amount of PHI necessary to accomplish the intended purpose of the use, disclosure, or request.
 
 - **SCF Mapping:** PRI-04 (*Restrict Collection To Identified Purpose*)  
 
@@ -107,8 +107,8 @@ Failure to comply with this policy may result in disciplinary action, loss of ac
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Privacy Rule: 45 CFR §164.520 (Notice of Privacy Practices), §164.522 (Rights to Request Restrictions)  
+- **Regulatory Requirements:**
+  - HIPAA Privacy Rule: 45 CFR §164.502 (Permissible Uses and Disclosures of PHI), §164.514(d) (Minimum Necessary Standard)
   - AICPA SOC 2 Trust Services Criteria: Privacy (P1–P9)  
 
 - **Framework Alignment:**  
@@ -126,6 +126,7 @@ Failure to comply with this policy may result in disciplinary action, loss of ac
 
 ## 7. Revision Tracking
 
-| Rev | Description   | Date         | Approved |
+| Rev | Description | Date | Approved |
 | --- | ------------- | ------------ | -------- |
-| -   | Policy created | O
+| - | Policy created | September 2025 | M Machin |
+| 1 | Updated HIPAA citations to BA-applicable provisions (§164.502, §164.514(d)); added minimum necessary standard to §3.4 | April 2026 | M Machin |

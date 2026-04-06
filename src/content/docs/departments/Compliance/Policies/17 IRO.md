@@ -85,9 +85,9 @@ Subsidiaries must maintain situational awareness of incident activity through co
 
 ### 3.8 Incident Stakeholder Reporting
 
-All incidents must be reported to appropriate stakeholders in a timely manner. Internal notifications must escalate through security and executive leadership, while external notifications (e.g., regulators, partners, customers) must follow legal and contractual requirements.  
+All incidents must be reported to appropriate stakeholders in a timely manner. Internal notifications must escalate through security and executive leadership, while external notifications (e.g., regulators, partners, customers) must follow legal and contractual requirements. For incidents involving a potential breach of unsecured PHI or ePHI, notification obligations are governed by the STH Breach Notification Procedure.
 
-- **SCF Mapping:** IRO-10 (*Incident Stakeholder Reporting*)  
+- **SCF Mapping:** IRO-10 (*Incident Stakeholder Reporting*), IRO-10.2 (*Cyber Incident Reporting for Sensitive Data*), IRO-04.1 (*Data Breach*)  
 
 ---
 
@@ -123,20 +123,25 @@ Failure to comply with this policy may result in disciplinary action, suspension
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(6) (Security Incident Procedures)  
-  - AICPA SOC 2 Trust Services Criteria: Security (CC7.4, CC7.5), Availability (A1.2)  
+- **STH Procedures:**
+  - [Breach Notification Procedure](/departments/compliance/procedures/breach-notification/)
 
-- **Framework Alignment:**  
-  - IRO-01 – Incident Response Operations  
-  - IRO-02 – Incident Handling  
-  - IRO-04 – Incident Response Plan (IRP)  
-  - IRO-06 – Incident Response Testing  
-  - IRO-07 – Integrated Security Incident Response Team (ISIRT)  
-  - IRO-08 – Chain of Custody & Forensics  
-  - IRO-09 – Situational Awareness For Incidents  
-  - IRO-10 – Incident Stakeholder Reporting  
-  - IRO-13 – Root Cause Analysis (RCA) & Lessons Learned  
+- **Regulatory Requirements:**
+  - HIPAA Security Rule: 45 CFR §164.308(a)(6) (Security Incident Procedures), §164.400–414 (Breach Notification)
+  - AICPA SOC 2 Trust Services Criteria: Security (CC7.4, CC7.5), Availability (A1.2)
+
+- **Framework Alignment:**
+  - IRO-01 – Incident Response Operations
+  - IRO-02 – Incident Handling
+  - IRO-04 – Incident Response Plan (IRP)
+  - IRO-04.1 – Data Breach
+  - IRO-06 – Incident Response Testing
+  - IRO-07 – Integrated Security Incident Response Team (ISIRT)
+  - IRO-08 – Chain of Custody & Forensics
+  - IRO-09 – Situational Awareness For Incidents
+  - IRO-10 – Incident Stakeholder Reporting
+  - IRO-10.2 – Cyber Incident Reporting for Sensitive Data
+  - IRO-13 – Root Cause Analysis (RCA) & Lessons Learned
   - IRO-14 – Regulatory & Law Enforcement Contacts  
 
 ---
@@ -145,4 +150,5 @@ Failure to comply with this policy may result in disciplinary action, suspension
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | 
+| -   | Policy created |
+| 1   | Added Breach Notification Procedure reference to §3.8; added §164.400–414, IRO-04.1, IRO-10.2 to References | April 2026 | M Machin |

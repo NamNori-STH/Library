@@ -95,8 +95,8 @@ Violations of this policy may result in disciplinary action, up to and including
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.312(d) (Person or Entity Authentication)  
+- **Regulatory Requirements:**
+  - HIPAA Security Rule: 45 CFR §164.308(a)(4) (Information Access Management), §164.312(a)(1) (Access Control), §164.312(d) (Person or Entity Authentication)
   - AICPA SOC 2 Trust Services Criteria: Security (CC6, CC7), Confidentiality (C1)  
 
 - **Framework Alignment:**
@@ -127,3 +127,4 @@ Violations of this policy may result in disciplinary action, up to and including
 | - | Policy created | September 2025 | M Machin |
 | 1 | 3.1 and 3.3 updated to account for Break Glass account | March 2026 | M Machin |
 | 2 | Updated to SCF 2026.1; corrected IAC control numbers throughout | April 2026 | M Machin |
+| 3 | Added HIPAA §164.308(a)(4) and §164.312(a)(1) citations to References | April 2026 | M Machin |

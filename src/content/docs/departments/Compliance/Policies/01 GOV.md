@@ -52,7 +52,7 @@ All cybersecurity and data protection documentation will undergo periodic review
 
 ### 3.4 Responsibilities
 
-STH will assign roles and responsibilities for cybersecurity and data protection. This includes establishing clear accountability structures, chains of command, and points of escalation across the enterprise.  
+STH will assign roles and responsibilities for cybersecurity and data protection. This includes establishing clear accountability structures, chains of command, and points of escalation across the enterprise. In accordance with the HIPAA Security Rule, the Chief Information Officer (CIO) is designated as the Security Official responsible for developing and implementing the policies and procedures required under 45 CFR §164.308(a)(2) across the enterprise and all subsidiaries.
 
 - **SCF Mapping:** GOV-04 (*Assigned Security, Compliance & Resilience Responsibilities*)  
 
@@ -98,8 +98,8 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.308(a)(8) (Evaluation)  
+- **Regulatory Requirements:**
+  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.308(a)(2) (Assigned Security Responsibility), §164.308(a)(8) (Evaluation)
   - AICPA SOC 2 Trust Services Criteria: Security (CC1.1, CC1.2), Risk Management (CC3.2), Monitoring (CC4.1)  
 
 - **Framework Alignment:**  
@@ -118,3 +118,4 @@ Violations of this policy may result in disciplinary action, contract suspension
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |
 | -   | Policy created | September 2025 | M Machin |
+| 1   | Added HIPAA §164.308(a)(2) Security Official designation to §3.4 and References | April 2026 | M Machin |
