@@ -150,6 +150,7 @@ export default defineConfig({
 						{
 						label: 'Procedures',
 						items: [
+							{ label: 'Breach Notification', slug: 'departments/compliance/procedures/breach-notification'},
 							{ label: 'Emergency Break Glass', slug: 'departments/compliance/procedures/breakglass'},
 						]
 						},						
