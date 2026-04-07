@@ -41,7 +41,7 @@ All user, service, and system accounts must be uniquely identifiable, provisione
 
 Multi-Factor Authentication (MFA) is required for **all accounts**, without exception. This includes standard user accounts, privileged accounts, service accounts, and third-party accounts. MFA must be enforced at the identity provider level (e.g., SSO, directory services) and integrated into subsidiary systems to ensure consistent coverage.  
 
-Passwords and authenticators must follow enterprise standards for complexity, expiration, and secure storage. Authentication mechanisms must resist replay, brute-force, and phishing attacks, and must not allow vendor-supplied defaults or insecure recovery mechanisms.  
+Passwords and authenticators must follow enterprise standards for complexity, expiration, and secure storage. Authentication mechanisms must resist replay, brute-force, and phishing attacks, and must not allow vendor-supplied defaults or insecure recovery mechanisms. Systems must enforce automatic account lockout after a defined number of consecutive unsuccessful authentication attempts, consistent with 201 CMR 17.00 §17.04(1)(e).  
 
 - **SCF Mapping:** IAC-02 (*Identification & Authentication for Organizational Users*), IAC-02.2 (*Replay-Resistant Authentication*), IAC-06 (*Multi-Factor Authentication (MFA)*), IAC-09 (*Identifier Management (User Names)*), IAC-10 (*Authenticator Management*), IAC-10.1 (*Password-Based Authentication*).  
 
@@ -97,6 +97,7 @@ Violations of this policy may result in disciplinary action, up to and including
 
 - **Regulatory Requirements:**
   - HIPAA Security Rule: 45 CFR §164.308(a)(4) (Information Access Management), §164.312(a)(1) (Access Control), §164.312(d) (Person or Entity Authentication)
+  - Massachusetts 201 CMR 17.00: §17.04(1)(e) (Reasonably Up-to-Date System Security Agent Software Including Account Lockout)
   - AICPA SOC 2 Trust Services Criteria: Security (CC6, CC7), Confidentiality (C1)  
 
 - **Framework Alignment:**
@@ -128,3 +129,4 @@ Violations of this policy may result in disciplinary action, up to and including
 | 1 | 3.1 and 3.3 updated to account for Break Glass account | March 2026 | M Machin |
 | 2 | Updated to SCF 2026.1; corrected IAC control numbers throughout | April 2026 | M Machin |
 | 3 | Added HIPAA §164.308(a)(4) and §164.312(a)(1) citations to References | April 2026 | M Machin |
+| 4 | §3.2 updated to require automatic account lockout after consecutive failed authentication attempts; 201 CMR 17.00 citation added to References | April 2026 | M Machin |

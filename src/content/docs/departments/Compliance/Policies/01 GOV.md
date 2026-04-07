@@ -44,7 +44,7 @@ STH will publish and maintain cybersecurity and data protection policies, standa
 
 ### 3.3 Periodic Review
 
-All cybersecurity and data protection documentation will undergo periodic review and update to ensure continued alignment with business needs, regulatory requirements, and industry best practices.  
+All cybersecurity and data protection documentation will undergo review and update at least annually to ensure continued alignment with business needs, regulatory requirements, and industry best practices. This annual review cycle also satisfies the requirement under 201 CMR 17.00 to regularly monitor and review the Written Information Security Program (WISP).  
 
 - **SCF Mapping:** GOV-03 (*Periodic Review & Update of Security, Compliance & Resilience Program*)  
 
@@ -53,6 +53,8 @@ All cybersecurity and data protection documentation will undergo periodic review
 ### 3.4 Responsibilities
 
 STH will assign roles and responsibilities for cybersecurity and data protection. This includes establishing clear accountability structures, chains of command, and points of escalation across the enterprise. In accordance with the HIPAA Security Rule, the Chief Information Officer (CIO) is designated as the Security Official responsible for developing and implementing the policies and procedures required under 45 CFR §164.308(a)(2) across the enterprise and all subsidiaries.
+
+The CIO is also designated as the Responsible Employee under 201 CMR 17.00 for overseeing, coordinating, and implementing the enterprise Written Information Security Program (WISP). The STH policy library — comprising all cybersecurity and data protection policies, standards, and procedures maintained by STH and its subsidiaries — collectively constitutes the enterprise WISP. The WISP covers all personal information (as defined under 201 CMR 17.00) held by STH and its subsidiaries, including personal information of patients, clients, and employees who are Massachusetts residents.
 
 - **SCF Mapping:** GOV-04 (*Assigned Security, Compliance & Resilience Responsibilities*)  
 
@@ -100,6 +102,7 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 - **Regulatory Requirements:**
   - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.308(a)(2) (Assigned Security Responsibility), §164.308(a)(8) (Evaluation)
+  - Massachusetts 201 CMR 17.00: §17.03(2)(a) (Designated Responsible Employee), §17.03(2)(j) (Regular Monitoring and Review of WISP)
   - AICPA SOC 2 Trust Services Criteria: Security (CC1.1, CC1.2), Risk Management (CC3.2), Monitoring (CC4.1)  
 
 - **Framework Alignment:**  
@@ -119,3 +122,4 @@ Violations of this policy may result in disciplinary action, contract suspension
 | --- | ------------- | ------------- | -------- |
 | -   | Policy created | September 2025 | M Machin |
 | 1   | Added HIPAA §164.308(a)(2) Security Official designation to §3.4 and References | April 2026 | M Machin |
+| 2   | §3.3 updated to require annual review (201 CMR 17.00); §3.4 updated to designate CIO as WISP Responsible Employee and define enterprise WISP scope; 201 CMR 17.00 citations added to References | April 2026 | M Machin |

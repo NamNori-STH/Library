@@ -113,6 +113,6 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ## 7. Revision Tracking
 
-| Rev | Description   | Date          | Approved |
+| Rev | Description | Date | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | Septe
+| - | Policy created | September 2025 | M Machin |

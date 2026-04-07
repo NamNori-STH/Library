@@ -52,7 +52,7 @@ STH will conduct security and risk assessments of all vendors that meet the appl
 
 ### 3.3 Contracts and Business Associate Agreements
 
-All vendor contracts will be negotiated, reviewed, and executed under the authority of Summit Technology Holdings. Contracts involving access to sensitive data must include appropriate data protection clauses, right-to-audit provisions, breach notification obligations, and, where required by HIPAA, Business Associate Agreements (BAAs). Subsidiaries must not engage vendors outside of STH’s contracting process except by explicit written approval from Summit leadership.  
+All vendor contracts will be negotiated, reviewed, and executed under the authority of Summit Technology Holdings. Contracts involving access to sensitive data must include appropriate data protection clauses, right-to-audit provisions, breach notification obligations, and, where required by HIPAA, Business Associate Agreements (BAAs). Contracts with vendors that handle personal information (as defined under 201 CMR 17.00) of Massachusetts residents — including vendors processing employee personal information such as payroll, HR, and benefits systems — must include written obligations requiring the vendor to maintain appropriate security measures consistent with 201 CMR 17.00. Subsidiaries must not engage vendors outside of STH’s contracting process except by explicit written approval from Summit leadership.  
 
 - **SCF Mapping:** TPM-04 (*Third-Party Services*).  
 
@@ -103,8 +103,9 @@ Violations of this policy may result in disciplinary action, up to and including
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(b) (Business Associate Contracts and Other Arrangements)  
+- **Regulatory Requirements:**
+  - HIPAA Security Rule: 45 CFR §164.308(b) (Business Associate Contracts and Other Arrangements)
+  - Massachusetts 201 CMR 17.00: §17.03(2)(f) (Contractual Obligations of Third-Party Service Providers)
   - AICPA SOC 2 Trust Services Criteria: Risk Mitigation (CC9.2), Vendor Management (CC3.1)  
 
 - **Framework Alignment:**  
@@ -118,6 +119,7 @@ Violations of this policy may result in disciplinary action, up to and including
 
 ## 7. Revision Tracking
 
-| Rev | Description   | Date          | Approved |
+| Rev | Description | Date | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | Septe
+| - | Policy created | September 2025 | M Machin |
+| 1 | §3.3 updated to require 201 CMR 17.00-consistent security obligations in contracts with vendors handling MA residents' PI; 201 CMR 17.00 citation added to References | April 2026 | M Machin |

@@ -92,7 +92,7 @@ Security requirements will be reviewed whenever personnel are transferred betwee
 
 ### 3.9 Personnel Termination
 
-STH will ensure timely revocation of access, retrieval of company assets, and documentation of exit procedures during employee terminations. High-risk terminations may require additional safeguards.  
+STH will ensure revocation of access, retrieval of company assets, and documentation of exit procedures during employee terminations. Access to systems and data must be revoked no later than the moment of termination. For involuntary terminations, access revocation must be completed prior to the termination conversation where operationally feasible; physical access to locations where personal information records are stored must be discontinued simultaneously. High-risk terminations may require additional safeguards.  
 
 - **SCF Mapping:** HRS-09 (*Personnel Termination*)  
 
@@ -124,6 +124,7 @@ Violations of this policy may result in disciplinary action, termination of empl
 
 - **Regulatory Requirements:**
   - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(C) (Sanction Policy), §164.308(a)(3) (Workforce Security)
+  - Massachusetts 201 CMR 17.00: §17.03(2)(h) (Means for Preventing Terminated Employees from Accessing Personal Information)
   - AICPA SOC 2 Trust Services Criteria: Security (CC1.1, CC6.1), Confidentiality (C1.1)  
 
 - **Framework Alignment:**  
@@ -142,7 +143,8 @@ Violations of this policy may result in disciplinary action, termination of empl
 
 ## 7. Revision Tracking
 
-| Rev | Description   | Date          | Approved |
+| Rev | Description | Date | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | September 2025 | M Machin |
-| 1   | Added HIPAA §164.308(a)(1)(ii)(C) Sanction Policy citation to References | April 2026 | M Machin |
+| - | Policy created | September 2025 | M Machin |
+| 1 | Added HIPAA §164.308(a)(1)(ii)(C) Sanction Policy citation to References | April 2026 | M Machin |
+| 2 | §3.9 strengthened to require access revocation no later than moment of termination, with pre-termination requirement for involuntary separations; 201 CMR 17.00 citation added to References | April 2026 | M Machin |

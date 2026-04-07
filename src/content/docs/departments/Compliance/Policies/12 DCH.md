@@ -31,7 +31,7 @@ This policy applies to all forms of data created, processed, stored, or transmit
 
 ### 3.1 Data Protection
 
-All sensitive or regulated data must be identified, protected, and handled in accordance with applicable regulatory and contractual obligations. Subsidiaries must implement controls to ensure data is protected against unauthorized access, disclosure, modification, or destruction.  
+All sensitive or regulated data must be identified, protected, and handled in accordance with applicable regulatory and contractual obligations. Subsidiaries must implement controls to ensure data is protected against unauthorized access, disclosure, modification, or destruction. Collection of personal information must be limited to the minimum necessary for a legitimate, identified business purpose; STH and its subsidiaries must not collect personal information beyond what is required to fulfill that purpose, consistent with 201 CMR 17.00 §17.03(2)(g).  
 
 - **SCF Mapping:** DCH-01 (*Data Protection*)  
 
@@ -63,7 +63,7 @@ Subsidiaries must ensure that physical and digital media containing sensitive da
 
 ### 3.5 Media Storage
 
-Sensitive media must be stored in secure environments with physical or logical protections. Encryption, locked storage, and access monitoring must be applied to protect sensitive or regulated information at rest.  
+Sensitive media must be stored in secure environments with physical or logical protections. Encryption, locked storage, and access monitoring must be applied to protect sensitive or regulated information at rest. Paper records containing personal information — including records containing names combined with Social Security numbers, financial account information, or other regulated identifiers — must be stored in locked cabinets or similarly secured physical locations with access restricted to authorized personnel, consistent with 201 CMR 17.00 §17.05.  
 
 - **SCF Mapping:** DCH-06 (*Media Storage*)  
 
@@ -141,8 +141,9 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.310(d)(2)(i) (Device & Media Controls)  
+- **Regulatory Requirements:**
+  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.310(d)(2)(i) (Device & Media Controls)
+  - Massachusetts 201 CMR 17.00: §17.03(2)(g) (Limiting Collection and Use of Personal Information to Legitimate Business Purposes), §17.05 (Physical Security of Records Containing Personal Information)
   - AICPA SOC 2 Trust Services Criteria: Security (CC6.1, CC6.2), Confidentiality (C1.1, C1.2), Privacy (P8.1)  
 
 - **Framework Alignment:**  
@@ -165,4 +166,5 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy create
+| -   | Policy created | September 2025 | M Machin |
+| 1   | §3.1 updated to require data minimization at collection point (201 CMR 17.00 §17.03(2)(g)); §3.5 updated to explicitly address locked storage of paper records containing PI (201 CMR 17.00 §17.05); 201 CMR 17.00 citations added to References | April 2026 | M Machin |

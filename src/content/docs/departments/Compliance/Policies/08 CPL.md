@@ -34,7 +34,7 @@ This policy applies to all business units, subsidiaries, and affiliates of STH. 
 
 ### 3.1 Statutory, Regulatory & Contractual Compliance
 
-STH will identify, document, and track all applicable statutory, regulatory, and contractual obligations. This includes healthcare (HIPAA/HITECH), financial reporting, privacy laws, and customer-driven security requirements. Compliance ownership and accountability rest with STH’s Compliance Office.  
+STH will identify, document, and track all applicable statutory, regulatory, and contractual obligations. This includes healthcare (HIPAA/HITECH), Massachusetts information security law (201 CMR 17.00), financial reporting, privacy laws, and customer-driven security requirements. Compliance ownership and accountability rest with STH’s Compliance Office.  
 
 - **SCF Mapping:** CPL-01 (*Statutory, Regulatory & Contractual Compliance*)  
 
@@ -75,8 +75,9 @@ Violations of this policy, including failure to comply with compliance oversight
 - **Supporting Standard:**  
   - [Summit Technology Holdings – Compliance Standard](/departments/information-security/standards/08-cpl-std/)
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.308(a)(8) (Evaluation)  
+- **Regulatory Requirements:**
+  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.308(a)(8) (Evaluation)
+  - Massachusetts 201 CMR 17.00: §17.03 (Written Information Security Program Requirements)
   - AICPA SOC 2 Trust Services Criteria: Security (CC1.1, CC7.2), Confidentiality (C1), Privacy (P8)  
 
 - **Framework Alignment:**  
@@ -88,6 +89,7 @@ Violations of this policy, including failure to comply with compliance oversight
 
 ## 7. Revision Tracking
 
-| Rev | Description   | Date          | Approved |
+| Rev | Description | Date | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | Septembe
+| - | Policy created | September 2025 | M Machin |
+| 1 | §3.1 updated to explicitly reference 201 CMR 17.00; 201 CMR 17.00 citation added to References | April 2026 | M Machin |
