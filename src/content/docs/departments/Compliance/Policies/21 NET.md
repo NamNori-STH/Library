@@ -73,8 +73,9 @@ Non-compliance with this policy may result in disciplinary action, suspension of
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A), §164.312(e)(1)  
+- **Regulatory Requirements:**
+  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.312(e)(1) (Transmission Security)
+  - New York SHIELD Act: GBL §899-bb(2)(b)(ii) (Technical Safeguards — Detect, Prevent, and Respond to Attacks or System Failures)
   - AICPA SOC 2 Trust Services Criteria: Security (CC6.1, CC7.1), Availability (A1.2)  
 
 - **Framework Alignment:**  
@@ -89,3 +90,4 @@ Non-compliance with this policy may result in disciplinary action, suspension of
 | Rev | Description   | Date          | Approved |
 | --- | ------------- | ------------- | -------- |
 | -   | Policy created | October 2025 | M Machin |
+| 1   | Added NY SHIELD Act GBL §899-bb(2)(b)(ii) to References | April 2026 | M Machin |

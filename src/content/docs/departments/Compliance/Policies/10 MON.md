@@ -87,6 +87,7 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 - **Regulatory Requirements:**
   - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(D) (Information System Activity Review), §164.312(b) (Audit Controls)
+  - New York SHIELD Act: GBL §899-bb(2)(b)(ii) (Technical Safeguards — Detect, Prevent, and Respond to Attacks or System Failures; Regularly Test and Monitor Effectiveness of Key Controls)
   - AICPA SOC 2 Trust Services Criteria: Security (CC7.2, CC7.3, CC7.4), Availability (A1.2)  
 
 - **Framework Alignment:**  
@@ -104,3 +105,4 @@ Violations of this policy may result in disciplinary action, contract suspension
 | - | Policy created | September 2025 | M Machin |
 | 1 | Addition of 3.5  for monitoring Break Glass | March 2026 | M Machin |
 | 2 | Added HIPAA §164.312(b) citation to References | April 2026 | M Machin |
+| 3 | Added NY SHIELD Act GBL §899-bb(2)(b)(ii) to References | April 2026 | M Machin |

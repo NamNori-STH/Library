@@ -125,8 +125,10 @@ Violations of this policy may result in disciplinary action, up to and including
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.312(a)(2)(iv), §164.312(e)(1)  
+- **Regulatory Requirements:**
+  - HIPAA Security Rule: 45 CFR §164.312(a)(2)(iv) (Encryption and Decryption), §164.312(e)(1) (Transmission Security)
+  - New York SHIELD Act: GBL §899-bb(2)(b)(ii) (Technical Safeguards — Encryption of Data in Transit and at Rest)
+  - Nevada NRS 603A.215 (Encryption Required for Electronic Transmission of PI Outside Secure System and for Data Storage Devices Moved Outside Logical/Physical Controls)
   - AICPA SOC 2 Trust Services Criteria: Security (CC6, CC7), Confidentiality (C1)  
 
 - **Framework Alignment:**  
@@ -146,3 +148,4 @@ Violations of this policy may result in disciplinary action, up to and including
 | Rev | Description | Date | Approved |
 | --- | ----------- | ---- | -------- |
 | - | Policy created | September 2025 | M Machin |
+| 1 | Added NY SHIELD Act GBL §899-bb(2)(b)(ii) and Nevada NRS 603A.215 to References | April 2026 | M Machin |

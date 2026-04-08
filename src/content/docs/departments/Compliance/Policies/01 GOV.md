@@ -56,6 +56,8 @@ STH will assign roles and responsibilities for cybersecurity and data protection
 
 The CIO is also designated as the Responsible Employee under 201 CMR 17.00 for overseeing, coordinating, and implementing the enterprise Written Information Security Program (WISP). The STH policy library — comprising all cybersecurity and data protection policies, standards, and procedures maintained by STH and its subsidiaries — collectively constitutes the enterprise WISP. The WISP covers all personal information (as defined under 201 CMR 17.00) held by STH and its subsidiaries, including personal information of patients, clients, and employees who are Massachusetts residents.
 
+This same enterprise WISP structure also satisfies the data security program requirements of the New York SHIELD Act (NY GBL §899-bb), which requires reasonable administrative, technical, and physical safeguards for private information of New York residents. For patient protected health information, HIPAA compliance constitutes a safe harbor under the NY SHIELD Act. For non-PHI personal information (e.g., employee payroll and benefits data), the controls comprising this WISP satisfy the NY SHIELD Act's reasonable safeguards standard.
+
 - **SCF Mapping:** GOV-04 (*Assigned Security, Compliance & Resilience Responsibilities*)  
 
 ---
@@ -103,6 +105,7 @@ Violations of this policy may result in disciplinary action, contract suspension
 - **Regulatory Requirements:**
   - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.308(a)(2) (Assigned Security Responsibility), §164.308(a)(8) (Evaluation)
   - Massachusetts 201 CMR 17.00: §17.03(2)(a) (Designated Responsible Employee), §17.03(2)(j) (Regular Monitoring and Review of WISP)
+  - New York SHIELD Act: GBL §899-bb (Data Security Program Requirements; HIPAA Safe Harbor at §899-bb(2)(c))
   - AICPA SOC 2 Trust Services Criteria: Security (CC1.1, CC1.2), Risk Management (CC3.2), Monitoring (CC4.1)  
 
 - **Framework Alignment:**  
@@ -123,3 +126,4 @@ Violations of this policy may result in disciplinary action, contract suspension
 | -   | Policy created | September 2025 | M Machin |
 | 1   | Added HIPAA §164.308(a)(2) Security Official designation to §3.4 and References | April 2026 | M Machin |
 | 2   | §3.3 updated to require annual review (201 CMR 17.00); §3.4 updated to designate CIO as WISP Responsible Employee and define enterprise WISP scope; 201 CMR 17.00 citations added to References | April 2026 | M Machin |
+| 3   | §3.4 updated to note NY SHIELD Act WISP safe harbor and applicability to non-PHI employee PI; NY SHIELD Act GBL §899-bb added to References | April 2026 | M Machin |
