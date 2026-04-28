@@ -8,8 +8,8 @@ title: Business Continuity & Disaster Recovery
 
 **Subsidiary References:**
 
-- [LabXChange360, LLC – Business Continuity Standard](https://library.labxchange360.com/departments/compliance/standards/04-bcd/)  
-- [FrontRunnerHC, Inc – Business Continuity Standard](https://library.frhc.com/departments/information-security/standards/04-bcd/)  
+- <a href="https://library.labxchange360.com/departments/compliance/standards/04-bcd/" target="_blank" rel="noopener noreferrer">LabXChange360, LLC – Business Continuity Standard</a>  
+- <a href="https://library.frhc.com/departments/information-security/standards/04-bcd/" target="_blank" rel="noopener noreferrer">FrontRunnerHC, Inc – Business Continuity Standard</a>  
 
 ---
 

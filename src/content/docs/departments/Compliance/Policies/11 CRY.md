@@ -9,8 +9,8 @@ title: Cryptographic Protections
 
 **Subsidiary References:**
 
-- [LabXChange360, LLC - Cryptographic Protections Standard](https://library.labxchange360.com/departments/compliance/standards/11-cry/)
-- [FrontRunnerHC, Inc - Cryptographic Protections Standard](https://library.frhc.com/departments/information-security/standards/11-cry/)
+- <a href="https://library.labxchange360.com/departments/compliance/standards/11-cry/" target="_blank" rel="noopener noreferrer">LabXChange360, LLC - Cryptographic Protections Standard</a>
+- <a href="https://library.frhc.com/departments/information-security/standards/11-cry/" target="_blank" rel="noopener noreferrer">FrontRunnerHC, Inc - Cryptographic Protections Standard</a>
 
 ---
 

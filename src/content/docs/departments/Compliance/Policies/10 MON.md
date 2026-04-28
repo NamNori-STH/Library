@@ -8,8 +8,8 @@ title: Continuous Monitoring
 
 **Subsidiary References:**  
 
-- [LabXChange360, LLC – Continuous Monitoring Standard](https://library.labxchange360.com/departments/compliance/standards/10-mon/)  
-- [FrontRunnerHC, Inc – Continuous Monitoring Standard](https://library.frhc.com/departments/information-security/standards/10-mon/)  
+- <a href="https://library.labxchange360.com/departments/compliance/standards/10-mon/" target="_blank" rel="noopener noreferrer">LabXChange360, LLC – Continuous Monitoring Standard</a>  
+- <a href="https://library.frhc.com/departments/information-security/standards/10-mon/" target="_blank" rel="noopener noreferrer">FrontRunnerHC, Inc – Continuous Monitoring Standard</a>  
 
 ---
 

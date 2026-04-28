@@ -8,8 +8,8 @@ title: Risk Management
 
 **Subsidiary References:**  
 
-- [LabXChange360, LLC – Risk Management Standard](https://library.labxchange360.com/departments/compliance/standards/25-rsk/)  
-- [FrontRunnerHC, Inc – Risk Management Standard](https://library.frhc.com/departments/information-security/standards/25-rsk/)  
+- <a href="https://library.labxchange360.com/departments/compliance/standards/25-rsk/" target="_blank" rel="noopener noreferrer">LabXChange360, LLC – Risk Management Standard</a>  
+- <a href="https://library.frhc.com/departments/information-security/standards/25-rsk/" target="_blank" rel="noopener noreferrer">FrontRunnerHC, Inc – Risk Management Standard</a>  
 
 ---
 

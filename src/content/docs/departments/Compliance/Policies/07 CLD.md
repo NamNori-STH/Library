@@ -8,8 +8,8 @@ title: Cloud Security
 
 **Subsidiary References:**  
 
-- [LabXChange360, LLC – Cloud Security Standard](https://library.labxchange360.com/departments/compliance/standards/07-cld/)  
-- [FrontRunnerHC, Inc – Cloud Security Standard](https://library.frhc.com/departments/information-security/standards/07-cld/)  
+- <a href="https://library.labxchange360.com/departments/compliance/standards/07-cld/" target="_blank" rel="noopener noreferrer">LabXChange360, LLC – Cloud Security Standard</a>  
+- <a href="https://library.frhc.com/departments/information-security/standards/07-cld/" target="_blank" rel="noopener noreferrer">FrontRunnerHC, Inc – Cloud Security Standard</a>  
 
 ---
 

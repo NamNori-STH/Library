@@ -8,8 +8,8 @@ title: Incident Response
 
 **Subsidiary References:**  
 
-- [LabXChange360, LLC – Incident Response Standard](https://library.labxchange360.com/departments/compliance/standards/17-iro/)  
-- [FrontRunnerHC, Inc – Incident Response Standard](https://library.frhc.com/departments/information-security/standards/17-iro/)  
+- <a href="https://library.labxchange360.com/departments/compliance/standards/17-iro/" target="_blank" rel="noopener noreferrer">LabXChange360, LLC – Incident Response Standard</a>  
+- <a href="https://library.frhc.com/departments/information-security/standards/17-iro/" target="_blank" rel="noopener noreferrer">FrontRunnerHC, Inc – Incident Response Standard</a>  
 
 ---
 

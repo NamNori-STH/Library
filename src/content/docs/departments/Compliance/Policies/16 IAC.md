@@ -8,8 +8,8 @@ title: Identification & Authentication
 
 **Subsidiary References:**
 
-- [LabXChange360, LLC – Access Control Standard](https://library.labxchange360.com/departments/compliance/standards/16-iac/)  
-- [FrontRunnerHC, Inc – Access Control Standard](https://library.frhc.com/departments/information-security/standards/16-iac/)  
+- <a href="https://library.labxchange360.com/departments/compliance/standards/16-iac/" target="_blank" rel="noopener noreferrer">LabXChange360, LLC – Access Control Standard</a>  
+- <a href="https://library.frhc.com/departments/information-security/standards/16-iac/" target="_blank" rel="noopener noreferrer">FrontRunnerHC, Inc – Access Control Standard</a>  
 
 ---
 

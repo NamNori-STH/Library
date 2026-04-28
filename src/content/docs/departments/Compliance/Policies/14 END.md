@@ -8,8 +8,8 @@ title: Endpoint Security
 
 **Subsidiary References:**  
 
-- [LabXChange360, LLC – Endpoint Security Standard](https://library.labxchange360.com/departments/compliance/standards/14-end/)  
-- [FrontRunnerHC, Inc – Endpoint Security Standard](https://library.frhc.com/departments/information-security/standards/14-end/)  
+- <a href="https://library.labxchange360.com/departments/compliance/standards/14-end/" target="_blank" rel="noopener noreferrer">LabXChange360, LLC – Endpoint Security Standard</a>  
+- <a href="https://library.frhc.com/departments/information-security/standards/14-end/" target="_blank" rel="noopener noreferrer">FrontRunnerHC, Inc – Endpoint Security Standard</a>  
 
 ---
 
