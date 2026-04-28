@@ -8,8 +8,8 @@ title: Technology Development & Acquisition
 
 **Subsidiary References (planned):**
 
-- LabXChange360, LLC – Secure Development Lifecycle (SDLC) *(to be published)*  
-- FrontRunnerHC, Inc – Secure Development Lifecycle (SDLC) *(to be published)*  
+- [LabXChange360, LLC – Secure Development Lifecycle (SDLC)](https://library.labxchange360.com/departments/compliance/standards/29-tda/)  
+- [FrontRunnerHC, Inc – Secure Development Lifecycle (SDLC)](https://library.frhc.com/departments/information-security/standards/29-tda/)  
 
 ---
 

@@ -8,8 +8,8 @@ title: Information Assurance
 
 **Subsidiary References:**  
 
-- LabXChange360, LLC – Information Assurance Standard *(to be published)*  
-- FrontRunnerHC, Inc – Information Assurance Standard *(to be published)*  
+- [LabXChange360, LLC – Information Assurance Standard](https://library.labxchange360.com/departments/compliance/standards/18-iao/)  
+- [FrontRunnerHC, Inc – Information Assurance Standard](https://library.frhc.com/departments/information-security/standards/18-iao/)  
 
 ---
 

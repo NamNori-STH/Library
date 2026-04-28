@@ -8,8 +8,8 @@ title: Change Management
 
 **Subsidiary References:**  
 
-- LabXChange360, LLC – Change Management Standard *(to be published)*  
-- FrontRunnerHC, Inc – Change Management Standard *(to be published)*  
+- [LabXChange360, LLC – Change Management Standard](https://library.labxchange360.com/departments/compliance/standards/06-chg/)  
+- [FrontRunnerHC, Inc – Change Management Standard](https://library.frhc.com/departments/information-security/standards/06-chg/)  
 
 ---
 

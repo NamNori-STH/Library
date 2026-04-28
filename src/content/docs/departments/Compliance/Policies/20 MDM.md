@@ -8,8 +8,8 @@ title: Mobile Device Management
 
 **Subsidiary References:**  
 
-- LabXChange360, LLC – Mobile Device Management Standard *(to be published)*  
-- FrontRunnerHC, Inc – Mobile Device Management Standard *(to be published)*  
+- [LabXChange360, LLC – Mobile Device Management Standard](https://library.labxchange360.com/departments/compliance/standards/20-mdm/)  
+- [FrontRunnerHC, Inc – Mobile Device Management Standard](https://library.frhc.com/departments/information-security/standards/20-mdm/)  
 
 ---
 

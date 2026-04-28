@@ -8,8 +8,8 @@ title: Network Security
 
 **Subsidiary References:**  
 
-- LabXChange360, LLC – Network Security Standard *(to be published)*  
-- FrontRunnerHC, Inc – Network Security Standard *(to be published)*  
+- [LabXChange360, LLC – Network Security Standard](https://library.labxchange360.com/departments/compliance/standards/21-net/)  
+- [FrontRunnerHC, Inc – Network Security Standard](https://library.frhc.com/departments/information-security/standards/21-net/)  
 
 ---
 

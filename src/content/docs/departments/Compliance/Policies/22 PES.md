@@ -8,8 +8,8 @@ title: Physical & Environmental Security
 
 **Subsidiary References:**  
 
-- LabXChange360, LLC – Physical & Environmental Security Standard *(to be published)*  
-- FrontRunnerHC, Inc – Physical & Environmental Security Standard *(to be published)*  
+- [LabXChange360, LLC – Physical & Environmental Security Standard](https://library.labxchange360.com/departments/compliance/standards/22-pes/)  
+- [FrontRunnerHC, Inc – Physical & Environmental Security Standard](https://library.frhc.com/departments/information-security/standards/22-pes/)  
 
 ---
 

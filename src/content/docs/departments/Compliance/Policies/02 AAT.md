@@ -8,8 +8,8 @@ title: Artificial & Autonomous Technologies
 
 **Subsidiary References:**  
 
-- LabXChange360, LLC – Artificial & Autonomous Technologies Standard *(to be published)*  
-- FrontRunnerHC, Inc – Artificial & Autonomous Technologies Standard *(to be published)*  
+- [LabXChange360, LLC – Artificial & Autonomous Technologies Standard](https://library.labxchange360.com/departments/compliance/standards/02-aat/)  
+- [FrontRunnerHC, Inc – Artificial & Autonomous Technologies Standard](https://library.frhc.com/departments/information-security/standards/02-aat/)  
 
 ---
 

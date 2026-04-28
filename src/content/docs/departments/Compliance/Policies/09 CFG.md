@@ -8,8 +8,8 @@ title: Configuration Management
 
 **Subsidiary References:**  
 
-- LabXChange360, LLC – Configuration Management Standard *(to be published)*  
-- FrontRunnerHC, Inc – Configuration Management Standard *(to be published)*  
+- [LabXChange360, LLC – Configuration Management Standard](https://library.labxchange360.com/departments/compliance/standards/09-cfg/)  
+- [FrontRunnerHC, Inc – Configuration Management Standard](https://library.frhc.com/departments/information-security/standards/09-cfg/)  
 
 ---
 

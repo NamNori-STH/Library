@@ -8,8 +8,8 @@ title: Vulnerability & Patch Management
 
 **Subsidiary References:**
 
-- [LabXChange360, LLC – Vulnerability & Patch Management Standard](https://library.labxchange360.com/Information%20Security/Policies/VulnerabilityPatchManagement/)
-- [FrontRunnerHC, Inc – Vulnerability & Patch Management Standard](https://library.frhc.com/Information%20Security/Policies/14%20-%20VulnerabilityPatchManagement/)
+- [LabXChange360, LLC – Vulnerability & Patch Management Standard](https://library.labxchange360.com/departments/compliance/standards/32-vpm/)
+- [FrontRunnerHC, Inc – Vulnerability & Patch Management Standard](https://library.frhc.com/departments/information-security/standards/32-vpm/)
 
 ---
 

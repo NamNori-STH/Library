@@ -8,8 +8,8 @@ title: Web Security
 
 **Subsidiary References:**  
 
-- LabXChange360, LLC – Web Security Standard *(to be published)*  
-- FrontRunnerHC, Inc – Web Security Standard *(to be published)*  
+- [LabXChange360, LLC – Web Security Standard](https://library.labxchange360.com/departments/compliance/standards/33-web/)  
+- [FrontRunnerHC, Inc – Web Security Standard](https://library.frhc.com/departments/information-security/standards/33-web/)  
 
 ---
 

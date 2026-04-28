@@ -8,8 +8,8 @@ title: Capacity & Performance Planning
 
 **Subsidiary References:**  
 
-- LabXChange360, LLC – Capacity & Performance Planning Standard *(to be published)*  
-- FrontRunnerHC, Inc – Capacity & Performance Planning Standard *(to be published)*  
+- [LabXChange360, LLC – Capacity & Performance Planning Standard](https://library.labxchange360.com/departments/compliance/standards/05-cap/)  
+- [FrontRunnerHC, Inc – Capacity & Performance Planning Standard](https://library.frhc.com/departments/information-security/standards/05-cap/)  
 
 ---
 

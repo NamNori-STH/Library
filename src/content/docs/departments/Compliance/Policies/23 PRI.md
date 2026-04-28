@@ -8,8 +8,8 @@ title: Data Privacy
 
 **Subsidiary References:**  
 
-- LabXChange360, LLC – Data Privacy Standard *(to be published)*  
-- FrontRunnerHC, Inc – Data Privacy Standard *(to be published)*  
+- [LabXChange360, LLC – Data Privacy Standard](https://library.labxchange360.com/departments/compliance/standards/23-pri/)  
+- [FrontRunnerHC, Inc – Data Privacy Standard](https://library.frhc.com/departments/information-security/standards/23-pri/)  
 
 ---
 

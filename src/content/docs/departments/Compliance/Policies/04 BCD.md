@@ -8,8 +8,8 @@ title: Business Continuity & Disaster Recovery
 
 **Subsidiary References:**
 
-- [LabXChange360, LLC – Business Continuity Standard](https://library.labxchange360.com/Information%20Security/Policies/BusinessContinuity/)  
-- [FrontRunnerHC, Inc – Business Continuity Standard](https://library.frhc.com/Information%20Security/Policies/16%20-%20BusinessContinuity/)  
+- [LabXChange360, LLC – Business Continuity Standard](https://library.labxchange360.com/departments/compliance/standards/04-bcd/)  
+- [FrontRunnerHC, Inc – Business Continuity Standard](https://library.frhc.com/departments/information-security/standards/04-bcd/)  
 
 ---
 
