@@ -154,6 +154,10 @@ Violations of this policy may result in disciplinary action, up to and including
 
 ## 7. Revision Tracking
 
-| Rev | Description   | Date          | Approved |
+| Rev | Description | Date | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created 
+| - | Policy created | September 2025 | M Machin |
+
+---
+
+![Internal Use Only](../../../assets/DCH-Internal-blk.jpg)
