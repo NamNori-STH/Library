@@ -155,7 +155,7 @@ Violations of this policy may result in disciplinary action, up to and including
 ## 7. Revision Tracking
 
 | Rev | Description | Date | Approved |
-| --- | ------------- | ------------- | -------- |
+| --- | ------------- | ------------- | ------- |
 | - | Policy created | September 2025 | M Machin |
 
 ---
