@@ -57,6 +57,18 @@ NIDS/NIPS must cover both perimeter and internal network traffic, and wireless i
 
 ---
 
+### 3.4 Remote Access
+
+Subsidiaries must establish and enforce controls governing all forms of remote access to internal systems, applications, and data, including access by employees, contractors, and third parties. Remote access must be authorized, authenticated using multi-factor authentication, and limited to the minimum necessary access required for the user's role.
+
+All remote access sessions must be encrypted using industry-recognized protocols. Remote privileged access to sensitive systems and regulated data environments must be explicitly approved and monitored. Third-party remote access must be governed through documented agreements and restricted to approved connection methods and timeframes.
+
+Subsidiaries must maintain the capability to promptly terminate or disable remote access sessions and credentials when no longer required or when a security concern is identified.
+
+- **SCF Mapping:** NET-14 (*Remote Access*)
+
+---
+
 ## 4. Compliance & Governance
 
 - Subsidiaries must maintain evidence of firewall configurations, segmentation architecture, and intrusion detection logs.  
@@ -82,12 +94,13 @@ Non-compliance with this policy may result in disciplinary action, suspension of
   - NET-01 – Network Security Controls (NSC)  
   - NET-06 – Network Segmentation (macrosegmentation)  
   - NET-08 – Network Intrusion Detection / Prevention Systems (NIDS / NIPS)  
+  - NET-14 – Remote Access  
 
 ---
 
 ## 7. Revision Tracking
 
-| Rev | Description   | Date          | Approved |
+| Rev | Description | Date | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | October 2025 | M Machin |
-| 1   | Added NY SHIELD Act GBL §899-bb(2)(b)(ii) to References | April 2026 | M Machin |
+| - | Policy created | October 2025 | M Machin |
+| 1 | 3.4 added | April 2026 | M Machin |
