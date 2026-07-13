@@ -8,8 +8,8 @@ title: Quantum Security
 
 **Subsidiary References:**  
 
-- LabXChange360, LLC – Quantum Security Standard *(to be published)*  
-- FrontRunnerHC, Inc. – Quantum Security Standard *(to be published)*  
+- <a href="https://library.labxchange360.com/departments/compliance/standards/25-qts/" target="_blank" rel="noopener noreferrer">LabXChange360, LLC – Quantum Security Standard</a>  
+- <a href="https://library.frhc.com/departments/information-security/standards/25-qts/" target="_blank" rel="noopener noreferrer">FrontRunnerHC, Inc. – Quantum Security Standard</a>  
 
 ---
 

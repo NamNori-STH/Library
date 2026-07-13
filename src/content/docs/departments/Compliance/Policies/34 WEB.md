@@ -8,8 +8,8 @@ title: Web Security
 
 **Subsidiary References:**  
 
-- <a href="https://library.labxchange360.com/departments/compliance/standards/33-web/" target="_blank" rel="noopener noreferrer">LabXChange360, LLC – Web Security Standard</a>  
-- <a href="https://library.frhc.com/departments/information-security/standards/33-web/" target="_blank" rel="noopener noreferrer">FrontRunnerHC, Inc – Web Security Standard</a>  
+- <a href="https://library.labxchange360.com/departments/compliance/standards/34-web/" target="_blank" rel="noopener noreferrer">LabXChange360, LLC – Web Security Standard</a>  
+- <a href="https://library.frhc.com/departments/information-security/standards/34-web/" target="_blank" rel="noopener noreferrer">FrontRunnerHC, Inc – Web Security Standard</a>  
 
 ---
 
@@ -89,6 +89,6 @@ Failure to comply with this policy may result in restricted access, disciplinary
 
 ## 7. Revision Tracking
 
-| Rev | Description   | Date         | Approved |
+| Rev | Description | Date | Approved |
 | --- | ------------- | ------------ | -------- |
-| -   | Policy created | October 2025 | M Machin |
+| - | Policy created | October 2025 | M Machin |
