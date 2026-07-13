@@ -107,6 +107,6 @@ Failure to comply with this policy may result in disciplinary action, suspension
 
 ## 7. Revision Tracking
 
-| Rev | Description   | Date         | Approved |
+| Rev | Description | Date | Approved |
 | --- | ------------- | ------------ | -------- |
 | -   | Policy created | October 2025 | M Machin |
