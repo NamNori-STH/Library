@@ -123,9 +123,12 @@ Violations of this policy may result in disciplinary action, termination of empl
 ## 6. References
 
 - **Regulatory Requirements:**
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(C) (Sanction Policy), §164.308(a)(3) (Workforce Security)
-  - Massachusetts 201 CMR 17.00: §17.03(2)(h) (Means for Preventing Terminated Employees from Accessing Personal Information)
-  - AICPA SOC 2 Trust Services Criteria: Security (CC1.1, CC6.1), Confidentiality (C1.1)  
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(3) – Workforce Security
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC1.1, CC6.1)
+  - Confidentiality (C1.1)
+- Massachusetts 201 CMR 17.00: §17.03(2)(h) – Termination of Access to Personal Information When Employment Ends
 
 - **Framework Alignment:**  
   - HRS-01 – Human Resources Security Management  
@@ -147,4 +150,7 @@ Violations of this policy may result in disciplinary action, termination of empl
 | --- | ------------- | ------------- | -------- |
 | - | Policy created | September 2025 | M Machin |
 | 1 | Added HIPAA §164.308(a)(1)(ii)(C) Sanction Policy citation to References | April 2026 | M Machin |
-| 2 | §3.9 strengthened to require access revocation no later than moment of termination, with pre-termination requirement for involuntary separations; 201 CMR 17.00 citation added to References | April 2026 | M Machin |
+| 2 | §3.9 strengthened to require access revocation no later than moment of termination; 201 CMR 17.00 citation added to References | April 2026 | M Machin |
+| 3 | review & approved for 2026 | July 2026 | M Machin |
+
+![Internal Use Only](../../../assets/DCH-Internal.jpg)
