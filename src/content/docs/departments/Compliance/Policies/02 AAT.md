@@ -65,9 +65,12 @@ Violations of this policy may result in disciplinary action, contract suspension
 ## 6. References
 
 - **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis)  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(B) (Risk Management)  
-  - AICPA SOC 2 Trust Services Criteria: Security (CC7.2, CC7.3), Privacy (P8.1, P8.2)  
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(1)(ii)(A) – Risk Analysis
+  - 45 CFR §164.308(a)(1)(ii)(B) – Risk Management
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC7.2, CC7.3)
+  - Privacy (P8.1, P8.2)
 
 - **Framework Alignment:**  
   - AAT-01 – Artificial Intelligence (AI) & Autonomous Technologies Governance  
@@ -77,6 +80,9 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ## 7. Revision Tracking
 
-| Rev | Description   | Date          | Approved |
+| Rev | Description | Date | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | September 2025 | M Machin |
+| - | Policy created | September 2025 | M Machin |
+| 1.0 | Reviewed and approved for 2026 | July 2026 | M Machin |
+
+![Internal Use Only](../../../assets/DCH-Internal.jpg)
