@@ -3,11 +3,8 @@ title: Security Awareness & Training Standard
 ---
 
 **Organization:** Summit Technology Holdings, LLC (STH)  
+**Parent Policy Reference:** <a href="https://library.summitth.com/departments/compliance/policies/26-rsk/" target="_blank" rel="noopener noreferrer">Summit Technology Holdings – Security Awareness & Training Policy</a>  
 **Framework Reference:** Secure Controls Framework (SCF) – Security Awareness & Training (SAT)
-
-**Parent Policy Reference:**  
-
-- [Summit Technology Holdings – Security Awareness & Training Policy](/departments/information-security/policies/28-sat/)  
 
 ---
 
