@@ -92,8 +92,13 @@ Failure to comply with this policy may result in disciplinary action, suspension
 ## 6. References
 
 - **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.308(a)(1)(ii)(B) (Risk Management)  
-  - AICPA SOC 2 Trust Services Criteria: Security (CC3.2, CC3.3), Availability (A1.2)  
+
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(1)(ii)(A) – Risk Analysis
+  - 45 CFR §164.308(a)(1)(ii)(B) – Risk Management
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC3.2, CC3.3)
+  - Availability (A1.2)
 
 - **Framework Alignment:**  
   - RSK-01 – Risk Management Program  
@@ -109,4 +114,7 @@ Failure to comply with this policy may result in disciplinary action, suspension
 
 | Rev | Description | Date | Approved |
 | --- | ------------- | ------------ | -------- |
-| -   | Policy created | October 2025 | M Machin |
+| - | Policy created | October 2025 | M Machin |
+| 1.0 | Updated and approved for 2026 | July 2026 | M Machin |
+
+![Internal Use Only](../../../assets/DCH-Internal.jpg)
