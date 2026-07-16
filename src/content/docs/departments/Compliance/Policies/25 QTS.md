@@ -101,3 +101,5 @@ Failure to comply with this policy may result in disciplinary action, suspension
 | Rev | Description | Date | Approved |
 | --- | ------------- | ------------ | -------- |
 | - | Policy created | July 2026 | M Machin |
+
+![Internal Use Only](../../../assets/DCH-Internal.jpg)

@@ -148,7 +148,10 @@ Failure to comply with this policy may result in disciplinary action, suspension
 
 ## 7. Revision Tracking
 
-| Rev | Description   | Date          | Approved |
+| Rev | Description | Date | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created |
-| 1   | Added Breach Notification Procedure reference to §3.8; added §164.400–414, IRO-04.1, IRO-10.2 to References | April 2026 | M Machin |
+| - | Policy created | October 2025 | M Machin |
+| 1.0 | Added Breach Notification Procedure reference to §3.8; added §164.400–414, IRO-04.1, IRO-10.2 to References | April 2026 | M Machin |
+| 2.0 | Updated and approved for 2026 | July 2026 | M Machin |
+
+![Internal Use Only](../../../assets/DCH-Internal.jpg)

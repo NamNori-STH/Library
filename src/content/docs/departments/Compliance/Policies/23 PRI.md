@@ -129,4 +129,7 @@ Failure to comply with this policy may result in disciplinary action, loss of ac
 | Rev | Description | Date | Approved |
 | --- | ------------- | ------------ | -------- |
 | - | Policy created | September 2025 | M Machin |
-| 1 | Updated HIPAA citations to BA-applicable provisions (§164.502, §164.514(d)); added minimum necessary standard to §3.4 | April 2026 | M Machin |
+| 1.0 | Updated HIPAA citations to BA-applicable provisions (§164.502, §164.514(d)) | April 2026 | M Machin |
+| 2.0 | Updated and approved for 2026 | July 2026 | M Machin |
+
+![Internal Use Only](../../../assets/DCH-Internal.jpg)

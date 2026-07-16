@@ -107,6 +107,9 @@ Violations of this policy, including unauthorized use of unregistered devices or
 
 ## 7. Revision Tracking
 
-| Rev | Description   | Date          | Approved |
+| Rev | Description | Date | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | Oct
+| - | Policy created | October 2025 | M Machin |
+| 1.0 | Updated and approved for 2026 | July 2026 | M Machin |
+
+![Internal Use Only](../../../assets/DCH-Internal.jpg)

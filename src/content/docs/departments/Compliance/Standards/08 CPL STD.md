@@ -121,6 +121,9 @@ Violations of this standard and related policies, including failure to comply wi
 
 ## 7. Revision Tracking
 
-| Rev | Description        | Date         | Approved |
+| Rev | Description | Date | Approved |
 | --- | ------------------ | ------------ | -------- |
-| -   | Standard created   | October 2025 | M Machin |
+| - | Standard created | October 2025 | M Machin |
+| 1.0 | Updated and approved for 2026 | July 2026 | M Machin |
+
+![Internal Use Only](../../../assets/DCH-Internal.jpg)

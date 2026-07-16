@@ -92,4 +92,7 @@ Violations of this policy, including failure to comply with compliance oversight
 | Rev | Description | Date | Approved |
 | --- | ------------- | ------------- | -------- |
 | - | Policy created | September 2025 | M Machin |
-| 1 | §3.1 updated to explicitly reference 201 CMR 17.00; 201 CMR 17.00 citation added to References | April 2026 | M Machin |
+| 1.0 | §3.1 updated to explicitly reference 201 CMR 17.00; 201 CMR 17.00 citation added to References | April 2026 | M Machin |
+| 2.0 | Updated and approved for 2026 | July 2026 | M Machin |
+
+![Internal Use Only](../../../assets/DCH-Internal.jpg)

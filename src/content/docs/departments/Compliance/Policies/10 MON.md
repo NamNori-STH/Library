@@ -103,6 +103,8 @@ Violations of this policy may result in disciplinary action, contract suspension
 | Rev | Description | Date | Approved |
 | --- | ------------- | ------------- | -------- |
 | - | Policy created | September 2025 | M Machin |
-| 1 | Addition of 3.5  for monitoring Break Glass | March 2026 | M Machin |
-| 2 | Added HIPAA §164.312(b) citation to References | April 2026 | M Machin |
-| 3 | Added NY SHIELD Act GBL §899-bb(2)(b)(ii) to References | April 2026 | M Machin |
+| 1.0 | Addition of 3.5  for monitoring Break Glass | March 2026 | M Machin |
+| 1.1 | Added HIPAA §164.312(b) and NY SHIELD Act GBL §899-bb(2)(b)(ii) citations to References | April 2026 | M Machin |
+| 2.0 | Updated and approved for 2026 | July 2026 | M Machin |
+
+![Internal Use Only](../../../assets/DCH-Internal.jpg)

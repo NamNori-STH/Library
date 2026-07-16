@@ -220,6 +220,7 @@ Following resolution of each breach, Corporate Legal Counsel and the CIO — in 
 | --- | ----------- | ---- | -------- |
 | 1.0 | Initial STH-level procedure | April 2026 | M Machin |
 | 2.0 | Added state-specific notification requirements | April 2026 | M Machin |
+| 3.0 | Reviewed and approved for 2026 | July 2026 | M Machin |
 
 ---
 
@@ -290,3 +291,5 @@ This matrix provides a quick-reference summary of individual notification timeli
 **High Risk States Requiring Immediate Legal Counsel Review:** California, Colorado, Delaware, Florida, Maine, New York, Texas, Washington.
 
 **States Where HIPAA Safe Harbor Scope Should Be Verified by Legal Counsel:** Alabama, Arizona, Montana, Nevada, New Jersey, New Mexico, Oregon, Rhode Island, Vermont, West Virginia, Wisconsin — these states have timelines shorter than 60 days but are believed to have full HIPAA safe harbors; confirmation should be obtained and documented.
+
+![Internal Use Only](../../../assets/DCH-Internal.jpg)

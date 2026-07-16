@@ -149,8 +149,8 @@ Violations of this policy may result in disciplinary action, termination of empl
 | Rev | Description | Date | Approved |
 | --- | ------------- | ------------- | -------- |
 | - | Policy created | September 2025 | M Machin |
-| 1 | Added HIPAA §164.308(a)(1)(ii)(C) Sanction Policy citation to References | April 2026 | M Machin |
-| 2 | §3.9 strengthened to require access revocation no later than moment of termination; 201 CMR 17.00 citation added to References | April 2026 | M Machin |
-| 3 | review & approved for 2026 | July 2026 | M Machin |
+| 1.0 | Added HIPAA §164.308(a)(1)(ii)(C) Sanction Policy citation to References | April 2026 | M Machin |
+| 2.0 | §3.9 strengthened to require access revocation no later than moment of termination; 201 CMR 17.00 citation added to References | April 2026 | M Machin |
+| 3.0 | review & approved for 2026 | July 2026 | M Machin |
 
 ![Internal Use Only](../../../assets/DCH-Internal.jpg)

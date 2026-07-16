@@ -103,4 +103,7 @@ Non-compliance with this policy may result in disciplinary action, suspension of
 | Rev | Description | Date | Approved |
 | --- | ------------- | ------------- | -------- |
 | - | Policy created | October 2025 | M Machin |
-| 1 | 3.4 added | April 2026 | M Machin |
+| 1.0 | 3.4 added | April 2026 | M Machin |
+| 2.0 | Updated and approved for 2026 | July 2026 | M Machin |
+
+![Internal Use Only](../../../assets/DCH-Internal.jpg)

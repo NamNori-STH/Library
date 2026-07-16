@@ -126,7 +126,9 @@ Violations of this policy may result in disciplinary action, up to and including
 | Rev | Description | Date | Approved |
 | --- | ------------- | ------------- | -------- |
 | - | Policy created | September 2025 | M Machin |
-| 1 | 3.1 and 3.3 updated to account for Break Glass account | March 2026 | M Machin |
-| 2 | Updated to SCF 2026.1; corrected IAC control numbers throughout | April 2026 | M Machin |
-| 3 | Added HIPAA §164.308(a)(4) and §164.312(a)(1) citations to References | April 2026 | M Machin |
-| 4 | §3.2 updated to require automatic account lockout after consecutive failed authentication attempts; 201 CMR 17.00 citation added to References | April 2026 | M Machin |
+| 1.0 | 3.1 and 3.3 updated to account for Break Glass account | March 2026 | M Machin |
+| 1.1 | Added HIPAA §164.308(a)(4) and §164.312(a)(1) citations to References | April 2026 | M Machin |
+| 1.2 | §3.2 updated to require automatic account lockout after consecutive failed authentication attempts; 201 CMR 17.00 citation added to References | April 2026 | M Machin |
+| 2.0 | Updated and approved for 2026 | July 2026 | M Machin |
+
+![Internal Use Only](../../../assets/DCH-Internal.jpg)

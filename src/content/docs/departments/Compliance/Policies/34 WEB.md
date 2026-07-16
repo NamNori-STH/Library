@@ -92,3 +92,6 @@ Failure to comply with this policy may result in restricted access, disciplinary
 | Rev | Description | Date | Approved |
 | --- | ------------- | ------------ | -------- |
 | - | Policy created | October 2025 | M Machin |
+| 1.0 | Updated and approved for 2026 | July 2026 | M Machin |
+
+![Internal Use Only](../../../assets/DCH-Internal.jpg)

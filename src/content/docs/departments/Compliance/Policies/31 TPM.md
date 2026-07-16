@@ -122,4 +122,7 @@ Violations of this policy may result in disciplinary action, up to and including
 | Rev | Description | Date | Approved |
 | --- | ------------- | ------------- | -------- |
 | - | Policy created | September 2025 | M Machin |
-| 1 | §3.3 updated to require 201 CMR 17.00-consistent security obligations in contracts with vendors handling MA residents' PI; 201 CMR 17.00 citation added to References | April 2026 | M Machin |
+| 1 | updated to add 201 CMR 17.00 to References | April 2026 | M Machin |
+| 1.0 | Updated and approved for 2026 | July 2026 | M Machin |
+
+![Internal Use Only](../../../assets/DCH-Internal.jpg)

@@ -148,4 +148,7 @@ Violations of this policy may result in disciplinary action, up to and including
 | Rev | Description | Date | Approved |
 | --- | ----------- | ---- | -------- |
 | - | Policy created | September 2025 | M Machin |
-| 1 | Added NY SHIELD Act GBL §899-bb(2)(b)(ii) and Nevada NRS 603A.215 to References | April 2026 | M Machin |
+| 1.0 | Added NY SHIELD Act GBL §899-bb(2)(b)(ii) and Nevada NRS 603A.215 to References | April 2026 | M Machin |
+| 2.0 | Updated and approved for 2026 | July 2026 | M Machin |
+
+![Internal Use Only](../../../assets/DCH-Internal.jpg)

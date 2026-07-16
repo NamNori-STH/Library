@@ -88,6 +88,9 @@ Failure to complete assigned training or to adhere to secure behavior expectatio
 
 ## 7. Revision Tracking
 
-| Rev | Description       | Date         | Approved |
+| Rev | Description | Date | Approved |
 | --- | ----------------- | ------------ | -------- |
-| -   | Standard created  | October 2025 | M Machin |
+| - | Standard created | October 2025 | M Machin |
+| 1.0 | Updated and approved for 2026 | July 2026 | M Machin |
+
+![Internal Use Only](../../../assets/DCH-Internal.jpg)

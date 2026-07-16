@@ -124,6 +124,7 @@ Violations of this policy may result in disciplinary action, contract suspension
 | Rev | Description | Date | Approved |
 | --- | ------------- | ------------- | -------- |
 | - | Policy created | September 2025 | M Machin |
-| 1 | Added HIPAA §164.308(a)(2) Security Official designation to §3.4 and References | April 2026 | M Machin |
-| 2 | §3.3 updated to require annual review (201 CMR 17.00); §3.4 updated to designate CIO as WISP Responsible Employee and define enterprise WISP scope; 201 CMR 17.00 citations added to References | April 2026 | M Machin |
-| 3 | §3.4 updated to note NY SHIELD Act WISP safe harbor and applicability to non-PHI employee PI; NY SHIELD Act GBL §899-bb added to References | April 2026 | M Machin |
+| 1.0 | Added 201 CMR 17.00 and NY SHIELD Act to References | April 2026 | M Machin |
+| 2.0 | Updated and approved for 2026 | July 2026 | M Machin |
+
+![Internal Use Only](../../../assets/DCH-Internal.jpg)

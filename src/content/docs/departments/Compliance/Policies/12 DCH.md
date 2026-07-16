@@ -164,7 +164,10 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ## 7. Revision Tracking
 
-| Rev | Description   | Date          | Approved |
+| Rev | Description | Date | Approved |
 | --- | ------------- | ------------- | -------- |
-| -   | Policy created | September 2025 | M Machin |
-| 1   | §3.1 updated to require data minimization at collection point (201 CMR 17.00 §17.03(2)(g)); §3.5 updated to explicitly address locked storage of paper records containing PI (201 CMR 17.00 §17.05); 201 CMR 17.00 citations added to References | April 2026 | M Machin |
+| - | Policy created | September 2025 | M Machin |
+| 1.0 | 201 CMR 17.00 citations added to References | April 2026 | M Machin |
+| 2.0 | Updated and approved for 2026 | July 2026 | M Machin |
+
+![Internal Use Only](../../../assets/DCH-Internal.jpg)
