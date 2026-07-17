@@ -84,15 +84,19 @@ Failure to comply with this policy may result in disciplinary action, suspension
 
 ## 6. References
 
-- **Regulatory Requirements:**
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.308(a)(1)(ii)(B) (Risk Management)
-  - AICPA SOC 2 Trust Services Criteria: Security (CC3.2, CC3.3, CC6.1)
+**Regulatory Requirements:**
 
-- **Framework Alignment:**
-  - QTS-01 – Quantum Risk Governance
-  - QTS-02 – Cryptographic Agility Risk Assessment (CARA)
-  - QTS-04 – Post-Quantum Cryptography (PQC) Discovery & Visibility
-  - QTS-04.1 – Post-Quantum Cryptography (PQC) Asset Inventory
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(1)(ii)(A) – Risk Analysis
+  - 45 CFR §164.308(a)(1)(ii)(B) – Risk Management
+- AICPA SOC 2 Trust Services Criteria: Security (CC3.2, CC3.3, CC6.1)
+
+**Framework Alignment:**
+
+- QTS-01 – Quantum Risk Governance
+- QTS-02 – Cryptographic Agility Risk Assessment (CARA)
+- QTS-04 – Post-Quantum Cryptography (PQC) Discovery & Visibility
+- QTS-04.1 – Post-Quantum Cryptography (PQC) Asset Inventory
 
 ---
 

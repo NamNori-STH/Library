@@ -64,7 +64,8 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ## 6. References
 
-- **Regulatory Requirements:**  
+**Regulatory Requirements:**  
+
 - HIPAA Security Rule:
   - 45 CFR §164.308(a)(1)(ii)(A) – Risk Analysis
   - 45 CFR §164.308(a)(1)(ii)(B) – Risk Management
@@ -72,9 +73,10 @@ Violations of this policy may result in disciplinary action, contract suspension
   - Security (CC7.2, CC7.3)
   - Privacy (P8.1, P8.2)
 
-- **Framework Alignment:**  
-  - AAT-01 – Artificial Intelligence (AI) & Autonomous Technologies Governance  
-  - AAT-02 – Situational Awareness of AI & Autonomous Technologies  
+**Framework Alignment:**  
+
+- AAT-01 – Artificial Intelligence (AI) & Autonomous Technologies Governance  
+- AAT-02 – Situational Awareness of AI & Autonomous Technologies  
 
 ---
 

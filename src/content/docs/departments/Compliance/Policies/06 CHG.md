@@ -67,14 +67,22 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(B) (Risk Management)  
-  - AICPA SOC 2 Trust Services Criteria: Security (CC7.2, CC7.3), Availability (A1.2)  
+**Regulatory Requirements:**
 
-- **Framework Alignment:**  
-  - CHG-01 – Change Management Program  
-  - CHG-02 – Configuration Change Control  
-  - CHG-05 – Stakeholder Notification of Changes  
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(1)(ii)(A) – Risk Analysis
+  - 45 CFR §164.308(a)(1)(ii)(B) – Risk Management
+  - 45 CFR §164.308(a)(8) – Evaluation
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC7.2, CC7.3)
+  - Availability (A1.2)
+
+**Framework Alignment:**
+
+- CHG-01 – Change Management Program
+- CHG-02 – Configuration Change Control
+- CHG-03 – Security Impact Analysis for Changes
+- CHG-05 – Stakeholder Notification of Changes
 
 ---
 

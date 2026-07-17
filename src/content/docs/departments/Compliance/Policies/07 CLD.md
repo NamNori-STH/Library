@@ -69,14 +69,22 @@ Violations of this policy may result in disciplinary action, suspension of contr
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(B) (Risk Management)  
-  - AICPA SOC 2 Trust Services Criteria: Security (CC7.2, CC7.3), Confidentiality (C1), Availability (A1.2)  
+**Regulatory Requirements:**  
 
-- **Framework Alignment:**  
-  - CLD-01 – Cloud Services  
-  - CLD-09 – Geolocation Requirements for Processing, Storage and Service Locations  
-  - CLD-11 – Cloud Access Security Broker (CASB)  
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(1)(ii)(A) – Risk Analysis
+  - 45 CFR §164.308(a)(1)(ii)(B) – Risk Management
+  - 45 CFR §164.312(b) – Audit Controls
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC7.2, CC7.3)
+  - Confidentiality (C1)
+  - Availability (A1.2)
+
+**Framework Alignment:**  
+
+- CLD-01 – Cloud Services  
+- CLD-09 – Geolocation Requirements for Processing, Storage and Service Locations  
+- CLD-11 – Cloud Access Security Broker (CASB)  
 
 ---
 

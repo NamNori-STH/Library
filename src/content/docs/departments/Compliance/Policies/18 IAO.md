@@ -63,13 +63,18 @@ Failure to comply with this policy may result in disciplinary action, revocation
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(8) (Evaluation)  
-  - AICPA SOC 2 Trust Services Criteria: Security (CC4.1, CC4.2), Availability (A1.2)  
+**Regulatory Requirements:**
 
-- **Framework Alignment:**  
-  - IAO-01 – Information Assurance (IA) Operations  
-  - IAO-02 – Assessments  
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(8) – Evaluation
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC4.1, CC4.2)
+  - Availability (A1.2)
+
+**Framework Alignment:**
+
+- IAO-01 – Information Assurance (IA) Operations
+- IAO-02 – Assessments
 
 ---
 

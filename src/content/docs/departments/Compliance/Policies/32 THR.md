@@ -74,15 +74,20 @@ Failure by subsidiaries to apply or act upon intelligence provided by STH may re
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A), §164.308(a)(6)  
-  - AICPA SOC 2 Trust Services Criteria: Security (CC7.2, CC7.4)  
+**Regulatory Requirements:**
 
-- **Framework Alignment:**  
-  - THR-01 – Threat Intelligence Program  
-  - THR-03 – Threat Intelligence Feeds  
-  - THR-09 – Threat Catalog  
-  - THR-10 – Threat Analysis  
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(1)(ii)(A) – Risk Analysis
+  - 45 CFR §164.308(a)(6) – Security Incident Procedures
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC7.2, CC7.4)
+
+**Framework Alignment:**
+
+- THR-01 – Threat Intelligence Program
+- THR-03 – Threat Intelligence Feeds
+- THR-09 – Threat Catalog
+- THR-10 – Threat Analysis
 
 ---
 

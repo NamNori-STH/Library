@@ -107,20 +107,25 @@ Failure to comply with this policy may result in disciplinary action, loss of ac
 
 ## 6. References
 
-- **Regulatory Requirements:**
-  - HIPAA Privacy Rule: 45 CFR §164.502 (Permissible Uses and Disclosures of PHI), §164.514(d) (Minimum Necessary Standard)
-  - AICPA SOC 2 Trust Services Criteria: Privacy (P1–P9)  
+**Regulatory Requirements:**
 
-- **Framework Alignment:**  
-  - PRI-01 – Data Privacy Program  
-  - PRI-01.1 – Chief Privacy Officer (CPO)  
-  - PRI-02 – Data Privacy Notice  
-  - PRI-03 – Choice & Consent  
-  - PRI-04 – Restrict Collection To Identified Purpose  
-  - PRI-05 – Personal Data (PD) Retention & Disposal  
-  - PRI-06 – Data Subject Empowerment  
-  - PRI-07 – Information Sharing With Third Parties  
-  - PRI-08 – Personal Data (PD) Control Testing, Training & Monitoring  
+- HIPAA Privacy Rule:
+  - 45 CFR §164.520 – Notice of Privacy Practices
+  - 45 CFR §164.522 – Rights to Request Restrictions
+- AICPA SOC 2 Trust Services Criteria:
+  - Privacy (P1–P9)
+
+**Framework Alignment:**
+
+- PRI-01 – Data Privacy Program
+- PRI-01.1 – Chief Privacy Officer (CPO)
+- PRI-02 – Data Privacy Notice
+- PRI-03 – Choice & Consent
+- PRI-04 – Restrict Collection To Identified Purpose
+- PRI-05 – Personal Data (PD) Retention & Disposal
+- PRI-06 – Data Subject Empowerment
+- PRI-07 – Information Sharing With Third Parties
+- PRI-08 – Personal Data (PD) Control Testing, Training & Monitoring
 
 ---
 

@@ -83,16 +83,21 @@ Failure to comply with this policy may result in loss of facility access, discip
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.310 (Physical Safeguards)  
-  - AICPA SOC 2 Trust Services Criteria: Security (CC6.3, CC6.7), Availability (A1.2)  
+**Regulatory Requirements:**
 
-- **Framework Alignment:**  
-  - PES-01 – Physical & Environmental Protections  
-  - PES-02 – Physical Access Authorizations  
-  - PES-03 – Physical Access Control  
-  - PES-05 – Monitoring Physical Access  
-  - PES-06 – Visitor Control  
+- HIPAA Security Rule:
+  - 45 CFR §164.310 – Physical Safeguards
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC6.3, CC6.7)
+  - Availability (A1.2)
+
+**Framework Alignment:**
+
+- PES-01 – Physical & Environmental Protections
+- PES-02 – Physical Access Authorizations
+- PES-03 – Physical Access Control
+- PES-05 – Monitoring Physical Access
+- PES-06 – Visitor Control
 
 ---
 

@@ -122,7 +122,8 @@ Violations of this policy may result in disciplinary action, termination of empl
 
 ## 6. References
 
-- **Regulatory Requirements:**
+**Regulatory Requirements:**  
+
 - HIPAA Security Rule:
   - 45 CFR §164.308(a)(3) – Workforce Security
 - AICPA SOC 2 Trust Services Criteria:
@@ -130,17 +131,18 @@ Violations of this policy may result in disciplinary action, termination of empl
   - Confidentiality (C1.1)
 - Massachusetts 201 CMR 17.00: §17.03(2)(h) – Termination of Access to Personal Information When Employment Ends
 
-- **Framework Alignment:**  
-  - HRS-01 – Human Resources Security Management  
-  - HRS-02 – Position Categorization  
-  - HRS-03 – Defined Roles & Responsibilities  
-  - HRS-04 – Personnel Screening  
-  - HRS-05 – Terms of Employment  
-  - HRS-06 – Access Agreements  
-  - HRS-07 – Personnel Sanctions  
-  - HRS-08 – Personnel Transfer  
-  - HRS-09 – Personnel Termination  
-  - HRS-11 – Separation of Duties (SoD)  
+**Framework Alignment:**  
+
+- HRS-01 – Human Resources Security Management  
+- HRS-02 – Position Categorization  
+- HRS-03 – Defined Roles & Responsibilities  
+- HRS-04 – Personnel Screening  
+- HRS-05 – Terms of Employment  
+- HRS-06 – Access Agreements  
+- HRS-07 – Personnel Sanctions  
+- HRS-08 – Personnel Transfer  
+- HRS-09 – Personnel Termination  
+- HRS-11 – Separation of Duties (SoD)  
 
 ---
 

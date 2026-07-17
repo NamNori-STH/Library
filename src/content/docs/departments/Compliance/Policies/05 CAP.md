@@ -77,15 +77,20 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(B) (Risk Management)  
-  - AICPA SOC 2 Trust Services Criteria: Availability (A1.2, A1.3), Security (CC7.2)  
+**Regulatory Requirements:**  
 
-- **Framework Alignment:**  
-  - CAP-01 – Capacity & Performance Management  
-  - CAP-02 – Resource Priority  
-  - CAP-03 – Capacity Planning  
-  - CAP-04 – Performance Monitoring  
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(1)(ii)(B) – Risk Management
+- AICPA SOC 2 Trust Services Criteria:
+  - Availability (A1.2, A1.3)
+  - Security (CC7.2)
+
+**Framework Alignment:**  
+
+- CAP-01 – Capacity & Performance Management  
+- CAP-02 – Resource Priority  
+- CAP-03 – Capacity Planning  
+- CAP-04 – Performance Monitoring  
 
 ---
 

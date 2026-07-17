@@ -133,22 +133,27 @@ Violations of this policy may result in disciplinary action, up to and including
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(7) (Contingency Plan)  
-  - AICPA SOC 2 Trust Services Criteria: Availability (A1.2, A1.3), Security (CC7.4)  
+**Regulatory Requirements:**  
 
-- **Framework Alignment:**  
-  - BCD-01 – Business Continuity Management System (BCMS)  
-  - BCD-02 – Identify Critical Assets  
-  - BCD-03 – Contingency Training  
-  - BCD-04 – Contingency Plan Testing & Exercises  
-  - BCD-05 – Contingency Plan Root Cause Analysis (RCA) & Lessons Learned  
-  - BCD-06 – Ongoing Contingency Planning  
-  - BCD-08 – Alternate Storage Site  
-  - BCD-09 – Alternate Processing Site  
-  - BCD-10 – Telecommunications Services Availability  
-  - BCD-11 – Data Backups  
-  - BCD-12 – Technology Assets, Applications and/or Services (TAAS) Recovery & Reconstitution  
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(7) – Contingency Plan
+- AICPA SOC 2 Trust Services Criteria:
+  - Availability (A1.2, A1.3)
+  - Security (CC7.4)
+
+**Framework Alignment:**  
+
+- BCD-01 – Business Continuity Management System  
+- BCD-02 – Identify Critical Assets  
+- BCD-03 – Contingency Training  
+- BCD-04 – Contingency Plan Testing & Exercises  
+- BCD-05 – Contingency Plan Root Cause Analysis (RCA) & Lessons Learned  
+- BCD-06 – Ongoing Contingency Planning  
+- BCD-08 – Alternate Storage Site  
+- BCD-09 – Alternate Processing Site  
+- BCD-10 – Telecommunications Services Availability  
+- BCD-11 – Data Backups  
+- BCD-12 – Technology Assets, Applications and/or Services (TAAS) Recovery & Reconstitution  
 
 ---
 

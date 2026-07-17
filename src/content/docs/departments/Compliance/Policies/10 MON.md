@@ -85,16 +85,21 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ## 6. References
 
-- **Regulatory Requirements:**
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(D) (Information System Activity Review), §164.312(b) (Audit Controls)
-  - New York SHIELD Act: GBL §899-bb(2)(b)(ii) (Technical Safeguards — Detect, Prevent, and Respond to Attacks or System Failures; Regularly Test and Monitor Effectiveness of Key Controls)
-  - AICPA SOC 2 Trust Services Criteria: Security (CC7.2, CC7.3, CC7.4), Availability (A1.2)  
+**Regulatory Requirements:**
 
-- **Framework Alignment:**  
-  - MON-01 – Continuous Monitoring  
-  - MON-02 – Centralized Collection of Security Event Logs  
-  - MON-07 – Time Stamps  
-  - MON-16 – Anomalous Behavior  
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(1)(ii)(D) – Information System Activity Review
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC7.2, CC7.3, CC7.4)
+  - Availability (A1.2)
+- New York SHIELD Act: GBL §899-bb(2)(b)(ii) (Technical Safeguards — Detect, Prevent, and Respond to Attacks or System Failures; Regularly Test and Monitor Effectiveness of Key Controls)
+
+**Framework Alignment:**
+
+- MON-01 – Continuous Monitoring
+- MON-02 – Centralized Collection of Security Event Logs
+- MON-07 – Time Stamps
+- MON-16 – Anomalous Behavior
 
 ---
 

@@ -103,17 +103,22 @@ Violations of this policy may result in disciplinary action, up to and including
 
 ## 6. References
 
-- **Regulatory Requirements:**
-  - HIPAA Security Rule: 45 CFR §164.308(b) (Business Associate Contracts and Other Arrangements)
-  - Massachusetts 201 CMR 17.00: §17.03(2)(f) (Contractual Obligations of Third-Party Service Providers)
-  - AICPA SOC 2 Trust Services Criteria: Risk Mitigation (CC9.2), Vendor Management (CC3.1)  
+**Regulatory Requirements:**
 
-- **Framework Alignment:**  
-  - TPM-01 – Third-Party Management  
-  - TPM-02 – Third-Party Criticality Assessments  
-  - TPM-04 – Third-Party Services  
-  - TPM-05 – Third-Party Contract Requirements  
-  - TPM-08 – Review of Third-Party Services  
+- HIPAA Security Rule:
+  - 45 CFR §164.308(b) – Business Associate Contracts and Other Arrangements
+- AICPA SOC 2 Trust Services Criteria:
+  - Risk Mitigation (CC9.2)
+  - Vendor Management (CC3.1)
+- Massachusetts 201 CMR 17.00: §17.03(2)(f) – Contractual Requirements for Third-Party Service Providers
+
+**Framework Alignment:**
+
+- TPM-01 – Third-Party Management
+- TPM-02 – Third-Party Criticality Assessments
+- TPM-04 – Third-Party Services
+- TPM-05 – Third-Party Contract Requirements
+- TPM-08 – Review of Third-Party Services
 
 ---
 

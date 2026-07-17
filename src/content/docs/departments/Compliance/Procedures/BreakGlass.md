@@ -311,24 +311,36 @@ All custodians and any individuals who interact with the break glass account or 
 
 - Summit Technology Holdings – Identification & Authentication Policy
 
-**Regulatory Requirements:**
+**Regulatory Requirements:**  
 
-- HIPAA Security Rule: 45 CFR §164.312(a)(1); §164.312(a)(2)(ii); §164.312(b); §164.312(d)
-- AICPA SOC 2 Trust Services Criteria: Security (CC6.1, CC6.2, CC6.3, CC6.6, CC6.7, CC7.2)
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(4) – Information Access Management
+  - 45 CFR §164.312(a)(1) (Access Control)
+  - 45 CFR §164.312(d) – Person or Entity Authentication
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC6, CC7)
+  - Confidentiality (C1)
+- Massachusetts 201 CMR 17.00: §17.04(1)(e) – Reasonably Up-to-Date System Security Agent Software Including Account Lockout
 
 **Framework Alignment:**
 
 - IAC-01 – Identity & Access Management (IAM)
+- IAC-02 – Identification & Authentication for Organizational Users
+- IAC-02.2 – Replay-Resistant Authentication
 - IAC-06 – Multi-Factor Authentication (MFA)
+- IAC-08 – Role-Based Access Control (RBAC)
+- IAC-09 – Identifier Management (User Names)
 - IAC-10 – Authenticator Management
-- IAC-10.5 – Protection of Authenticators
-- IAC-10.7 – Hardware Token-Based Authentication
+- IAC-10.1 – Password-Based Authentication
+- IAC-15 – Account Management
 - IAC-15.9 – Emergency Accounts
-- IAC-16 – Privileged Account Management (PAM)
 - IAC-17 – Periodic Review of Account Privileges
+- IAC-20 – Access Enforcement
+- IAC-20.6 – Revocation of Access Authorizations
 - IAC-21 – Least Privilege
-- IAC-21.4 – Auditing Use of Privileged Functions
-- IAC-15.4 – Automated Audit Actions
+- IAC-24 – Session Lock
+- IAC-25 – Session Termination
+- IAC-29 – Attribute-Based Access Control (ABAC)  
 
 ---
 

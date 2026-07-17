@@ -119,24 +119,31 @@ Failure to comply with this Standard, including unauthorized access, failure to 
 
 ## 6. References
 
-- **Parent Policy:**  
-  - [STH – Human Resources Security Policy](/departments/information-security/policies/15-hrs/)  
+**Parent Policy:**  
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(3) (Workforce Security)  
-  - AICPA SOC 2 Trust Services Criteria: Security (CC1.1, CC6.1), Confidentiality (C1.1)  
+- [STH – Human Resources Security Policy](/departments/information-security/policies/15-hrs/)  
 
-- **Framework Alignment:**  
-  - HRS-01 – Human Resources Security Management  
-  - HRS-02 – Position Categorization  
-  - HRS-03 – Defined Roles & Responsibilities  
-  - HRS-04 – Personnel Screening  
-  - HRS-05 – Terms of Employment  
-  - HRS-06 – Access Agreements  
-  - HRS-07 – Personnel Sanctions  
-  - HRS-08 – Personnel Transfer  
-  - HRS-09 – Personnel Termination  
-  - HRS-11 – Separation of Duties (SoD)  
+**Regulatory Requirements:**  
+
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(3) – Workforce Security
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC1.1, CC6.1)
+  - Confidentiality (C1.1)
+- Massachusetts 201 CMR 17.00: §17.03(2)(h) – Termination of Access to Personal Information When Employment Ends
+
+**Framework Alignment:**  
+
+- HRS-01 – Human Resources Security Management  
+- HRS-02 – Position Categorization  
+- HRS-03 – Defined Roles & Responsibilities  
+- HRS-04 – Personnel Screening  
+- HRS-05 – Terms of Employment  
+- HRS-06 – Access Agreements  
+- HRS-07 – Personnel Sanctions  
+- HRS-08 – Personnel Transfer  
+- HRS-09 – Personnel Termination  
+- HRS-11 – Separation of Duties (SoD)  
 
 ---
 

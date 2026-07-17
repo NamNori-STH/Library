@@ -72,18 +72,27 @@ Violations of this policy, including failure to comply with compliance oversight
 
 ## 6. References
 
-- **Supporting Standard:**  
-  - [Summit Technology Holdings – Compliance Standard](/departments/information-security/standards/08-cpl-std/)
+**Supporting Standard:**  
 
-- **Regulatory Requirements:**
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.308(a)(8) (Evaluation)
-  - Massachusetts 201 CMR 17.00: §17.03 (Written Information Security Program Requirements)
-  - AICPA SOC 2 Trust Services Criteria: Security (CC1.1, CC7.2), Confidentiality (C1), Privacy (P8)  
+- [Summit Technology Holdings – Compliance Standard](/departments/information-security/standards/08-cpl-std/)
 
-- **Framework Alignment:**  
-  - CPL-01 – Statutory, Regulatory & Contractual Compliance  
-  - CPL-02 – Security, Compliance & Resilience Controls Oversight  
-  - CPL-03 – Security, Compliance & Resilience Assessments  
+**Regulatory Requirements:**  
+
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(1)(ii)(A) – Risk Analysis
+  - 45 CFR §164.308(a)(1)(ii)(B) – Risk Management
+  - 45 CFR §164.308(a)(8) – Evaluation
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC1.1, CC7.2)
+  - Confidentiality (C1)
+  - Privacy (P8)
+- Massachusetts 201 CMR 17.00: §17.03 (Written Information Security Program Requirements)
+
+**Framework Alignment:**  
+
+- CPL-01 – Statutory, Regulatory & Contractual Compliance  
+- CPL-02 – Security, Compliance & Resilience Controls Oversight  
+- CPL-03 – Security, Compliance & Resilience Assessments  
 
 ---
 

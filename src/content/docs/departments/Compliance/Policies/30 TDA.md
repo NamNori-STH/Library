@@ -85,16 +85,22 @@ Violations of this policy may result in disciplinary action, termination of empl
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.308(a)(1)(ii)(B) (Risk Management)  
-  - AICPA SOC 2 Trust Services Criteria: Security (CC7.2, CC7.3, CC7.4), Processing Integrity (PI1.1, PI1.2)  
+**Regulatory Requirements:**
 
-- **Framework Alignment:**  
-  - TDA-01 – Technology Development & Acquisition  
-  - TDA-06 – Secure Software Development Practices (SSDP)  
-  - TDA-07 – Secure Development Environments  
-  - TDA-08 – Separation of Development, Testing and Operational Environments  
-  - TDA-10 – Use of Live Data  
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(1)(ii)(A) – Risk Analysis
+  - 45 CFR §164.308(a)(1)(ii)(B) – Risk Management
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC7.2, CC7.3, CC7.4)
+  - Processing Integrity (PI1.1, PI1.2)
+
+**Framework Alignment:**
+
+- TDA-01 – Technology Development & Acquisition
+- TDA-06 – Secure Software Development Practices (SSDP)
+- TDA-07 – Secure Development Environments
+- TDA-08 – Separation of Development, Testing and Operational Environments
+- TDA-10 – Use of Live Data
 
 ---
 

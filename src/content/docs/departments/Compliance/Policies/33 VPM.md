@@ -101,19 +101,25 @@ Violations of this policy may result in disciplinary action, up to and including
 
 ## 6. References
 
-- **Regulatory Requirements:**
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.308(a)(1)(ii)(B) (Risk Management), §164.308(a)(8) (Evaluation)
-  - AICPA SOC 2 Trust Services Criteria: Security (CC7.1, CC7.2, CC7.3)
+**Regulatory Requirements:**
 
-- **Framework Alignment:**
-  - VPM-01 – Vulnerability & Patch Management Program (VPMP)
-  - VPM-02 – Vulnerability Remediation Process
-  - VPM-03 – Vulnerability Ranking
-  - VPM-04 – Continuous Vulnerability Remediation Activities
-  - VPM-05 – Software & Firmware Patching
-  - VPM-05.1 – Centralized Management of Flaw Remediation Processes
-  - VPM-06 – Vulnerability Scanning
-  - VPM-07 – Penetration Testing
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(1)(ii)(A) – Risk Analysis
+  - 45 CFR §164.308(a)(1)(ii)(B) – Risk Management
+  - 45 CFR §164.308(a)(8) – Evaluation
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC7.1, CC7.2, CC7.3)
+
+**Framework Alignment:**
+
+- VPM-01 – Vulnerability & Patch Management Program (VPMP)
+- VPM-02 – Vulnerability Remediation Process
+- VPM-03 – Vulnerability Ranking
+- VPM-04 – Continuous Vulnerability Remediation Activities
+- VPM-05 – Software & Firmware Patching
+- VPM-05.1 – Centralized Management of Flaw Remediation Processes
+- VPM-06 – Vulnerability Scanning
+- VPM-07 – Penetration Testing
 
 ---
 

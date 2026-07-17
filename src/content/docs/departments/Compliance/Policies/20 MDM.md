@@ -91,17 +91,23 @@ Violations of this policy, including unauthorized use of unregistered devices or
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.312(a)(2)(iv), §164.312(e)(1)  
-  - AICPA SOC 2 Trust Services Criteria: Security (CC6.1, CC6.2), Confidentiality (C1.2)  
+**Regulatory Requirements:**
 
-- **Framework Alignment:**  
-  - MDM-01 – Centralized Management Of Mobile Devices  
-  - MDM-02 – Access Control For Mobile Devices  
-  - MDM-03 – Full Device & Container-Based Encryption  
-  - MDM-05 – Remote Purging  
-  - MDM-06 – Personally-Owned Mobile Devices  
-  - MDM-09 – Mobile Device Geofencing  
+- HIPAA Security Rule:
+  - 45 CFR §164.312(a)(2)(iv) – Encryption and Decryption
+  - 45 CFR §164.312(e)(1) – Transmission Security
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC6.1, CC6.2)
+  - Confidentiality (C1.2)
+
+**Framework Alignment:**
+
+- MDM-01 – Centralized Management Of Mobile Devices
+- MDM-02 – Access Control For Mobile Devices
+- MDM-03 – Full Device & Container-Based Encryption
+- MDM-05 – Remote Purging
+- MDM-06 – Personally-Owned Mobile Devices
+- MDM-09 – Mobile Device Geofencing
 
 ---
 

@@ -91,7 +91,7 @@ Failure to comply with this policy may result in disciplinary action, suspension
 
 ## 6. References
 
-- **Regulatory Requirements:**  
+**Regulatory Requirements:**
 
 - HIPAA Security Rule:
   - 45 CFR §164.308(a)(1)(ii)(A) – Risk Analysis
@@ -100,13 +100,14 @@ Failure to comply with this policy may result in disciplinary action, suspension
   - Security (CC3.2, CC3.3)
   - Availability (A1.2)
 
-- **Framework Alignment:**  
-  - RSK-01 – Risk Management Program  
-  - RSK-03 – Risk Identification  
-  - RSK-04 – Risk Assessment  
-  - RSK-05 – Risk Ranking  
-  - RSK-06 – Risk Remediation  
-  - RSK-07 – Risk Assessment Update  
+**Framework Alignment:**
+
+- RSK-01 – Risk Management Program
+- RSK-03 – Risk Identification
+- RSK-04 – Risk Assessment
+- RSK-05 – Risk Ranking
+- RSK-06 – Risk Remediation
+- RSK-07 – Risk Assessment Update 
 
 ---
 

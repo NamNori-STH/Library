@@ -109,19 +109,26 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(B) (Risk Management), §164.312(c)(1) (Integrity)  
-  - AICPA SOC 2 Trust Services Criteria: Security (CC7.1, CC7.2, CC7.3), Availability (A1.2)  
+**Regulatory Requirements:**  
 
-- **Framework Alignment:**  
-  - CFG-01 – Configuration Management Program  
-  - CFG-02 – Secure Baseline Configurations  
-  - CFG-03 – Least Functionality  
-  - CFG-04 – Software Usage Restrictions  
-  - CFG-05 – User-Installed Software  
-  - CFG-06 – Configuration Enforcement  
-  - CFG-07 – Zero-Touch Provisioning (ZTP)  
-  - CFG-08 – Sensitive / Regulated Data Access Enforcement  
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(1)(ii)(A) – Risk Analysis
+  - 45 CFR §164.308(a)(1)(ii)(B) – Risk Management
+  - 45 CFR §164.312(c)(1) – Integrity
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC7.1, CC7.2, CC7.3)
+  - Availability (A1.2)
+
+**Framework Alignment:**  
+
+- CFG-01 – Configuration Management Program  
+- CFG-02 – Secure Baseline Configurations  
+- CFG-03 – Least Functionality  
+- CFG-04 – Software Usage Restrictions  
+- CFG-05 – User-Installed Software  
+- CFG-06 – Configuration Enforcement  
+- CFG-07 – Zero-Touch Provisioning (ZTP)  
+- CFG-08 – Sensitive / Regulated Data Access Enforcement  
 
 ---
 

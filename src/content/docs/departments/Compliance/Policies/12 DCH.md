@@ -141,24 +141,33 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ## 6. References
 
-- **Regulatory Requirements:**
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.310(d)(2)(i) (Device & Media Controls)
-  - Massachusetts 201 CMR 17.00: §17.03(2)(g) (Limiting Collection and Use of Personal Information to Legitimate Business Purposes), §17.05 (Physical Security of Records Containing Personal Information)
-  - AICPA SOC 2 Trust Services Criteria: Security (CC6.1, CC6.2), Confidentiality (C1.1, C1.2), Privacy (P8.1)  
+**Regulatory Requirements:**
 
-- **Framework Alignment:**  
-  - DCH-01 – Data Protection  
-  - DCH-02 – Data & Asset Classification  
-  - DCH-03 – Media Access  
-  - DCH-04 – Media Marking  
-  - DCH-06 – Media Storage  
-  - DCH-07 – Media Transportation  
-  - DCH-08 – Physical Media Disposal  
-  - DCH-09 – System Media Sanitization  
-  - DCH-12 – Removable Media Security  
-  - DCH-13 – Use of External Technology Assets, Applications and/or Services (TAAS)  
-  - DCH-18 – Media & Data Retention  
-  - DCH-21 – Information Disposal  
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis)
+  - 45 CFR §164.310(d)(2)(i) (Device & Media Controls)
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC6.1, CC6.2)
+  - Confidentiality (C1.1, C1.2)
+  - Privacy (P8.1)
+- Massachusetts 201 CMR 17.00:
+  - §17.03(2)(g) – Limiting the Amount of Personal Information Collected
+  - §17.05 – Physical Access Controls for Records Containing Personal Information
+
+**Framework Alignment:**
+
+- DCH-01 – Data Protection
+- DCH-02 – Data & Asset Classification
+- DCH-03 – Media Access
+- DCH-04 – Media Marking
+- DCH-06 – Media Storage
+- DCH-07 – Media Transportation
+- DCH-08 – Physical Media Disposal
+- DCH-09 – System Media Sanitization
+- DCH-12 – Removable Media Security
+- DCH-13 – Use of External Technology Assets, Applications and/or Services (TAAS)
+- DCH-18 – Media & Data Retention
+- DCH-21 – Information Disposal
 
 ---
 

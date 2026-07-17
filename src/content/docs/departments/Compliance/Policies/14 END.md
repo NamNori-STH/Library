@@ -109,19 +109,23 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(5)(ii)(B) (Protection from Malicious Software)  
-  - AICPA SOC 2 Trust Services Criteria: Security (CC6.1, CC6.2, CC7.1, CC7.2)  
+**Regulatory Requirements:**
 
-- **Framework Alignment:**  
-  - END-01 – Endpoint Device Management (EDM)  
-  - END-02 – Endpoint Protection Measures  
-  - END-04 – Malicious Code Protection (Anti-Malware)  
-  - END-05 – Software Firewall  
-  - END-06 – Endpoint File Integrity Monitoring (FIM)  
-  - END-07 – Host Intrusion Detection and Prevention Systems (HIDS / HIPS)  
-  - END-08 – Phishing & Spam Protection  
-  - END-15 – Hypervisor Access  
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(5)(ii)(B) – Protection from Malicious Software
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC6.1, CC6.2, CC7.1, CC7.2)
+
+**Framework Alignment:**
+
+- END-01 – Endpoint Device Management (EDM)  
+- END-02 – Endpoint Protection Measures  
+- END-04 – Malicious Code Protection (Anti-Malware)  
+- END-05 – Software Firewall  
+- END-06 – Endpoint File Integrity Monitoring (FIM)  
+- END-07 – Host Intrusion Detection and Prevention Systems (HIDS / HIPS)  
+- END-08 – Phishing & Spam Protection  
+- END-15 – Hypervisor Access  
 
 ---
 

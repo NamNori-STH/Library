@@ -102,20 +102,30 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ## 6. References
 
-- **Regulatory Requirements:**
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.308(a)(2) (Assigned Security Responsibility), §164.308(a)(8) (Evaluation)
-  - Massachusetts 201 CMR 17.00: §17.03(2)(a) (Designated Responsible Employee), §17.03(2)(j) (Regular Monitoring and Review of WISP)
-  - New York SHIELD Act: GBL §899-bb (Data Security Program Requirements; HIPAA Safe Harbor at §899-bb(2)(c))
-  - AICPA SOC 2 Trust Services Criteria: Security (CC1.1, CC1.2), Risk Management (CC3.2), Monitoring (CC4.1)  
+**Regulatory Requirements:**  
 
-- **Framework Alignment:**  
-  - GOV-01 – Security, Compliance & Resilience Program (SCRP)  
-  - GOV-02 – Publishing Security, Compliance & Resilience Documentation  
-  - GOV-03 – Periodic Review & Update of Security, Compliance & Resilience Program  
-  - GOV-04 – Assigned Security, Compliance & Resilience Responsibilities  
-  - GOV-05 – Measures of Performance  
-  - GOV-06 – Contacts With Authorities  
-  - GOV-07 – Contacts With Groups & Associations  
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(1)(ii)(A) – Risk Analysis
+  - 45 CFR §164.308(a)(2) - (Assigned Security Responsibility)
+  - 45 CFR §164.308(a)(8) – Evaluation
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC1.1, CC1.2)
+  - Risk Management (CC3.2)
+  - Monitoring (CC4.1)
+- Massachusetts 201 CMR 17.00:
+  - §17.03(2)(a) – Designation of an Employee to Maintain the WISP
+  - §17.03(2)(j) – Annual Review of Scope of Security Measures
+- New York SHIELD Act: GBL §899-bb (HIPAA Safe Harbor at §899-bb(2)(c))
+
+**Framework Alignment:**  
+
+- GOV-01 – Security, Compliance & Resilience Program (SCRP)  
+- GOV-02 - Publishing Security, Compliance & Resilience Documentation
+- GOV-03 - Periodic Review & Update of Security, Compliance & Resilience Program
+- GOV-04 - Assigned Security, Compliance & Resilience Responsibilities
+- GOV-05 - Measures of Performance
+- GOV-06 - Contacts With Authorities
+- GOV-07 - Contacts with Groups & Associations
 
 ---
 

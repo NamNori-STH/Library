@@ -78,15 +78,19 @@ Failure to complete required training or to demonstrate secure behavior may resu
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(5) (Security Awareness & Training)  
-  - AICPA SOC 2 Trust Services Criteria: Security (CC5.2, CC5.3)  
+**Regulatory Requirements:**
 
-- **Framework Alignment:**  
-  - SAT-01 – Security, Compliance & Resilience-Minded Workforce  
-  - SAT-02 – Security, Compliance & Resilience Awareness Training  
-  - SAT-03 – Role-Based Security, Compliance & Resilience Training  
-  - SAT-04 – Security, Compliance & Resilience Training Records  
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(5) – Security Awareness & Training
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC5.2, CC5.3)
+
+**Framework Alignment:**
+
+- SAT-01 – Security, Compliance & Resilience-Minded Workforce
+- SAT-02 – Security, Compliance & Resilience Awareness Training
+- SAT-03 – Role-Based Security, Compliance & Resilience Training
+- SAT-04 – Security, Compliance & Resilience Training Records 
 
 ---
 

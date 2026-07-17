@@ -68,18 +68,23 @@ Failure to complete assigned training or to adhere to secure behavior expectatio
 
 ## 6. References
 
-- **Parent Policy:**  
-  -[STH – Security Awareness & Training Policy](/departments/information-security/policies/28-sat/)  
+**Parent Policy:**  
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.308(a)(5) (Security Awareness & Training)  
-  - AICPA SOC 2 Trust Services Criteria: Security (CC5.2, CC5.3)  
+-[STH – Security Awareness & Training Policy](/departments/information-security/policies/28-sat/)  
 
-- **Framework Alignment:**  
-  - SAT-01 – Security, Compliance & Resilience-Minded Workforce  
-  - SAT-02 – Security, Compliance & Resilience Awareness Training  
-  - SAT-03 – Role-Based Security, Compliance & Resilience Training  
-  - SAT-04 – Security, Compliance & Resilience Training Records  
+**Regulatory Requirements:**
+
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(5) – Security Awareness & Training
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC5.2, CC5.3)
+
+**Framework Alignment:**
+
+- SAT-01 – Security, Compliance & Resilience-Minded Workforce
+- SAT-02 – Security, Compliance & Resilience Awareness Training
+- SAT-03 – Role-Based Security, Compliance & Resilience Training
+- SAT-04 – Security, Compliance & Resilience Training Records
 
 ---
 

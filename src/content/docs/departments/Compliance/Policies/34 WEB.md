@@ -75,15 +75,21 @@ Failure to comply with this policy may result in restricted access, disciplinary
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.312(e)(1) (Transmission Security)  
-  - AICPA SOC 2 Trust Services Criteria: Security (CC6.7, CC7.1), Confidentiality (C1.2)  
+**Regulatory Requirements:**
 
-- **Framework Alignment:**  
-  - WEB-01 – Web Security  
-  - WEB-02 – Use of Demilitarized Zones (DMZ)  
-  - WEB-03 – Web Application Firewall (WAF)  
-  - WEB-10 – Secure Web Traffic  
+- HIPAA Security Rule:
+  - 45 CFR §164.312(e)(1) – Transmission Security
+  - 45 CFR §164.312(c)(1) – Integrity
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC6.7, CC7.1)
+  - Confidentiality (C1.2)
+
+**Framework Alignment:**
+
+- WEB-01 – Web Security
+- WEB-02 – Use of Demilitarized Zones (DMZ)
+- WEB-03 – Web Application Firewall (WAF)
+- WEB-10 – Secure Web Traffic
 
 ---
 

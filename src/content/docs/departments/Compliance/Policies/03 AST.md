@@ -97,17 +97,22 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 ## 6. References
 
-- **Regulatory Requirements:**  
-  - HIPAA Security Rule: 45 CFR §164.310(d)(1) (Device and Media Controls)  
-  - AICPA SOC 2 Trust Services Criteria: Security (CC6), Confidentiality (C1)  
+**Regulatory Requirements:**  
 
-- **Framework Alignment:**  
-  - AST-01 – Asset Governance  
-  - AST-02 – Asset Inventories  
-  - AST-03 – Asset Ownership Assignment  
-  - AST-04 – Network Diagrams & Data Flow Diagrams (DFDs)  
-  - AST-09 – Secure Disposal, Destruction or Re-Use of Equipment  
-  - AST-10 – Return of Assets  
+- HIPAA Security Rule:
+  - 45 CFR §164.310(d)(1) – Device and Media Controls
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC6)
+  - Confidentiality (C1)
+
+**Framework Alignment:**  
+
+- AST-01 – Asset Governance  
+- AST-02 – Asset Inventories  
+- AST-03 – Asset Ownership Assignment  
+- AST-04 – Network Diagrams & Data Flow Diagrams (DFDs)  
+- AST-09 – Secure Disposal, Destruction or Re-Use of Equipment  
+- AST-10 – Return of Assets  
 
 ---
 

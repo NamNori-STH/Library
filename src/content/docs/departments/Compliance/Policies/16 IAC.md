@@ -95,29 +95,36 @@ Violations of this policy may result in disciplinary action, up to and including
 
 ## 6. References
 
-- **Regulatory Requirements:**
-  - HIPAA Security Rule: 45 CFR §164.308(a)(4) (Information Access Management), §164.312(a)(1) (Access Control), §164.312(d) (Person or Entity Authentication)
-  - Massachusetts 201 CMR 17.00: §17.04(1)(e) (Reasonably Up-to-Date System Security Agent Software Including Account Lockout)
-  - AICPA SOC 2 Trust Services Criteria: Security (CC6, CC7), Confidentiality (C1)  
+**Regulatory Requirements:**  
 
-- **Framework Alignment:**
-  - IAC-01 – Identity & Access Management (IAM)
-  - IAC-02 – Identification & Authentication for Organizational Users
-  - IAC-02.2 – Replay-Resistant Authentication
-  - IAC-06 – Multi-Factor Authentication (MFA)
-  - IAC-08 – Role-Based Access Control (RBAC)
-  - IAC-09 – Identifier Management (User Names)
-  - IAC-10 – Authenticator Management
-  - IAC-10.1 – Password-Based Authentication
-  - IAC-15 – Account Management
-  - IAC-15.9 – Emergency Accounts
-  - IAC-17 – Periodic Review of Account Privileges
-  - IAC-20 – Access Enforcement
-  - IAC-20.6 – Revocation of Access Authorizations
-  - IAC-21 – Least Privilege
-  - IAC-24 – Session Lock
-  - IAC-25 – Session Termination
-  - IAC-29 – Attribute-Based Access Control (ABAC)  
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(4) – Information Access Management
+  - 45 CFR §164.312(a)(1) (Access Control)
+  - 45 CFR §164.312(d) – Person or Entity Authentication
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC6, CC7)
+  - Confidentiality (C1)
+- Massachusetts 201 CMR 17.00: §17.04(1)(e) – Reasonably Up-to-Date System Security Agent Software Including Account Lockout
+
+**Framework Alignment:**
+
+- IAC-01 – Identity & Access Management (IAM)
+- IAC-02 – Identification & Authentication for Organizational Users
+- IAC-02.2 – Replay-Resistant Authentication
+- IAC-06 – Multi-Factor Authentication (MFA)
+- IAC-08 – Role-Based Access Control (RBAC)
+- IAC-09 – Identifier Management (User Names)
+- IAC-10 – Authenticator Management
+- IAC-10.1 – Password-Based Authentication
+- IAC-15 – Account Management
+- IAC-15.9 – Emergency Accounts
+- IAC-17 – Periodic Review of Account Privileges
+- IAC-20 – Access Enforcement
+- IAC-20.6 – Revocation of Access Authorizations
+- IAC-21 – Least Privilege
+- IAC-24 – Session Lock
+- IAC-25 – Session Termination
+- IAC-29 – Attribute-Based Access Control (ABAC)  
 
 ---
 

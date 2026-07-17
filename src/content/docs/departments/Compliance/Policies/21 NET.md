@@ -85,16 +85,23 @@ Non-compliance with this policy may result in disciplinary action, suspension of
 
 ## 6. References
 
-- **Regulatory Requirements:**
-  - HIPAA Security Rule: 45 CFR §164.308(a)(1)(ii)(A) (Risk Analysis), §164.312(e)(1) (Transmission Security)
-  - New York SHIELD Act: GBL §899-bb(2)(b)(ii) (Technical Safeguards — Detect, Prevent, and Respond to Attacks or System Failures)
-  - AICPA SOC 2 Trust Services Criteria: Security (CC6.1, CC7.1), Availability (A1.2)  
+**Regulatory Requirements:**
 
-- **Framework Alignment:**  
-  - NET-01 – Network Security Controls (NSC)  
-  - NET-06 – Network Segmentation (macrosegmentation)  
-  - NET-08 – Network Intrusion Detection / Prevention Systems (NIDS / NIPS)  
-  - NET-14 – Remote Access  
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(1)(ii)(A) – Risk Analysis
+  - 45 CFR §164.312(e)(1) – Transmission Security
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC6.1, CC7.1)
+  - Availability (A1.2)
+- New York SHIELD Act: GBL §899-bb(2)(b)(ii) (Technical Safeguards — Detect, Prevent, and Respond to Attacks or System Failures)
+
+**Framework Alignment:**
+
+- NET-01 – Network Security Controls (NSC)
+- NET-06 – Network Segmentation (macrosegmentation)
+- NET-08 – Network Intrusion Detection / Prevention Systems (NIDS / NIPS)
+- NET-14 – Remote Access
+
 
 ---
 

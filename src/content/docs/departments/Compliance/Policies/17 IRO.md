@@ -123,26 +123,33 @@ Failure to comply with this policy may result in disciplinary action, suspension
 
 ## 6. References
 
-- **STH Procedures:**
-  - [Breach Notification Procedure](/departments/compliance/procedures/breach-notification/)
+**STH Procedures:**
 
-- **Regulatory Requirements:**
-  - HIPAA Security Rule: 45 CFR §164.308(a)(6) (Security Incident Procedures), §164.400–414 (Breach Notification)
-  - AICPA SOC 2 Trust Services Criteria: Security (CC7.4, CC7.5), Availability (A1.2)
+- [Summit Technology Holdings – Breach Notification Procedure](https://library.summitth.com/departments/compliance/procedures/breach-notification/)
 
-- **Framework Alignment:**
-  - IRO-01 – Incident Response Operations
-  - IRO-02 – Incident Handling
-  - IRO-04 – Incident Response Plan (IRP)
-  - IRO-04.1 – Data Breach
-  - IRO-06 – Incident Response Testing
-  - IRO-07 – Integrated Security Incident Response Team (ISIRT)
-  - IRO-08 – Chain of Custody & Forensics
-  - IRO-09 – Situational Awareness For Incidents
-  - IRO-10 – Incident Stakeholder Reporting
-  - IRO-10.2 – Cyber Incident Reporting for Sensitive Data
-  - IRO-13 – Root Cause Analysis (RCA) & Lessons Learned
-  - IRO-14 – Regulatory & Law Enforcement Contacts  
+**Regulatory Requirements:**
+
+- HIPAA Security Rule:
+  - 45 CFR §164.308(a)(6)(ii) – Security Incident Procedures
+  - 45 CFR §164.400–414 – Breach Notification Requirements
+- AICPA SOC 2 Trust Services Criteria:
+  - Security (CC7.4, CC7.5)
+  - Availability (A1.2)
+
+**Framework Alignment:**
+
+- IRO-01 – Incident Response Operations
+- IRO-02 – Incident Handling
+- IRO-04 – Incident Response Plan (IRP)
+- IRO-04.1 – Data Breach
+- IRO-06 – Incident Response Testing
+- IRO-07 – Integrated Security Incident Response Team (ISIRT)
+- IRO-08 – Chain of Custody & Forensics
+- IRO-09 – Situational Awareness For Incidents
+- IRO-10 – Incident Stakeholder Reporting
+- IRO-10.2 – Cyber Incident Reporting for Sensitive Data
+- IRO-13 – Root Cause Analysis (RCA) & Lessons Learned
+- IRO-14 – Regulatory & Law Enforcement Contacts
 
 ---
 
