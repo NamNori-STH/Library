@@ -31,18 +31,6 @@ export default defineConfig({
 						]
 						},
 						{
-						label: 'Procedures',
-						items: [
-							//{ label: 'Policies', slug: 'departments/hr/policies/' },
-						]
-						},
-						{
-						label: 'Guides',
-						items: [
-							//{ label: 'Policies', slug: 'departments/hr/policies/' },
-						]
-						},
-						{
 						label: 'Forms',
 						items: [
 							//{ label: 'Policies', slug: 'departments/hr/policies/' },

@@ -2,7 +2,7 @@
 title: International Travel
 ---
 
-**Organization:** Summit Technology Holdings, LLC (STH)  
+**Organization:** Summit Technology Holdings, LLC  
 **Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange360, LLC)  
 
 ---
