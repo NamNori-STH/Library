@@ -1,5 +1,5 @@
 ---
-title: Cybersecurity & Data Protection Governance
+title: Security, Compliance & Resilience Governance
 ---
 
 **Organization:** Summit Technology Holdings, LLC (STH)  
@@ -36,9 +36,10 @@ STH will maintain a formal cybersecurity and data protection governance program.
 
 ### 3.2 Documentation
 
-STH will publish and maintain cybersecurity and data protection policies, standards, and related documentation. Exceptions must be formally approved and documented.  
+STH will publish and maintain cybersecurity and data protection policies, standards, and related documentation. Exceptions to any policy or standard must be formally assessed for risk impact, approved by authorized personnel, and recorded. Each
+exception must specify an expiration date not to exceed twelve (12) months; renewal requires re-assessment and re-approval. Expired exceptions without renewal are treated as non-compliant.
 
-- **SCF Mapping:** GOV-02 (*Publishing Security, Compliance & Resilience Documentation*)  
+- **SCF Mapping:** GOV-02 (*Publishing Security, Compliance & Resilience Documentation*), GOV-02.1 (*Exception Management*)  
 
 ---
 
@@ -121,6 +122,7 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 - GOV-01 – Security, Compliance & Resilience Program (SCRP)  
 - GOV-02 - Publishing Security, Compliance & Resilience Documentation
+- GOV-02.1 - Exception Management
 - GOV-03 - Periodic Review & Update of Security, Compliance & Resilience Program
 - GOV-04 - Assigned Security, Compliance & Resilience Responsibilities
 - GOV-05 - Measures of Performance
@@ -135,6 +137,6 @@ Violations of this policy may result in disciplinary action, contract suspension
 | --- | ------------- | ------------- | -------- |
 | - | Policy created | September 2025 | M Machin |
 | 1.0 | Added 201 CMR 17.00 and NY SHIELD Act to References | April 2026 | M Machin |
-| 2.0 | Updated and approved for 2026 | July 2026 | M Machin |
+| 2.0 | Addition of GOV-02.1 in #3.2; Updated and approved for 2026 | July 2026 | M Machin |
 
 ![Internal Use Only](../../../assets/DCH-Internal.jpg)
