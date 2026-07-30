@@ -79,6 +79,14 @@ All user sessions must be actively controlled. Systems must enforce session time
 
 ---
 
+### 3.7 Privileged Account Management
+
+
+
+- **SCF Mapping:** IAC-15.9 (*Emergency Access*), IAC-16 (*Privileged Account Management (PAM)*), IAC-21 (*Least Privilege*).  
+
+---
+
 ## 4. Compliance & Governance
 
 - Subsidiaries must maintain evidence (e.g., access review attestations, MFA logs, provisioning/deprovisioning records) to demonstrate compliance with this policy.  
@@ -118,6 +126,7 @@ Violations of this policy may result in disciplinary action, up to and including
 - IAC-10.1 – Password-Based Authentication
 - IAC-15 – Account Management
 - IAC-15.9 – Emergency Accounts
+- IAC-16 - Privileged Account Management (PAM)
 - IAC-17 – Periodic Review of Account Privileges
 - IAC-20 – Access Enforcement
 - IAC-20.6 – Revocation of Access Authorizations

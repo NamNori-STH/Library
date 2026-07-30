@@ -25,8 +25,9 @@ export default defineConfig({
 						{
 						label: 'Policies',
 						items: [
-							{ label: 'Acceptable Use Policy', slug: 'departments/hr/policies/acceptableuse' },
-							{ label: 'Floating Holiday', slug: 'departments/hr/policies/floatingholiday' },							
+							{ label: 'Acceptable', slug: 'departments/hr/policies/acceptableuse' },
+							{ label: 'Floating Holiday', slug: 'departments/hr/policies/floatingholiday' },	
+							{ label: 'International Travel', slug: 'departments/hr/policies/internationaltravel' },														
 						]
 						},
 						{
@@ -45,35 +46,6 @@ export default defineConfig({
 						label: 'Forms',
 						items: [
 							//{ label: 'Policies', slug: 'departments/hr/policies/' },
-						]
-						},
-					],
-					},
-					{
-					label: 'Finance',
-					items: [
-						{
-						label: 'Policies',
-						items: [
-							//{ label: 'Policies', slug: 'departments/finance/policies/' },
-						]
-						},
-						{
-						label: 'Procedures',
-						items: [
-							//{ label: 'Policies', slug: 'departments/finance/policies/' },
-						]
-						},
-						{
-						label: 'Guides',
-						items: [
-							//{ label: 'Policies', slug: 'departments/finance/policies/' },
-						]
-						},
-						{
-						label: 'Forms',
-						items: [
-							//{ label: 'Policies', slug: 'departments/finance/policies/' },
 						]
 						},
 					],
