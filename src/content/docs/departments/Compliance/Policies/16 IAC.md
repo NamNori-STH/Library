@@ -29,61 +29,85 @@ This policy applies to all subsidiaries, systems, applications, endpoints, and i
 
 ## 3. Policy
 
-### 3.1 Account Management
+### 3.1 Identity & Access Management
 
-All user, service, and system accounts must be uniquely identifiable, provisioned through documented approvals, and promptly deactivated when no longer required. Shared accounts are prohibited unless approved through formal exception with compensating controls. Emergency access accounts (commonly referred to as "break glass" accounts) are a recognized exception category: they may be configured as shared accounts with permanent privileged assignments where operationally necessary, provided that a formal procedure documents the account's purpose, access controls, authorized custodians, and compensating controls including comprehensive monitoring and alerting. Orphaned and inactive accounts must be detected and removed through automated or manual reviews.  
+STH will establish and maintain a formal Identity & Access Management (IAM) program to govern the identification, authentication, authorization, and lifecycle management of all user, service, and system accounts across the enterprise. The program defines the policies, standards, and procedures subsidiaries must implement to ensure that access to systems, applications, and data is granted only to authorized individuals and processes, consistent with the principle of least privilege.
 
-- **SCF Mapping:** IAC-01 (*Identity & Access Management (IAM)*), IAC-15 (*Account Management*), IAC-15.9 (*Emergency Accounts*).  
-
----
-
-### 3.2 Authentication
-
-Multi-Factor Authentication (MFA) is required for **all accounts**, without exception. This includes standard user accounts, privileged accounts, service accounts, and third-party accounts. MFA must be enforced at the identity provider level (e.g., SSO, directory services) and integrated into subsidiary systems to ensure consistent coverage.  
-
-Passwords and authenticators must follow enterprise standards for complexity, expiration, and secure storage. Authentication mechanisms must resist replay, brute-force, and phishing attacks, and must not allow vendor-supplied defaults or insecure recovery mechanisms. Systems must enforce automatic account lockout after a defined number of consecutive unsuccessful authentication attempts, consistent with 201 CMR 17.00 §17.04(1)(e).  
-
-- **SCF Mapping:** IAC-02 (*Identification & Authentication for Organizational Users*), IAC-02.2 (*Replay-Resistant Authentication*), IAC-06 (*Multi-Factor Authentication (MFA)*), IAC-09 (*Identifier Management (User Names)*), IAC-10 (*Authenticator Management*), IAC-10.1 (*Password-Based Authentication*).  
+- **SCF Mapping:** IAC-01 (*Identity & Access Management (IAM)*).
 
 ---
 
-### 3.3 Role-Based & Attribute-Based Access Control
+### 3.2 Identification & Authentication for Organizational Users
 
-Subsidiaries must implement role-based access control (RBAC) or attribute-based access control (ABAC) where feasible. Privileges must align with job responsibilities and be limited to the minimum necessary. Privileged access must be time-bound, tightly scoped, and subject to enhanced approval and monitoring.  Documented exceptions to time-bound privileged access are permissible where operationally justified — such as emergency access accounts that must remain accessible when just-in-time activation mechanisms are themselves unavailable — provided that compensating controls are in place and the exception is formally risk-accepted and reviewed periodically.
+STH requires that all organizational users, and processes acting on behalf of users, be uniquely identified and centrally Authenticated, Authorized, and Audited (AAA) prior to being granted access to any system, application, or data. Centralized identity services (e.g., directory services, single sign-on) must serve as the authoritative source of identity across subsidiary environments to ensure consistent enforcement of authentication and access control requirements.
+
+- **SCF Mapping:** IAC-02 (*Identification & Authentication for Organizational Users*).  
+
+---
+
+### 3.3 Multi-Factor Authentication (MFA)
+
+Multi-Factor Authentication (MFA) is required for **all accounts**, without exception. This includes standard user accounts, privileged accounts, service accounts, and third-party accounts. MFA must be enforced at the identity provider level (e.g., SSO, directory services) and integrated into subsidiary systems to ensure consistent coverage. Authentication mechanisms must resist replay, brute-force, and phishing attacks.  
+
+- **SCF Mapping:** IAC-06 (*Multi-Factor Authentication (MFA)*).  
+
+---
+
+### 3.4 User Provisioning & Deprovisioning
+
+All user, service, and system accounts must be provisioned through a formal registration process requiring documented managerial approval prior to account creation. Accounts must be uniquely identifiable and limited to an authorized account type appropriate to their purpose (e.g., individual, group, system, service, application, guest, or temporary); prohibited account types must not be created. Accounts must be promptly de-provisioned when no longer required, and orphaned or inactive accounts must be identified and removed through automated or manual reviews.  
+
+- **SCF Mapping:** IAC-07 (*User Provisioning & De-Provisioning*), IAC-15 (*Account Management*).  
+
+---
+
+### 3.5 Role-Based Access Control
+
+Subsidiaries must implement role-based access control (RBAC) or attribute-based access control (ABAC) where feasible. Privileges must align with job responsibilities and be limited to the minimum necessary. Privileged access must be time-bound, tightly scoped, and subject to enhanced approval and monitoring. Documented exceptions to time-bound privileged access are permissible where operationally justified — such as emergency access accounts that must remain accessible when just-in-time activation mechanisms are themselves unavailable — provided that compensating controls are in place and the exception is formally risk-accepted and reviewed periodically.
 
 - **SCF Mapping:** IAC-08 (*Role-Based Access Control (RBAC)*), IAC-21 (*Least Privilege*), IAC-29 (*Attribute-Based Access Control (ABAC)*).  
 
 ---
 
-### 3.4 Access Enforcement & Revocation
+### 3.6 Authenticator Management
 
-System access must be enforced according to defined authorizations. Access rights must be revoked immediately upon employee termination, role change, or contract end. Automated processes should ensure timely deprovisioning.  
+Each account must be assigned a unique identifier (e.g., username) that is not reused or reassigned to another individual, service, or system, and identifier naming standards must be documented and applied consistently across subsidiary environments. Authenticators must be securely managed throughout their lifecycle, and the strength of the required authentication mechanism must be commensurate with the classification of the data being accessed. Passwords must meet enterprise standards for complexity, length, and lifespan, and must not rely on vendor-supplied defaults or insecure recovery mechanisms. Systems must enforce automatic account lockout after a defined number of consecutive unsuccessful authentication attempts, consistent with 201 CMR 17.00 §17.04(1)(e).  
 
-- **SCF Mapping:** IAC-20 (*Access Enforcement*), IAC-20.6 (*Revocation of Access Authorizations*).  
-
----
-
-### 3.5 Periodic Access Reviews
-
-Managers must review user access rights at least quarterly to validate that access remains appropriate. Reviews must focus on high-risk accounts such as privileged, service, or shared accounts. Findings must be documented, and inappropriate access must be removed immediately.  
-
-- **SCF Mapping:** IAC-17 (*Periodic Review of Account Privileges*).  
-
----
-
-### 3.6 Session Management
-
-All user sessions must be actively controlled. Systems must enforce session timeouts after periods of inactivity, require reauthentication for sensitive transactions, and terminate sessions after maximum defined durations. Concurrent sessions must be restricted where possible.  
-
-- **SCF Mapping:** IAC-24 (*Session Lock*), IAC-25 (*Session Termination*).  
+- **SCF Mapping:** IAC-09 (*Identifier Management (User Names)*), IAC-10 (*Authenticator Management*), IAC-10.1 (*Password-Based Authentication*), IAC-22 (*Account Lockout*).  
 
 ---
 
 ### 3.7 Privileged Account Management
 
+Privileged accounts — including system, database, network, and cloud administrator accounts — must be identified, inventoried, and subject to controls beyond those applied to standard user accounts. Privileged access must be granted only to individuals whose job duties require it, scoped to the minimum necessary functions, and activated on a just-in-time basis where technically feasible. All privileged account activity must be logged and monitored for anomalous or unauthorized use, with alerts routed to designated security personnel.
 
+Emergency access ("break-glass") accounts are governed as a distinct, formally documented category of privileged account for use only when normal privileged access mechanisms are unavailable. Break-glass accounts may be configured as shared accounts with permanent privileged assignments where operationally necessary, provided that a formal procedure documents the account's purpose, authorized custodians, and compensating controls, including dedicated monitoring, alerting, and mandatory post-use credential rotation.
 
-- **SCF Mapping:** IAC-15.9 (*Emergency Access*), IAC-16 (*Privileged Account Management (PAM)*), IAC-21 (*Least Privilege*).  
+- **SCF Mapping:** IAC-16 (*Privileged Account Management (PAM)*), IAC-15.9 (*Emergency Accounts*).  
+
+---
+
+### 3.8 Access Enforcement & Revocation
+
+System access must be enforced according to defined authorizations and the principle of least privilege. Access rights must be revoked immediately upon employee termination, role change, or contract end. Automated processes should be used to ensure timely and complete deprovisioning of both logical and physical access.
+
+- **SCF Mapping:** IAC-20 (*Access Enforcement*), IAC-20.6 (*Revocation of Access Authorizations*).  
+
+---
+
+### 3.9 Periodic Access Reviews
+
+Managers must review user access rights at least quarterly to validate that access remains appropriate. Reviews must focus on high-risk accounts such as privileged, service, or shared accounts. Findings must be documented, and inappropriate access must be removed immediately.
+
+- **SCF Mapping:** IAC-17 (*Periodic Review of Account Privileges*).  
+
+---
+
+### 3.10 Session Management
+
+All user sessions must be actively controlled. Systems must enforce session timeouts after periods of inactivity, require reauthentication for sensitive transactions, and terminate sessions after maximum defined durations. Concurrent sessions must be restricted where possible.
+
+- **SCF Mapping:** IAC-24 (*Session Lock*), IAC-25 (*Session Termination*).  
 
 ---
 
@@ -118,8 +142,8 @@ Violations of this policy may result in disciplinary action, up to and including
 
 - IAC-01 – Identity & Access Management (IAM)
 - IAC-02 – Identification & Authentication for Organizational Users
-- IAC-02.2 – Replay-Resistant Authentication
 - IAC-06 – Multi-Factor Authentication (MFA)
+- IAC-07 – User Provisioning & De-Provisioning
 - IAC-08 – Role-Based Access Control (RBAC)
 - IAC-09 – Identifier Management (User Names)
 - IAC-10 – Authenticator Management
@@ -131,9 +155,10 @@ Violations of this policy may result in disciplinary action, up to and including
 - IAC-20 – Access Enforcement
 - IAC-20.6 – Revocation of Access Authorizations
 - IAC-21 – Least Privilege
+- IAC-22 – Account Lockout
 - IAC-24 – Session Lock
 - IAC-25 – Session Termination
-- IAC-29 – Attribute-Based Access Control (ABAC)  
+- IAC-29 – Attribute-Based Access Control (ABAC)
 
 ---
 
