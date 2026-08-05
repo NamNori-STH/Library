@@ -87,7 +87,7 @@ Subsidiaries must maintain situational awareness of incident activity through co
 
 All incidents must be reported to appropriate stakeholders in a timely manner. Internal notifications must escalate through security and executive leadership, while external notifications (e.g., regulators, partners, customers) must follow legal and contractual requirements. For incidents involving a potential breach of unsecured PHI or ePHI, notification obligations are governed by the STH Breach Notification Procedure.
 
-- **SCF Mapping:** IRO-10 (*Incident Stakeholder Reporting*), IRO-10.2 (*Cyber Incident Reporting for Sensitive Data*), IRO-04.1 (*Data Breach*)  
+- **SCF Mapping:** IRO-10 (*Incident Stakeholder Reporting*), IRO-10.2 (*Cyber Incident Reporting for Sensitive / Regulated Data*), IRO-04.1 (*Data Breach*)  
 
 ---
 
@@ -147,7 +147,7 @@ Failure to comply with this policy may result in disciplinary action, suspension
 - IRO-08 – Chain of Custody & Forensics
 - IRO-09 – Situational Awareness For Incidents
 - IRO-10 – Incident Stakeholder Reporting
-- IRO-10.2 – Cyber Incident Reporting for Sensitive Data
+- IRO-10.2 – Cyber Incident Reporting for Sensitive / Regulated Data
 - IRO-13 – Root Cause Analysis (RCA) & Lessons Learned
 - IRO-14 – Regulatory & Law Enforcement Contacts
 
@@ -160,5 +160,6 @@ Failure to comply with this policy may result in disciplinary action, suspension
 | - | Policy created | October 2025 | M Machin |
 | 1.0 | Added Breach Notification Procedure reference to §3.8; added §164.400–414, IRO-04.1, IRO-10.2 to References | April 2026 | M Machin |
 | 2.0 | Updated and approved for 2026 | July 2026 | M Machin |
+| 2.1 | Corrected IRO-10.2 control name to "Cyber Incident Reporting for Sensitive / Regulated Data" per current SCF naming | August 2026 | M Machin |
 
 ![Internal Use Only](../../../assets/DCH-Internal.jpg)

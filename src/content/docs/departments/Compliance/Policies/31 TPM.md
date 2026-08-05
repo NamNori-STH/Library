@@ -1,14 +1,14 @@
 ---
-title: Third Party Management
+title: Third-Party Management
 ---
 
 **Organization:** Summit Technology Holdings, LLC (STH)  
 **Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange360, LLC)  
-**Framework Reference:** Secure Controls Framework (SCF) – Third Party Management (TPM)
+**Framework Reference:** Secure Controls Framework (SCF) – Third-Party Management (TPM)
 
 **Subsidiary References:**
 
-- Not applicable – Third Party Management is centrally managed by Summit Technology Holdings, LLC.  
+- Not applicable – Third-Party Management is centrally managed by Summit Technology Holdings, LLC.  
 
 ---
 
@@ -129,5 +129,6 @@ Violations of this policy may result in disciplinary action, up to and including
 | - | Policy created | September 2025 | M Machin |
 | 1 | updated to add 201 CMR 17.00 to References | April 2026 | M Machin |
 | 1.0 | Updated and approved for 2026 | July 2026 | M Machin |
+| 1.1 | Corrected domain name to "Third-Party Management" (hyphenated) to align with current SCF domain naming | August 2026 | M Machin |
 
 ![Internal Use Only](../../../assets/DCH-Internal.jpg)

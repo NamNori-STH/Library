@@ -1,15 +1,15 @@
 ---
-title: Artificial & Autonomous Technologies
+title: Artificial Intelligence & Autonomous Technologies
 ---
 
 **Organization:** Summit Technology Holdings, LLC (STH)  
 **Scope:** All subsidiaries and affiliates (e.g., FrontRunnerHC, Inc. and LabXChange360, LLC)  
-**Framework Reference:** Secure Controls Framework (SCF) – Artificial & Autonomous Technologies (AAT)
+**Framework Reference:** Secure Controls Framework (SCF) – Artificial Intelligence & Autonomous Technologies (AAT)
 
 **Subsidiary References:**  
 
-- <a href="https://library.labxchange360.com/departments/compliance/standards/02-aat/" target="_blank" rel="noopener noreferrer">LabXChange360, LLC – Artificial & Autonomous Technologies Standard</a>  
-- <a href="https://library.frhc.com/departments/information-security/standards/02-aat/" target="_blank" rel="noopener noreferrer">FrontRunnerHC, Inc – Artificial & Autonomous Technologies Standard</a>  
+- <a href="https://library.labxchange360.com/departments/compliance/standards/02-aat/" target="_blank" rel="noopener noreferrer">LabXChange360, LLC – Artificial Intelligence & Autonomous Technologies Standard</a>  
+- <a href="https://library.frhc.com/departments/information-security/standards/02-aat/" target="_blank" rel="noopener noreferrer">FrontRunnerHC, Inc – Artificial Intelligence & Autonomous Technologies Standard</a>  
 
 ---
 

@@ -143,7 +143,7 @@ Violations of this policy may result in disciplinary action, up to and including
 
 **Framework Alignment:**  
 
-- BCD-01 – Business Continuity Management System  
+- BCD-01 – Business Continuity Management System (BCMS)  
 - BCD-02 – Identify Critical Assets  
 - BCD-03 – Contingency Training  
 - BCD-04 – Contingency Plan Testing & Exercises  
@@ -163,5 +163,6 @@ Violations of this policy may result in disciplinary action, up to and including
 | --- | ------------- | ------------- | ------- |
 | - | Policy created | September 2025 | M Machin |
 | 1.0 | Updated and approved for 2026 | July 2026 | M Machin |
+| 1.1 | Corrected BCD-01 control name to include "(BCMS)" per current SCF naming | August 2026 | M Machin |
 
 ![Internal Use Only](../../../assets/DCH-Internal.jpg)

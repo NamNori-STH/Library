@@ -52,7 +52,7 @@ STH will oversee the implementation and operation of cybersecurity and data prot
 
 STH will conduct periodic internal and external compliance assessments to verify adherence to statutory, regulatory, and contractual obligations. Independent assessors will be engaged when required (e.g., SOC 2 audits, HIPAA compliance reviews). Assessment results will be documented, communicated to executive leadership, and remediated on a timely basis.  
 
-- **SCF Mapping:** CPL-03 (*Security, Compliance & Resilience Assessments*)  
+- **SCF Mapping:** CPL-03 (*Control Conformity Monitoring*)  
 
 ---
 
@@ -92,7 +92,7 @@ Violations of this policy, including failure to comply with compliance oversight
 
 - CPL-01 – Statutory, Regulatory & Contractual Compliance  
 - CPL-02 – Security, Compliance & Resilience Controls Oversight  
-- CPL-03 – Security, Compliance & Resilience Assessments  
+- CPL-03 – Control Conformity Monitoring  
 
 ---
 
@@ -103,5 +103,6 @@ Violations of this policy, including failure to comply with compliance oversight
 | - | Policy created | September 2025 | M Machin |
 | 1.0 | §3.1 updated to explicitly reference 201 CMR 17.00; 201 CMR 17.00 citation added to References | April 2026 | M Machin |
 | 2.0 | Updated and approved for 2026 | July 2026 | M Machin |
+| 2.1 | Corrected CPL-03 control name to "Control Conformity Monitoring" per current SCF naming | August 2026 | M Machin |
 
 ![Internal Use Only](../../../assets/DCH-Internal.jpg)

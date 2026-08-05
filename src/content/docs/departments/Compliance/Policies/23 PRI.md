@@ -47,7 +47,7 @@ Subsidiaries must provide clear and accessible privacy notices that inform indiv
 
 Individuals must be given appropriate choice and the ability to provide informed consent for the collection and use of their personal data. Consent must be obtained in accordance with regulatory requirements and must be withdrawable at any time without penalty.  
 
-- **SCF Mapping:** PRI-03 (*Choice & Consent*)  
+- **SCF Mapping:** PRI-03 (*Data Subject Consent*)  
 
 ---
 
@@ -55,7 +55,7 @@ Individuals must be given appropriate choice and the ability to provide informed
 
 Subsidiaries may only collect personal data for legitimate and explicitly defined purposes. Data collection must be limited to what is necessary to achieve those purposes, and re-use of collected data must be documented and authorized. For PHI handled under a Business Associate Agreement, this requirement encompasses the HIPAA minimum necessary standard: subsidiaries must make reasonable efforts to use, disclose, and request only the minimum amount of PHI necessary to accomplish the intended purpose of the use, disclosure, or request.
 
-- **SCF Mapping:** PRI-04 (*Restrict Collection To Identified Purpose*)  
+- **SCF Mapping:** PRI-04 (*Restrict Collection, Processing & Sharing To Identified Purpose*)  
 
 ---
 
@@ -120,8 +120,8 @@ Failure to comply with this policy may result in disciplinary action, loss of ac
 - PRI-01 – Data Privacy Program
 - PRI-01.1 – Chief Privacy Officer (CPO)
 - PRI-02 – Data Privacy Notice
-- PRI-03 – Choice & Consent
-- PRI-04 – Restrict Collection To Identified Purpose
+- PRI-03 – Data Subject Consent
+- PRI-04 – Restrict Collection, Processing & Sharing To Identified Purpose
 - PRI-05 – Personal Data (PD) Retention & Disposal
 - PRI-06 – Data Subject Empowerment
 - PRI-07 – Information Sharing With Third Parties
@@ -136,5 +136,6 @@ Failure to comply with this policy may result in disciplinary action, loss of ac
 | - | Policy created | September 2025 | M Machin |
 | 1.0 | Updated HIPAA citations to BA-applicable provisions (§164.502, §164.514(d)) | April 2026 | M Machin |
 | 2.0 | Updated and approved for 2026 | July 2026 | M Machin |
+| 2.1 | Corrected PRI-03 control name to "Data Subject Consent" and PRI-04 to "Restrict Collection, Processing & Sharing To Identified Purpose" per current SCF naming | August 2026 | M Machin |
 
 ![Internal Use Only](../../../assets/DCH-Internal.jpg)
