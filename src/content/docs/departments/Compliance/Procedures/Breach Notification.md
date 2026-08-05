@@ -119,7 +119,7 @@ Corporate Legal Counsel is responsible for identifying all applicable state AG a
 | Rhode Island | 500+ RI residents | Without unreasonable delay |
 | South Dakota | 250+ SD residents | Without unreasonable delay |
 
-**Consumer Reporting Agency (CRA) notification:** When a breach requires notification to 500 or more New York residents, or 1,000 or more Kansas residents, all nationwide consumer reporting agencies (Equifax, Experian, TransUnion) must be notified of the timing, distribution, and content of the individual notices. Notification to the CRAs must be made without unreasonable delay following the issuance of individual notices. Corporate Legal Counsel will draft and transmit CRA notifications as part of the breach response.
+**Consumer Reporting Agency (CRA) notification:** When a breach requires notification to 500 or more New York residents, 1,000 or more Kansas residents, or 1,000 or more Oklahoma residents, all nationwide consumer reporting agencies (Equifax, Experian, TransUnion) must be notified of the timing, distribution, and content of the individual notices. Notification to the CRAs must be made without unreasonable delay following the issuance of individual notices. Corporate Legal Counsel will draft and transmit CRA notifications as part of the breach response.
 
 **New York — additional regulatory recipients:** Whenever any New York residents are affected by a reportable breach, notification must be made simultaneously to the New York Attorney General, the New York State Division of State Police, and the New York Department of Financial Services (DFS). A single filing may satisfy the AG notification requirement; the State Police and DFS must receive separate concurrent notice.
 
@@ -135,7 +135,7 @@ The following authorities may be contacted in the event of a breach involving cr
 | US Cybersecurity and Infrastructure Security Agency (CISA) | [cisa.gov/report](https://www.cisa.gov/report) |
 | HHS Office for Civil Rights — Breach Reporting | [hhs.gov/hipaa/for-professionals/breach-notification/breach-reporting](https://www.hhs.gov/hipaa/for-professionals/breach-notification/breach-reporting/index.html) |
 | Applicable state Attorneys General | See §3.4.5 and Appendix A for state-specific AG notification requirements and thresholds |
-| Nationwide Consumer Reporting Agencies (Equifax, Experian, TransUnion) | Required for NY (500+ residents) and KS (1,000+ residents); see §3.4.5 |
+| Nationwide Consumer Reporting Agencies (Equifax, Experian, TransUnion) | Required for NY (500+ residents), KS (1,000+ residents), and OK (1,000+ residents); see §3.4.5 |
 | New York Division of State Police | Required for all NY resident breaches, simultaneously with individual and AG notice |
 | New York Department of Financial Services (DFS) | Required for all NY resident breaches, simultaneously with individual and AG notice |
 
@@ -198,6 +198,7 @@ Following resolution of each breach, Corporate Legal Counsel and the CIO — in 
     - Texas Bus. & Com. Code §521.053 (30-day; AG notification for all breaches; Texas Medical Records Privacy Act, Health & Safety Code §181)
     - Washington RCW §19.255.010 (30-day; AG notification for all breaches; My Health My Data Act, RCW Ch. 19.373)
     - Kansas K.S.A. §§50-7a01–50-7a02 (expedient; AG and CRA notification for 1,000+)
+    - Oklahoma Security Breach Notification Act, Okla. Stat. tit. 24, §§161–166, as substantially amended by SB 626 (eff. Jan. 1, 2026) (60-day AG notification for 500+ residents; CRA notification for 1,000+ residents; expanded PI definition — see Appendix A note)
 
 - **Parent Policy:**
   - Summit Technology Holdings – Incident Response Policy (17 IRO)
@@ -221,6 +222,7 @@ Following resolution of each breach, Corporate Legal Counsel and the CIO — in 
 | 1.0 | Initial STH-level procedure | April 2026 | M Machin |
 | 2.0 | Added state-specific notification requirements | April 2026 | M Machin |
 | 3.0 | Reviewed and approved for 2026 | July 2026 | M Machin |
+| 4.0 | Legal currency review confirmed California SB 446 and Oklahoma SB 626 (both eff. Jan 1, 2026); Reviewd & approved for 2026 | August 2026 | M Machin |
 
 ---
 
@@ -233,7 +235,7 @@ This matrix provides a quick-reference summary of individual notification timeli
 - "Expedient" = no specific statutory deadline; notification must occur in the most expedient time possible and without unreasonable delay.
 - "HIPAA Safe Harbor" indicates whether the state expressly deems HIPAA-compliant entities to be in compliance with the state breach notification law. "Full" = covers the entire notification obligation (including timing). "Partial" = covers content requirements only; timeline and/or AG notification obligations may still apply independently.
 - States marked with ⚠️ in the Risk column are High Risk: their requirements are not fully satisfied by HIPAA compliance and require independent action.
-- This matrix reflects law as of April 2026. Corporate Legal Counsel must verify current requirements at the time of each breach. State laws change frequently.
+- This matrix was last reviewed for legal currency in August 2026 (confirmed no material 2026 state-law changes beyond California SB 446 and Oklahoma SB 626, both already reflected below). Corporate Legal Counsel must verify current requirements at the time of each breach. State laws change frequently.
 
 | State | Individual Notice Deadline | HIPAA Safe Harbor | Medical/Health Data in PI Definition | AG Notification Required | AG Threshold | CRA Notification | Risk |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -272,7 +274,7 @@ This matrix provides a quick-reference summary of individual notification timeli
 | North Carolina | Expedient | Full | No | Yes | All breaches (simultaneously) | No | Medium |
 | North Dakota | Expedient | Full | No | Yes | 250+ residents | No | Medium |
 | Ohio | 45 days | Full (Ohio Cybersecurity Safe Harbor Act) | No | Yes | 500+ residents | No | Medium |
-| Oklahoma | 60 days | Full | No | Yes | 500+ residents (eff. Jan 1, 2026; within 60 days of individual notice) | No | Medium |
+| **Oklahoma** ⚠️ | 60 days | Full (verify — SB 626 adds a "reasonable safeguards" affirmative defense to civil penalties) | No — but PI definition broadened by SB 626 (eff. Jan 1, 2026) to include government-issued ID numbers, unique electronic identifiers, and biometric data | Yes | 500+ residents (within 60 days of individual notice) | Yes — 1,000+ residents (nationwide CRAs) | **High** |
 | Oregon | 45 days | Full (verify timeline scope) | Yes — health insurance info | Yes | 250+ residents | No | Medium |
 | Pennsylvania | Expedient | Full | No | Yes | 500+ residents | No | Medium |
 | Rhode Island | 45 days | Full (verify timeline scope) | Yes — healthcare info | Yes | 500+ residents | No | Medium |
@@ -288,7 +290,7 @@ This matrix provides a quick-reference summary of individual notification timeli
 | Wisconsin | 45 days | Full (HIPAA-compliant entities deemed in compliance) | No | No | N/A | No | Medium |
 | Wyoming | Expedient | Full | No | No | N/A | No | Low |
 
-**High Risk States Requiring Immediate Legal Counsel Review:** California, Colorado, Delaware, Florida, Maine, New York, Texas, Washington.
+**High Risk States Requiring Immediate Legal Counsel Review:** California, Colorado, Delaware, Florida, Maine, New York, Oklahoma, Texas, Washington.
 
 **States Where HIPAA Safe Harbor Scope Should Be Verified by Legal Counsel:** Alabama, Arizona, Montana, Nevada, New Jersey, New Mexico, Oregon, Rhode Island, Vermont, West Virginia, Wisconsin — these states have timelines shorter than 60 days but are believed to have full HIPAA safe harbors; confirmation should be obtained and documented.
 
