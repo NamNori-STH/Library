@@ -160,6 +160,5 @@ Failure to comply with this policy may result in disciplinary action, suspension
 | - | Policy created | October 2025 | M Machin |
 | 1.0 | Added Breach Notification Procedure reference to §3.8; added §164.400–414, IRO-04.1, IRO-10.2 to References | April 2026 | M Machin |
 | 2.0 | Updated and approved for 2026 | July 2026 | M Machin |
-| 2.1 | Corrected IRO-10.2 control name to "Cyber Incident Reporting for Sensitive / Regulated Data" per current SCF naming | August 2026 | M Machin |
 
 ![Internal Use Only](../../../assets/DCH-Internal.jpg)

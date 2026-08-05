@@ -103,6 +103,5 @@ Violations of this policy, including failure to comply with compliance oversight
 | - | Policy created | September 2025 | M Machin |
 | 1.0 | §3.1 updated to explicitly reference 201 CMR 17.00; 201 CMR 17.00 citation added to References | April 2026 | M Machin |
 | 2.0 | Updated and approved for 2026 | July 2026 | M Machin |
-| 2.1 | Corrected CPL-03 control name to "Control Conformity Monitoring" per current SCF naming | August 2026 | M Machin |
 
 ![Internal Use Only](../../../assets/DCH-Internal.jpg)

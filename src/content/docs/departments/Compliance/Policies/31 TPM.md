@@ -127,8 +127,7 @@ Violations of this policy may result in disciplinary action, up to and including
 | Rev | Description | Date | Approved |
 | --- | ------------- | ------------- | -------- |
 | - | Policy created | September 2025 | M Machin |
-| 1 | updated to add 201 CMR 17.00 to References | April 2026 | M Machin |
-| 1.0 | Updated and approved for 2026 | July 2026 | M Machin |
-| 1.1 | Corrected domain name to "Third-Party Management" (hyphenated) to align with current SCF domain naming | August 2026 | M Machin |
+| 1.0 | updated to add 201 CMR 17.00 to References | April 2026 | M Machin |
+| 2.0 | Updated and approved for 2026 | July 2026 | M Machin |
 
 ![Internal Use Only](../../../assets/DCH-Internal.jpg)

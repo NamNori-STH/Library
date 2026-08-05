@@ -136,6 +136,5 @@ Failure to comply with this policy may result in disciplinary action, loss of ac
 | - | Policy created | September 2025 | M Machin |
 | 1.0 | Updated HIPAA citations to BA-applicable provisions (§164.502, §164.514(d)) | April 2026 | M Machin |
 | 2.0 | Updated and approved for 2026 | July 2026 | M Machin |
-| 2.1 | Corrected PRI-03 control name to "Data Subject Consent" and PRI-04 to "Restrict Collection, Processing & Sharing To Identified Purpose" per current SCF naming | August 2026 | M Machin |
 
 ![Internal Use Only](../../../assets/DCH-Internal.jpg)
