@@ -48,6 +48,14 @@ STH and subsidiaries must maintain an up-to-date inventory of AI/AAT systems—i
 
 ---
 
+### 3.3 AI & Autonomous Training
+
+STH requires that personnel and external stakeholders involved in developing, deploying, or using AI/AAT systems receive position-specific training on AI and autonomous technology risk management, tailored to their role and level of exposure. Training must be provided upon hire and refreshed periodically.
+
+- **SCF Mapping:** AAT-05 (*AI & Autonomous Technologies Training*)
+
+---
+
 ## 4. Compliance & Governance
 
 - Evidence must be maintained (e.g., risk assessments, use-case approvals, inventories).  
@@ -77,6 +85,7 @@ Violations of this policy may result in disciplinary action, contract suspension
 
 - AAT-01 – Artificial Intelligence (AI) & Autonomous Technologies Governance  
 - AAT-02 – Situational Awareness of AI & Autonomous Technologies  
+- AAT-05 – AI & Autonomous Technologies Training  
 
 ---
 
@@ -86,5 +95,6 @@ Violations of this policy may result in disciplinary action, contract suspension
 | --- | ------------- | ------------- | -------- |
 | - | Policy created | September 2025 | M Machin |
 | 1.0 | Reviewed and approved for 2026 | July 2026 | M Machin |
+| 1.1 | Added Section 3.3 (AI & Autonomous Training) | August 2026 | M Machin |
 
 ![Internal Use Only](../../../assets/DCH-Internal.jpg)
